@@ -1,0 +1,6497 @@
+Code	Description
+01186	Pulmon TB NEC-oth test
+01190	Pulmonary TB NOS-unspec
+01193	Pulmon TB NOS-micro dx
+01194	Pulmon TB NOS-cult dx
+01205	TB pleurisy-histolog dx
+01215	TB thorax node-histo dx
+01300	TB meningitis-unspec
+0030	Salmonella enteritis
+0031	Salmonella septicemia
+0038	Salmonella infection NEC
+0039	Salmonella infection NOS
+0041	Shigella flexneri
+0048	Shigella infection NEC
+0049	Shigellosis NOS
+0051	Botulism food poisoning
+00581	Food poisn d/t v. vulnif
+0059	Food poisoning NOS
+0071	Giardiasis
+0074	Cryptosporidiosis
+00804	Int inf e coli entrhmrg
+00841	Staphylococc enteritis
+00843	Int infec campylobacter
+00845	Int inf clstrdium dfcile
+00847	Int inf oth grm neg bctr
+0085	Bacterial enteritis NOS
+00861	Intes infec rotavirus
+00862	Intes infec adenovirus
+00863	Int inf norwalk virus
+00869	Other viral intes infec
+0088	Viral enteritis NOS
+0090	Infectious enteritis NOS
+0091	Enteritis of infect orig
+0092	Infectious diarrhea NOS
+0093	Diarrhea of infect orig
+01085	Prim prg TB NEC-histo dx
+01123	TB lung w cavit-micro dx
+01136	TB of bronchus-oth test
+01164	TB pneumonia-cult dx
+0844	Malaria NEC
+0846	Malaria NOS
+0849	Malaria complicated NEC
+0859	Leishmaniasis NOS
+0860	Chagas disease of heart
+0880	Bartonellosis
+08881	Lyme disease
+08882	Babesiosis
+0912	Primary syphilis NEC
+09152	Syphilitic iridocyclitis
+09181	Acute syphil meningitis
+0919	Secondary syphilis NOS
+0931	Syphilitic aortitis
+0940	Tabes dorsalis
+0949	Neurosyphilis NOS
+096	Late syphilis latent
+0970	Late syphilis NOS
+0971	Latent syphilis NOS
+0979	Syphilis NOS
+0980	Acute gc infect lower gu
+04109	Other streptococcus
+04110	Staphylococcus unspcfied
+04111	Mth sus Stph aur els/NOS
+04112	MRSA elsewhere/NOS
+04119	Other staphylococcus
+0412	Pneumococcus infect NOS
+0413	Klebsiella pneumoniae
+04149	E.coli infection NEC/NOS
+0415	H. influenzae infect NOS
+0416	Proteus infection NOS
+0417	Pseudomonas infect NOS
+04182	Bacteroides fragilis
+04183	Clostridium perfringens
+04184	Other anaerobes
+04185	Oth gram negatv bacteria
+04186	Helicobacter pylori
+04189	Oth specf bacteria
+0419	Bacterial infection NOS
+042	Human immuno virus dis
+04590	Ac polio NOS-type NOS
+0463	Prog multifoc leukoencep
+04671	Gerstmn-Straus-Schnk syn
+0470	Coxsackie virus mening
+0478	Viral meningitis NEC
+0479	Viral meningitis NOS
+048	Oth enteroviral cns dis
+0490	Lymphocytic choriomening
+0491	Adenoviral meningitis
+0498	Viral encephalitis NEC
+0499	Viral encephalitis NOS
+0520	Postvaricella encephalit
+0521	Varicella pneumonitis
+0527	Varicella complicat NEC
+0529	Varicella uncomplicated
+0530	Herpes zoster meningitis
+05311	Geniculate herpes zoster
+05312	Postherpes trigem neural
+05313	Postherpes polyneuropath
+05314	Herpes zoster myelitis
+05319	H zoster nerv syst NEC
+05320	Herpes zoster of eyelid
+05329	Herpes zoster of eye NEC
+05371	H zoster otitis externa
+05379	H zoster complicated NEC
+0539	Herpes zoster NOS
+0540	Eczema herpeticum
+05410	Genital herpes NOS
+05412	Herpetic ulcer of vulva
+05413	Herpetic infect of penis
+05419	Genital herpes NEC
+0542	Herpetic gingivostomat
+0543	Herpetic encephalitis
+05440	Herpes simplex eye NOS
+05443	H simplex keratitis
+0545	Herpetic septicemia
+05471	Visceral herpes simplex
+05472	H simplex meningitis
+05479	H simplex complicat NEC
+0549	Herpes simplex NOS
+11289	Candidiasis site NEC
+01803	Ac miliary tb-micro dx
+01805	Ac miliary tb-histo dx
+01880	Miliary TB NEC-unspec
+01890	Miliary TB NOS-unspec
+0338	Whooping cough NEC
+0340	Strep sore throat
+035	Erysipelas
+0360	Meningococcal meningitis
+0362	Meningococcemia
+03641	Meningococc pericarditis
+0380	Streptococcal septicemia
+03810	Staphylcocc septicem NOS
+03811	Meth susc Staph aur sept
+03812	MRSA septicemia
+03819	Staphylcocc septicem NEC
+0382	Pneumococcal septicemia
+0383	Anaerobic septicemia
+03840	Gram-neg septicemia NOS
+03841	H. influenae septicemia
+03842	E coli septicemia
+03843	Pseudomonas septicemia
+03844	Serratia septicemia
+03849	Gram-neg septicemia NEC
+0388	Septicemia NEC
+0389	Septicemia NOS
+0391	Pulmonary actinomycosis
+0392	Abdominal actinomycosis
+0398	Actinomycosis NEC
+0400	Gas gangrene
+04082	Toxic shock syndrome
+04089	Bacterial diseases NEC
+04100	Streptococcus unspecf
+04101	Streptococcus group a
+04102	Streptococcus group b
+04103	Streptococcus group c
+04104	Enterococcus group d
+04105	Streptococcus group g
+01894	Miliary TB NOS-cult dx
+01895	Miliary TB NOS-histo dx
+01896	Miliary TB NOS-oth test
+0218	Tularemia NEC
+0239	Brucellosis NOS
+0270	Listeriosis
+0272	Pasteurellosis
+0279	Zoonotic bact dis NOS
+0309	Leprosy NOS
+0310	Pulmonary mycobacteria
+0311	Cutaneous mycobacteria
+0312	DMAC bacteremia
+0318	Mycobacterial dis NEC
+0319	Mycobacterial dis NOS
+03285	Cutaneous diphtheria
+03289	Diphtheria NEC
+0329	Diphtheria NOS
+01304	TB meningitis-cult dx
+01325	Tubrcloma brain-histo dx
+01330	TB brain abscess-unspec
+01354	TB sp crd absc-cult dx
+01402	TB peritonitis-exam unkn
+01405	TB peritonitis-histo dx
+01485	Intestin TB NEC-histo dx
+01504	TB of vertebra-cult dx
+01505	TB of vertebra-histo dx
+1598	Mal neo gi/intra-abd NEC
+1599	Mal neo GI tract ill-def
+1712	Mal neo soft tissue arm
+1713	Mal neo soft tissue leg
+1714	Mal neo soft tis thorax
+1715	Mal neo soft tis abdomen
+1716	Mal neo soft tis pelvis
+1717	Mal neopl trunk NOS
+1718	Mal neo soft tissue NEC
+1720	Malig melanoma lip
+1723	Mal melanom face NEC/NOS
+1724	Mal melanoma scalp/neck
+1725	Malig melanoma trunk
+1726	Malig melanoma arm
+1727	Malig melanoma leg
+1728	Malig melanoma skin NEC
+1729	Malig melanoma skin NOS
+17322	Squam cell ca skin ear
+17331	Bsl cel skn face NEC/NOS
+17332	Sqm cel skn face NEC/NOS
+17341	Bsl cell ca scalp/skn nk
+17342	Sqam cell ca sclp/skn nk
+1602	Mal neo maxillary sinus
+1603	Mal neo ethmoidal sinus
+1608	Mal neo access sinus NEC
+1609	Mal neo access sinus NOS
+1610	Malignant neo glottis
+1611	Malig neo supraglottis
+1612	Malig neo subglottis
+1613	Mal neo cartilage larynx
+1618	Malignant neo larynx NEC
+1619	Malignant neo larynx NOS
+1620	Malignant neo trachea
+1622	Malig neo main bronchus
+1623	Mal neo upper lobe lung
+1624	Mal neo middle lobe lung
+1625	Mal neo lower lobe lung
+1628	Mal neo bronch/lung NEC
+1629	Mal neo bronch/lung NOS
+1630	Mal neo parietal pleura
+1638	Malig neopl pleura NEC
+1639	Malig neopl pleura NOS
+1640	Malignant neopl thymus
+1641	Malignant neopl heart
+1642	Mal neo ant mediastinum
+1648	Mal neo mediastinum NEC
+1649	Mal neo mediastinum NOS
+1700	Mal neo skull/face bone
+1702	Malig neo vertebrae
+1703	Mal neo ribs/stern/clav
+1707	Mal neo long bones leg
+1710	Mal neo soft tissue head
+0993	Reiter's disease
+1100	Dermatophyt scalp/beard
+1101	Dermatophytosis of nail
+1103	Dermatophytosis of groin
+1104	Dermatophytosis of foot
+1105	Dermatophytosis of body
+1106	Deep dermatophytosis
+1108	Dermatophytosis site NEC
+1109	Dermatophytosis site NOS
+1110	Pityriasis versicolor
+1118	Dermatomycoses NEC
+1119	Dermatomycosis NOS
+1120	Thrush
+1121	Candidal vulvovaginitis
+1122	Candidias urogenital NEC
+1123	Cutaneous candidiasis
+1124	Candidiasis of lung
+1125	Disseminated candidiasis
+11281	Candidal endocarditis
+11283	Candidal meningitis
+11284	Candidal esophagitis
+11285	Candidal enteritis
+1129	Candidiasis site NOS
+1140	Primary coccidioidomycos
+1149	Coccidioidomycosis NOS
+11505	Histoplasm caps pneumon
+11519	Histoplasma duboisii NEC
+11590	Histoplasmosis NOS
+11599	Histoplasmosis NEC
+1160	Blastomycosis
+1173	Aspergillosis
+1174	Mycotic mycetomas
+1175	Cryptococcosis
+1177	Zygomycosis
+1179	Mycoses NEC & NOS
+118	Opportunistic mycoses
+1208	Schistosomiasis NEC
+1209	Schistosomiasis NOS
+1211	Clonorchiasis
+1228	Echinococcosis NOS liver
+1231	Cysticercosis
+1251	Malayan filariasis
+1270	Ascariasis
+1272	Strongyloidiasis
+1273	Trichuriasis
+1300	Toxoplasm meningoenceph
+1307	Toxoplasmosis site NEC
+1308	Multisystem toxoplasmos
+1309	Toxoplasmosis NOS
+13101	Trichomonal vaginitis
+13102	Trichomonal urethritis
+13109	Urogenital trichomon NEC
+1320	Pediculus capitis
+1329	Pediculosis NOS
+1330	Scabies
+1348	Infestation NEC
+135	Sarcoidosis
+1361	Behcet's syndrome
+1363	Pneumocystosis
+1369	Infect/parasite dis NOS
+1370	Late effect tb, resp/NOS
+1373	Late eff bone & joint TB
+138	Late effect acute polio
+1390	Late eff viral encephal
+1398	Late eff infect dis NEC
+1400	Mal neo upper vermilion
+1401	Mal neo lower vermilion
+1409	Mal neo lip/vermil NOS
+1410	Mal neo tongue base
+1414	Mal neo ant 2/3 tongue
+1418	Malig neo tongue NEC
+20240	Lk rtctl unsp xtrndl org
+20243	Hairy-cell leukem abdom
+0578	Viral exanthemata NEC
+0579	Viral exanthemata NOS
+05821	Human herpesvir 6 enceph
+05829	Human herpesvr encph NEC
+05881	Human herpesvirus 6 infc
+05889	Human herpesvirs inf NEC
+0622	East equine encephalitis
+06641	West Nile Fever w/enceph
+06642	West Nile neuro man NEC
+0700	Hepatitis A with coma
+0701	Hepatitis A w/o coma
+07020	Hpt B acte coma wo dlta
+07022	Hpt B chrn coma wo dlta
+07030	Hpt B acte wo cm wo dlta
+07031	Hpt B acte wo cm w dlta
+07032	Hpt B chrn wo cm wo dlta
+07033	Hpt B chrn wo cm w dlta
+07041	Hpt C acute w hepat Coma
+07044	Chrnc hpt C w hepat Coma
+07049	Oth vrl hepat w hpt coma
+07051	Hpt C acute wo hpat coma
+07052	Hpt dlt wo b wo hpt coma
+07053	Hpt E wo hepat Coma
+07054	Chrnc hpt C wo hpat coma
+07059	Oth vrl hpat wo hpt coma
+07070	Hpt C w/o hepat coma NOS
+07071	Hpt C w hepatic coma NOS
+0709	Viral hepat NOS w/o coma
+075	Infectious mononucleosis
+0778	Viral conjunctivitis NEC
+07799	Unsp ds conjuc viruses
+0780	Molluscum contagiosum
+07810	Viral warts NOS
+07811	Condyloma acuminatum
+07819	Oth specfd viral warts
+0785	Cytomegaloviral disease
+07889	Oth spec dis viruses
+0790	Adenovirus infect NOS
+0793	Rhinovirus infect NOS
+0794	Human papillomavirus
+07951	Htlv-1 infection oth dis
+07953	Hiv-2 infection oth dis
+0796	Resprtry syncytial virus
+07983	Parvovirus B19
+07989	Oth specf viral infectn
+07998	Chlamydial infection NOS
+07999	Viral infection NOS
+08240	Ehrlichiosis NOS
+08249	Ehrlichiosis NEC
+0839	Rickettsiosis NOS
+0840	Falciparum malaria
+1419	Malig neo tongue NOS
+1420	Malig neo parotid
+1429	Mal neo salivary NOS
+1430	Malig neo upper gum
+1431	Malig neo lower gum
+1439	Malig neo gum NOS
+1440	Mal neo ant floor mouth
+1448	Mal neo mouth floor NEC
+1449	Mal neo mouth floor NOS
+1450	Mal neo cheek mucosa
+1452	Malig neo hard palate
+1453	Malig neo soft palate
+1455	Malignant neo palate NOS
+1458	Malig neoplasm mouth NEC
+1460	Malignant neopl tonsil
+1461	Mal neo tonsillar fossa
+1463	Malign neopl vallecula
+1464	Mal neo ant epiglottis
+1467	Mal neo post oropharynx
+1468	Mal neo oropharynx NEC
+1469	Malig neo oropharynx NOS
+1471	Mal neo post nasopharynx
+1478	Mal neo nasopharynx NEC
+1479	Mal neo nasopharynx NOS
+1481	Mal neo pyriform sinus
+1488	Mal neo hypopharynx NEC
+1489	Mal neo hypopharynx NOS
+1490	Mal neo pharynx NOS
+1498	Mal neo oral/pharynx NEC
+1500	Mal neo cervical esophag
+1501	Mal neo thoracic esophag
+1503	Mal neo upper 3rd esoph
+1504	Mal neo middle 3rd esoph
+1505	Mal neo lower 3rd esoph
+1508	Mal neo esophagus NEC
+1509	Mal neo esophagus NOS
+1510	Mal neo stomach cardia
+1512	Mal neo pyloric antrum
+1513	Mal neo stomach fundus
+1514	Mal neo stomach body
+1515	Mal neo stom lesser curv
+1516	Mal neo stom great curv
+1518	Malig neopl stomach NEC
+1519	Malig neopl stomach NOS
+1520	Malignant neopl duodenum
+1521	Malignant neopl jejunum
+1522	Malignant neoplasm ileum
+1528	Mal neo small bowel NEC
+1529	Mal neo small bowel NOS
+1530	Mal neo hepatic flexure
+1531	Mal neo transverse colon
+1532	Mal neo descend colon
+1533	Mal neo sigmoid colon
+1534	Malignant neoplasm cecum
+1535	Malignant neo appendix
+1536	Malig neo ascend colon
+1537	Mal neo splenic flexure
+1538	Malignant neo colon NEC
+1539	Malignant neo colon NOS
+1540	Mal neo rectosigmoid jct
+1541	Malignant neopl rectum
+1542	Malig neopl anal canal
+1543	Malignant neo anus NOS
+1548	Mal neo rectum/anus NEC
+1550	Mal neo liver, primary
+1551	Mal neo intrahepat ducts
+1552	Malignant neo liver NOS
+1560	Malig neo gallbladder
+1561	Mal neo extrahepat ducts
+1562	Mal neo ampulla of vater
+1568	Malig neo biliary NEC
+1569	Malig neo biliary NOS
+1570	Mal neo pancreas head
+1571	Mal neo pancreas body
+1572	Mal neo pancreas tail
+1573	Mal neo pancreatic duct
+1574	Mal neo islet langerhans
+1578	Malig neo pancreas NEC
+1579	Malig neo pancreas NOS
+1580	Mal neo retroperitoneum
+1588	Mal neo peritoneum NEC
+1589	Mal neo peritoneum NOS
+20080	Oth varn unsp xtrndl org
+20148	Hodg lymph-histio mult
+20150	Ndr sclr unsp xtrndl org
+20152	Hodg nodul sclero thorax
+20158	Hodg nodul sclero mult
+25000	DMII wo cmp nt st uncntr
+25001	DMI wo cmp nt st uncntrl
+25002	DMII wo cmp uncntrld
+25003	DMI wo cmp uncntrld
+25010	DMII keto nt st uncntrld
+25011	DMI keto nt st uncntrld
+25012	DMII ketoacd uncontrold
+25013	DMI ketoacd uncontrold
+25020	DMII hprsm nt st uncntrl
+25021	DMI hprsm nt st uncntrld
+25542	Mineralcorticoid defcnt
+2555	Adrenal hypofunction NEC
+2558	Adrenal disorder NEC
+2559	Adrenal disorder NOS
+2561	Ovarian hyperfunc NEC
+25639	Ovarian failure NEC
+2564	Polycystic ovaries
+2571	Postablat testic hypofun
+2572	Testicular hypofunc NEC
+25801	Mult endo neoplas type I
+2581	Comb endocr dysfunct NEC
+2588	Polyglandul dysfunc NEC
+2589	Polyglandul dysfunc NOS
+2592	Carcinoid syndrome
+2594	Dwarfism NEC
+2598	Endocrine disorders NEC
+2599	Endocrine disorder NOS
+260	Kwashiorkor
+261	Nutritional marasmus
+262	Oth severe malnutrition
+2630	Malnutrition mod degree
+2631	Malnutrition mild degree
+2638	Protein-cal malnutr NEC
+2639	Protein-cal malnutr NOS
+2650	Beriberi
+2651	Thiamine defic NEC/NOS
+2652	Pellagra
+2662	B-complex defic NEC
+2669	Vitamin b deficiency NOS
+267	Ascorbic acid deficiency
+2682	Osteomalacia NOS
+2689	Vitamin D deficiency NOS
+2690	Deficiency of vitamin k
+2692	Vitamin Deficiency NOS
+2693	Mineral deficiency NEC
+2698	Nutrition deficiency NEC
+2699	Nutrition deficiency NOS
+2700	Amino-acid transport dis
+2702	Arom amin-acid metab NEC
+25022	DMII hprosmlr uncontrold
+25023	DMI hprosmlr uncontrold
+25030	DMII o cm nt st uncntrld
+25031	DMI o cm nt st uncntrld
+25032	DMII oth coma uncontrold
+25033	DMI oth coma uncontrold
+25040	DMII renl nt st uncntrld
+20190	Hdgk dis unsp xtrndl org
+20191	Hodgkins dis NOS head
+20192	Hodgkins dis NOS thorax
+20198	Hodgkins dis NOS mult
+20200	Ndlr lym unsp xtrndl org
+20201	Nodular lymphoma head
+20203	Nodular lymphoma abdom
+20205	Nodular lymphoma inguin
+20206	Nodular lymphoma pelvic
+20208	Nodular lymphoma mult
+20210	Mycs fng unsp xtrndl org
+20211	Mycosis fungoides head
+20213	Mycosis fungoides abdom
+20218	Mycosis fungoides mult
+20220	Szry dis unsp xtrndl org
+2355	Unc behav neo GI NEC
+2356	Unc behav neo larynx
+2357	Unc behav neo lung
+2360	Uncert behav neo uterus
+2362	Unc behav neo ovary
+2367	Unc behav neo bladder
+23691	Unc behav neo kidney
+2370	Unc behav neo pituitary
+2371	Unc behav neo pineal
+2373	Unc behav neo paragang
+2375	Unc beh neo brain/spinal
+2376	Unc behav neo meninges
+23770	Neurofibromatosis NOS
+23771	Neurofibromatosis type I
+23772	Neurofibromatosis typ II
+23773	Schwannomatosis
+2379	Unc beh neo nerv sys NEC
+2380	Unc behav neo bone
+2381	Unc behav neo soft tissu
+2382	Unc behav neo skin
+2384	Polycythemia vera
+2386	Plasmacytoma NOS
+23871	Essntial thrombocythemia
+23872	Low grde myelody syn les
+23873	Hi grde myelodys syn les
+23874	Myelodyspls syn w 5q del
+23875	Myelodysplastic synd NOS
+23876	Myelofi w myelo metaplas
+23877	Post tp lymphprolif dis
+23879	Lymph/hematpoitc tis NEC
+2388	Uncert behavior neo NEC
+2390	Digestive neoplasm NOS
+2391	Respiratory neoplasm NOS
+2392	Bone/skin neoplasm NOS
+2394	Bladder neoplasm NOS
+2395	Other gu neoplasm NOS
+2396	Brain neoplasm NOS
+2397	Endocrine/nerv neo NOS
+23989	Neoplasm other sites NOS
+2409	Goiter NOS
+2410	Nontox uninodular goiter
+2411	Nontox multinodul goiter
+2419	Nontox nodul goiter NOS
+24200	Tox dif goiter no crisis
+24201	Tox dif goiter w crisis
+24210	Tox uninod goit no cris
+24220	Tox multnod goit no cris
+24221	Tox multnod goit w cris
+24230	Tox nod goiter no crisis
+24280	Thyrtox orig NEC no cris
+24281	Thyrotox orig NEC w cris
+24290	Thyrotox NOS no crisis
+24291	Thyrotox NOS w crisis
+243	Congenital hypothyroidsm
+2440	Postsurgical hypothyroid
+2441	Postablat hypothyr NEC
+2442	Iodine hypothyroidism
+2443	Iatrogen hypothyroid NEC
+2448	Acquired hypothyroid NEC
+2449	Hypothyroidism NOS
+2452	Chr lymphocyt thyroidit
+2454	Iatrogenic thyroiditis
+2458	Chr thyroiditis NEC/NOS
+2459	Thyroiditis NOS
+2462	Cyst of thyroid
+2468	Disorders of thyroid NEC
+2469	Disorder of thyroid NOS
+24900	Sec DM wo cmp nt st uncn
+24901	Sec DM wo comp uncontrld
+24911	Sec DM ketoacd uncntrld
+24950	Sec DM ophth nt st uncn
+24960	Sec DM neuro nt st uncn
+24980	Sec DM oth nt st uncontr
+24981	Sec DM other uncontrld
+24990	Sec DM unsp nt st uncon
+24991	Sec DM unsp uncontrold
+20252	Letterer-siwe dis thorax
+30285	Gend iden dis,adol/adult
+20260	Mlg mast unsp xtrndl org
+20270	Periph T cell lym xtrndl
+20278	Periph T cell lym multip
+20280	Oth lymp unsp xtrndl org
+20281	Lymphomas NEC head
+20282	Lymphomas NEC thorax
+20283	Lymphomas NEC abdom
+20285	Lymphomas NEC inguin
+20287	Lymphomas NEC spleen
+20288	Lymphomas NEC mult
+20290	Unsp lym unsp xtrndl org
+20300	Mult mye w/o achv rmson
+20301	Mult myelm w remission
+20302	Mult myeloma in relapse
+20310	Pls cl leu w/o achv rmsn
+20312	Plsm cel leuk in relapse
+20380	Oth imno npl wo ach rmsn
+20382	Oth imnprlf neo-relapse
+20400	Ac lym leuk wo achv rmsn
+20401	Act lym leuk w rmsion
+20402	Act lymp leuk in relapse
+20410	Ch lym leuk wo achv rmsn
+20411	Chr lym leuk w rmsion
+20412	Chr lymp leuk in relapse
+20480	Oth lym leu wo achv rmsn
+20500	Ac myl leuk wo achv rmsn
+20501	Act myl leuk w rmsion
+20502	Act myel leuk in relapse
+20510	Ch myl leuk wo achv rmsn
+20511	Chr myl leuk w rmsion
+20512	Chr myel leuk in relapse
+19882	Second malig neo genital
+19889	Secondary malig neo NEC
+1990	Malig neo disseminated
+1991	Malignant neoplasm NOS
+20000	Retclsrc unsp xtrndl org
+20001	Reticulosarcoma head
+20002	Reticulosarcoma thorax
+20003	Reticulosarcoma abdom
+20005	Reticulosarcoma inguin
+20008	Reticulosarcoma mult
+20010	Lymphsrc unsp xtrndl org
+20011	Lymphosarcoma head
+20018	Lymphosarcoma mult
+20020	Brkt tmr unsp xtrndl org
+20021	Burkitt's tumor head
+20022	Burkitt's tumor thorax
+20023	Burkitt's tumor abdom
+20024	Burkitt's tumor axilla
+20028	Burkitt's tumor mult
+20030	Margnl zone lym xtrndl
+20033	Margin zone lym abdom
+20037	Margin zone lymph spleen
+20040	Mantle cell lym xtrrndl
+20042	Mantle cell lymph thorax
+20047	Mantle cell lymph spleen
+20048	Mantle cell lymph multip
+20050	Primary CNS lymph xtrndl
+20060	Anaplastic lymph xtrndl
+20070	Large cell lymph xtrndl
+20071	Large cell lymphoma head
+2764	Mixed acid-base bal dis
+27650	Volume depletion NOS
+27651	Dehydration
+20530	Myl sarcoma wo achv rmsn
+20590	Uns my leu wo ach rmsn
+20600	Ac mono leu wo achv rmsn
+1743	Mal neo breast low-inner
+1744	Mal neo breast up-outer
+1745	Mal neo breast low-outer
+1748	Malign neopl breast NEC
+1749	Malign neopl breast NOS
+1759	Mal neo male breast NEC
+1760	Skin - kaposi's sarcoma
+1761	Sft tisue - kpsi's srcma
+1763	GI sites - kpsi's srcoma
+1764	Lung - kaposi's sarcoma
+1765	Lym nds - kpsi's sarcoma
+1768	Spf sts - kpsi's sarcoma
+1769	Kaposi's sarcoma NOS
+179	Malig neopl uterus NOS
+1800	Malig neo endocervix
+1808	Malig neo cervix NEC
+1809	Mal neo cervix uteri NOS
+1820	Malig neo corpus uteri
+1830	Malign neopl ovary
+1832	Mal neo fallopian tube
+1838	Mal neo adnexa NEC
+1840	Malign neopl vagina
+1844	Malign neopl vulva NOS
+1848	Mal neo female genit NEC
+185	Malign neopl prostate
+1869	Malig neo testis NEC
+1874	Malig neo penis NOS
+1880	Mal neo bladder-trigone
+1881	Mal neo bladder-dome
+1882	Mal neo bladder-lateral
+1883	Mal neo bladder-anterior
+1884	Mal neo bladder-post
+1885	Mal neo bladder neck
+1888	Malig neo bladder NEC
+1889	Malig neo bladder NOS
+1890	Malig neopl kidney
+1891	Malig neo renal pelvis
+1892	Malign neopl ureter
+1893	Malign neopl urethra
+1898	Mal neo urinary NEC
+1906	Malign neopl choroid
+1910	Malign neopl cerebrum
+1911	Malig neo frontal lobe
+1912	Mal neo temporal lobe
+1913	Mal neo parietal lobe
+1914	Mal neo occipital lobe
+1915	Mal neo cereb ventricle
+1916	Mal neo cerebellum NOS
+1917	Mal neo brain stem
+1918	Malig neo brain NEC
+1919	Malig neo brain NOS
+1920	Mal neo cranial nerves
+1921	Mal neo cerebral mening
+1922	Mal neo spinal cord
+193	Malign neopl thyroid
+1940	Malign neopl adrenal
+1941	Malig neo parathyroid
+1943	Malig neo pituitary
+1945	Mal neo carotid body
+1950	Mal neo head/face/neck
+1951	Malign neopl thorax
+1952	Malig neo abdomen
+1953	Malign neopl pelvis
+1958	Malig neo site NEC
+1960	Mal neo lymph-head/neck
+1961	Mal neo lymph-intrathor
+1962	Mal neo lymph intra-abd
+1963	Mal neo lymph-axilla/arm
+1965	Mal neo lymph-inguin/leg
+1966	Mal neo lymph-intrapelv
+1968	Mal neo lymph node-mult
+1969	Mal neo lymph node NOS
+1970	Secondary malig neo lung
+1971	Sec mal neo mediastinum
+1972	Second malig neo pleura
+1973	Sec malig neo resp NEC
+1974	Sec malig neo sm bowel
+1975	Sec malig neo lg bowel
+1976	Sec mal neo peritoneum
+1977	Second malig neo liver
+1978	Sec mal neo GI NEC
+1980	Second malig neo kidney
+1981	Sec malig neo urin NEC
+1982	Secondary malig neo skin
+1983	Sec mal neo brain/spine
+1984	Sec malig neo nerve NEC
+1985	Secondary malig neo bone
+1986	Second malig neo ovary
+1987	Second malig neo adrenal
+19881	Second malig neo breast
+20078	Large cell lymph multip
+22801	Hemangioma skin
+22802	Hemangioma intracranial
+22804	Hemangioma intra-abdom
+22809	Hemangioma NEC
+2281	Lymphangioma, any site
+2298	Benign neoplasm NEC
+2300	Ca in situ oral cav/phar
+2301	Ca in situ esophagus
+2302	Ca in situ stomach
+2306	Ca in situ anus NOS
+2308	Ca in situ liver/biliary
+2309	Ca in situ GI NEC/NOS
+2312	Ca in situ bronchus/lung
+2326	Ca in situ skin arm
+2329	Ca in situ skin NOS
+2330	Ca in situ breast
+2331	Ca in situ cervix uteri
+23331	Carcinoma in situ vagina
+2334	Ca in situ prostate
+2337	Ca in situ bladder
+2339	Ca in situ urinary NEC
+2352	Unc behav neo intestine
+2353	Unc behav neo liver
+2354	Unc behav neo peritoneum
+29634	Rec depr psych-psychotic
+29640	Bipol I currnt manic NOS
+29644	Bipol I manic-sev w psy
+29650	Bipol I cur depres NOS
+29651	Bipol I cur depress-mild
+29653	Bipol I curr dep w/o psy
+29654	Bipol I currnt dep w psy
+2967	Bipolor I current NOS
+29680	Bipolar disorder NOS
+29681	Atypical manic disorder
+29689	Bipolar disorder NEC
+29690	Episodic mood disord NOS
+29699	Episodic mood disord NEC
+2971	Delusional disorder
+2978	Paranoid states NEC
+2979	Paranoid state NOS
+2980	React depress psychosis
+2982	Reactive confusion
+2989	Psychosis NOS
+29900	Autistic disord-current
+29980	Pervasv dev dis-cur NEC
+29990	Pervasv dev dis-cur NOS
+30000	Anxiety state NOS
+30001	Panic dis w/o agorphobia
+30002	Generalized anxiety dis
+30009	Anxiety state NEC
+30011	Conversion disorder
+30012	Dissociative amnesia
+30014	Dissociatve identity dis
+30015	Dissociative react NOS
+30016	Factitious dis w symptom
+30021	Agoraphobia w panic dis
+30022	Agoraphobia w/o panic
+30029	Isolated/spec phobia NEC
+3003	Obsessive-compulsive dis
+3004	Dysthymic disorder
+3007	Hypochondriasis
+30089	Somatoform disorders NEC
+3009	Nonpsychotic disord NOS
+3010	Paranoid personality
+30113	Cyclothymic disorder
+30120	Schizoid personality NOS
+30122	Schizotypal person dis
+3013	Explosive personality
+3014	Obsessive-compulsive dis
+30150	Histrionic person NOS
+30151	Chr factitious illness
+3017	Antisocial personality
+30181	Narcissistic personality
+30183	Borderline personality
+3019	Personality disorder NOS
+30250	Trans-sexualism NOS
+2832	Hemolytic hemoglobinuria
+2839	Acq hemolytic anemia NOS
+3029	Psychosexual dis NOS
+30300	Ac alcohol intox-unspec
+30301	Ac alcohol intox-contin
+30302	Ac alcohol intox-episod
+30303	Ac alcohol intox-remiss
+30390	Alcoh dep NEC/NOS-unspec
+30391	Alcoh dep NEC/NOS-contin
+30392	Alcoh dep NEC/NOS-episod
+30393	Alcoh dep NEC/NOS-remiss
+30400	Opioid dependence-unspec
+30401	Opioid dependence-contin
+30402	Opioid dependence-episod
+30403	Opioid dependence-remiss
+30410	Sed,hyp,anxiolyt dep-NOS
+30411	Sed,hyp,anxiolyt dep-con
+30420	Cocaine depend-unspec
+30421	Cocaine depend-contin
+30422	Cocaine depend-episodic
+30423	Cocaine depend-remiss
+30430	Cannabis depend-unspec
+30431	Cannabis depend-contin
+30440	Amphetamin depend-unspec
+30441	Amphetamin depend-contin
+30443	Amphetamin depend-remiss
+30460	Drug depend NEC-unspec
+2704	Sulph amino-acid met dis
+2706	Dis urea cycle metabol
+2707	Straig amin-acid met NEC
+2710	Glycogenosis
+2713	Disaccharidase def/malab
+2718	Dis carbohydr metab NEC
+2720	Pure hypercholesterolem
+2721	Pure hyperglyceridemia
+2722	Mixed hyperlipidemia
+2724	Hyperlipidemia NEC/NOS
+2725	Lipoprotein deficiencies
+2726	Lipodystrophy
+2727	Lipidoses
+2728	Lipoid metabol dis NEC
+2729	Lipoid metabol dis NOS
+2730	Polyclon hypergammaglobu
+2731	Monoclon paraproteinemia
+2732	Paraproteinemia NEC
+2733	Macroglobulinemia
+2734	Alpha-1-antitrypsin def
+2738	Dis plas protein met NEC
+2739	Dis plas protein met NOS
+27400	Gouty arthropathy NOS
+27401	Acute gouty arthropathy
+27402	Chr gouty atrph wo tophi
+27403	Chr gouty atroph w tophi
+27411	Uric acid nephrolithias
+27482	Gouty tophi site NEC
+27489	Gout w manifestation NEC
+2749	Gout NOS
+27501	Heredit hemochromatosis
+27502	Hemochromatos-rbc trans
+27503	Hemochromatosis NEC
+27509	Disord iron metablsm NEC
+2751	Dis copper metabolism
+2752	Dis magnesium metabolism
+2753	Dis phosphorus metabol
+27540	Dis calcium metablsm NOS
+27541	Hypocalcemia
+27542	Hypercalcemia
+27549	Dis calcium metablsm NEC
+2755	Hungry bone syndrome
+2758	Dis mineral metabol NEC
+2759	Dis mineral metabol NOS
+2760	Hyperosmolality
+2761	Hyposmolality
+2762	Acidosis
+2763	Alkalosis
+27652	Hypovolemia
+27661	Transfsn w circ overload
+27669	Fluid overload NEC
+2767	Hyperpotassemia
+2768	Hypopotassemia
+2769	Electrolyt/fluid dis NEC
+27700	Cystic fibros w/o ileus
+27702	Cystic fibros w pul man
+27709	Cystic fibrosis NEC
+2771	Dis porphyrin metabolism
+27730	Amyloidosis NOS
+27731	Fam Mediterranean fever
+27739	Amyloidosis NEC
+2774	Dis bilirubin excretion
+2776	Defic circul enzyme NEC
+2777	Dysmetabolic syndrome x
+27787	Dis mitochondrial metab
+27788	Tumor lysis syndrome
+27789	Metabolism disorder NEC
+2779	Metabolism disorder NOS
+27800	Obesity NOS
+27801	Morbid obesity
+27802	Overweight
+27803	Obesity hypovent synd
+2781	Localized adiposity
+2788	Other hyperalimentation
+27900	Hypogammaglobulinem NOS
+27901	Selective iga immunodef
+27903	Selective ig defic NEC
+27906	Common variabl immunodef
+2793	Immunity deficiency NOS
+27941	Autoimmun lymphprof synd
+27949	Autoimmune disease NEC
+27950	Graft-versus-host NOS
+27951	Ac graft-versus-host dis
+27952	Chronc graft-vs-host dis
+27953	Ac on chrn grft-vs-host
+2798	Immune mechanism dis NEC
+2799	Immune mechanism dis NOS
+2800	Chr blood loss anemia
+2808	Iron defic anemia NEC
+2809	Iron defic anemia NOS
+2810	Pernicious anemia
+2811	B12 defic anemia NEC
+2812	Folate-deficiency anemia
+2813	Megaloblastic anemia NEC
+2818	Nutritional anemia NEC
+2819	Deficiency anemia NOS
+2820	Hereditary spherocytosis
+2821	Heredit elliptocytosis
+2822	Glutathione dis anemia
+2823	Enzyme defic anemia NEC
+28240	Thalassemia, unspecified
+28241	Thlasema Hb-S w/o crisis
+28243	Alpha thalassemia
+28244	Beta thalassemia
+28246	Thalassemia minor
+28249	Thalassemia NEC
+2825	Sickle-cell trait
+28260	Sickle cell disease NOS
+28262	Hb-SS disease w crisis
+28264	Hb-S/Hb-C dis w crisis
+2827	Hemoglobinopathies NEC
+2829	Hered hemolytic anem NOS
+2830	Autoimmun hemolytic anem
+28310	Nonauto hem anemia NOS
+28311	Hemolytic uremic synd
+25041	DMI renl nt st uncntrld
+25042	DMII renal uncntrld
+25043	DMI renal uncntrld
+25050	DMII ophth nt st uncntrl
+25051	DMI ophth nt st uncntrld
+25052	DMII ophth uncntrld
+25053	DMI ophth uncntrld
+25060	DMII neuro nt st uncntrl
+25061	DMI neuro nt st uncntrld
+25062	DMII neuro uncntrld
+25063	DMI neuro uncntrld
+25070	DMII circ nt st uncntrld
+25071	DMI circ nt st uncntrld
+25072	DMII circ uncntrld
+25073	DMI circ uncntrld
+25080	DMII oth nt st uncntrld
+25081	DMI oth nt st uncntrld
+25082	DMII oth uncntrld
+25083	DMI oth uncntrld
+25090	DMII unspf nt st uncntrl
+25091	DMI unspf nt st uncntrld
+25092	DMII unspf uncntrld
+25093	DMI unspf uncntrld
+2511	Oth spcf hypoglycemia
+2512	Hypoglycemia NOS
+2513	Postsurg hypoinsulinemia
+2515	Abnorm secretion gastrin
+2518	Pancreatic disorder NEC
+2519	Pancreatic disorder NOS
+25200	Hyperparathyroidism NOS
+25201	Primary hyperparathyroid
+25202	Sec hyprprthyrd nonrenal
+25208	Hyperparathyroidism NEC
+2521	Hypoparathyroidism
+2528	Parathyroid disorder NEC
+2530	Acromegaly and gigantism
+2531	Ant pituit hyperfunc NEC
+2532	Panhypopituitarism
+2533	Pituitary dwarfism
+2534	Anter pituitary dis NEC
+2535	Diabetes insipidus
+2536	Neurohypophysis dis NEC
+2537	Iatrogenic pituitary dis
+2538	Pituitary disorder NEC
+2539	Pituitary disorder NOS
+2540	Persist hyperplas thymus
+2541	Abscess of thymus
+2548	Diseases of thymus NEC
+2550	Cushing's syndrome
+25510	Hyperaldosteronism NOS
+25512	Conn's syndrome
+2552	Adrenogenital disorders
+2553	Corticoadren overact NEC
+25541	Glucocorticoid deficient
+20722	Mgkrycyt leuk in relapse
+20780	Oth leuk w/o achv rmsn
+20800	Ac leu un cl wo ach rmsn
+20890	Leuk NOS w/o achv rmsn
+20891	Leukemia NOS w remission
+20903	Malig carcinoid ileum
+20917	Malig carcinoid rectum
+20920	Mal crcnd prim site unkn
+20921	Mal carcinoid bronc/lung
+20925	Mal carcnoid foregut NOS
+20929	Malig carcinoid oth site
+20930	Malig neuroendo ca NOS
+20936	Merkel cell ca-oth sites
+20943	Benign carcinoid ileum
+20951	Ben carcinoid appendix
+20957	Benign carcinoid rectum
+20961	Ben carcinoid bronc/lung
+20963	Benign carcinoid stomach
+20969	Bengn carcinoid oth site
+20971	Sec neuroend tu dist lym
+20972	Sec neuroend tumor-liver
+20973	Sec neuroendo tumor-bone
+20974	Sec neuroendo tu-periton
+20975	Secondary Merkel cell ca
+20979	Sec neuroend tu oth site
+2101	Benign neoplasm tongue
+2102	Ben neo major salivary
+2104	Benign neo mouth NEC/NOS
+2110	Benign neo esophagus
+2111	Benign neoplasm stomach
+2112	Benign neoplasm sm bowel
+2113	Benign neoplasm lg bowel
+2114	Benign neopl rectum/anus
+2115	Ben neo liver/bile ducts
+2116	Benign neoplasm pancreas
+2117	Ben neo islets langerhan
+2118	Ben neo peritoneum
+2119	Ben neo GI tract NEC/NOS
+2120	Ben neo nasal cav/sinus
+2121	Benign neo larynx
+2122	Benign neo trachea
+2123	Benign neo bronchus/lung
+2125	Benign neo mediastinum
+2126	Benign neoplasm thymus
+2127	Benign neoplasm heart
+2130	Ben neo skull/face bone
+2132	Benign neo vertebrae
+2137	Ben neo long bones leg
+2140	Lipoma skin face
+2141	Lipoma skin NEC
+2142	Lipoma intrathoracic
+2143	Lipoma intra-abdominal
+2144	Lipoma spermatic cord
+2148	Lipoma NEC
+2149	Lipoma NOS
+2150	Ben neo soft tissue head
+2154	Ben neo soft tis thorax
+2155	Ben neo soft tis abdomen
+2156	Ben neo soft tis pelvis
+2163	Benign neo skin face NEC
+2165	Benign neo skin trunk
+2166	Benign neo skin arm
+2167	Benign neo skin leg
+2169	Benign neoplasm skin NOS
+217	Benign neoplasm breast
+2180	Submucous leiomyoma
+2181	Intramural leiomyoma
+2182	Subserous leiomyoma
+2189	Uterine leiomyoma NOS
+2191	Benign neo corpus uteri
+220	Benign neoplasm ovary
+2210	Ben neo fallopian tube
+2218	Ben neo fem genital NEC
+2230	Benign neoplasm kidney
+2250	Benign neoplasm brain
+2251	Benign neo cranial nerve
+2252	Ben neo cerebr meninges
+2253	Benign neo spinal cord
+2254	Ben neo spinal meninges
+226	Benign neoplasm thyroid
+2270	Benign neoplasm adrenal
+2271	Benign neo parathyroid
+2273	Benign neo pituitary
+34710	Narclpsy w/o cat oth dis
+3480	Cerebral cysts
+3481	Anoxic brain damage
+3482	Pseudotumor cerebri
+34830	Encephalopathy NOS
+34831	Metabolic encephalopathy
+34839	Encephalopathy NEC
+3484	Compression of brain
+3485	Cerebral edema
+34881	Temporal sclerosis
+34882	Brain death
+34889	Brain conditions NEC
+3489	Brain condition NOS
+3490	Lumbar puncture reaction
+3491	Complication cns device
+3492	Disorder of meninges NEC
+34931	Accid punc/op lac dura
+34939	Dural tear NEC
+34981	Cerebrospinal rhinorrhea
+34982	Toxic encephalopathy
+34989	Cns disorder NEC
+3499	Cns disorder NOS
+3501	Trigeminal neuralgia
+3502	Atypical face pain
+3509	Trigeminal nerve dis NOS
+3510	Bell's palsy
+3518	Facial nerve dis NEC
+3519	Facial nerve dis NOS
+3522	Glossophar nerve dis NEC
+34441	Monplga upr lmb dmnt sde
+34442	Mnplg upr lmb nondmnt sd
+3445	Monoplegia NOS
+34460	Cauda equina synd NOS
+34461	Neurogenic bladder
+34481	Locked-in state
+34489	Oth spcf paralytic synd
+3449	Paralysis NOS
+34500	Gen noncv ep w/o intr ep
+34501	Gen nonconv ep w intr ep
+34510	Gen cnv epil w/o intr ep
+34511	Gen cnv epil w intr epil
+3452	Petit mal status
+3453	Grand mal status
+34540	Psymotr epil w/o int epi
+34541	Psymotr epil w intr epil
+34550	Part epil w/o intr epil
+34551	Part epil w intr epil
+34570	Epil par cont w/o int ep
+34571	Epil par cont w intr epi
+34580	Epilep NEC w/o intr epil
+34581	Epilepsy NEC w intr epil
+34590	Epilep NOS w/o intr epil
+34591	Epilepsy NOS w intr epil
+34600	Mgrn w aura wo ntrc mgrn
+34620	Vrnt mgrn wo ntr mgr NEC
+30461	Drug depend NEC-contin
+30470	Opioid/other dep-unspec
+30471	Opioid/other dep-contin
+30472	Opioid/other dep-episod
+30473	Opioid/other dep-remiss
+30480	Comb drug dep NEC-unspec
+30481	Comb drug dep NEC-contin
+30483	Comb drug dep NEC-remiss
+30490	Drug depend NOS-unspec
+30491	Drug depend NOS-contin
+30493	Drug depend NOS-remiss
+30500	Alcohol abuse-unspec
+30501	Alcohol abuse-continuous
+30502	Alcohol abuse-episodic
+30503	Alcohol abuse-in remiss
+3051	Tobacco use disorder
+30520	Cannabis abuse-unspec
+30521	Cannabis abuse-contin
+30522	Cannabis abuse-episodic
+30523	Cannabis abuse-in remiss
+30530	Hallucinog abuse-unspec
+30531	Hallucinog abuse-contin
+30540	Sed,hyp,anxiolytc ab-NOS
+30541	Sed,hyp,anxiolytc ab-con
+30543	Sed,hyp,anxiolytc ab-rem
+30550	Opioid abuse-unspec
+30551	Opioid abuse-continuous
+30552	Opioid abuse-episodic
+30553	Opioid abuse-in remiss
+30560	Cocaine abuse-unspec
+30561	Cocaine abuse-continuous
+30562	Cocaine abuse-episodic
+30563	Cocaine abuse-in remiss
+30570	Amphetamine abuse-unspec
+30571	Amphetamine abuse-contin
+30573	Amphetamine abuse-remiss
+30580	Antidepress abuse-unspec
+30583	Antidepress abuse-remiss
+30590	Drug abuse NEC-unspec
+30591	Drug abuse NEC-contin
+30592	Drug abuse NEC-episodic
+30593	Drug abuse NEC-in remiss
+3060	Psychogen musculskel dis
+3061	Psychogenic respir dis
+3062	Psychogen cardiovasc dis
+3068	Psychogenic disorder NEC
+3069	Psychogenic disorder NOS
+3071	Anorexia nervosa
+30723	Tourette's disorder
+30742	Persistent insomnia
+30747	Sleep stage dysfunc NEC
+30750	Eating disorder NOS
+30751	Bulimia nervosa
+30752	Pica
+30759	Eating disorder NEC
+3076	Enuresis
+30781	Tension headache
+30789	Psychogenic pain NEC
+3079	Special symptom NEC/NOS
+3080	Stress react, emotional
+3081	Stress reaction, fugue
+3082	Stress react, psychomot
+3083	Acute stress react NEC
+3089	Acute stress react NOS
+3090	Adjustmnt dis w depressn
+3091	Prolong depressive react
+30924	Adjustment dis w anxiety
+30928	Adjust dis w anxiety/dep
+3093	Adjust disor/dis conduct
+3094	Adj dis-emotion/conduct
+30981	Posttraumatic stress dis
+30989	Adjustment reaction NEC
+3099	Adjustment reaction NOS
+3100	Frontal lobe syndrome
+3101	Personality chg oth dis
+3102	Postconcussion syndrome
+3109	Nonpsychot brain syn NOS
+311	Depressive disorder NEC
+31230	Impulse control dis NOS
+31234	Intermitt explosive dis
+31239	Impulse control dis NEC
+31289	Other conduct disorder
+3129	Conduct disturbance NOS
+31381	Opposition defiant disor
+31400	Attn defic nonhyperact
+31401	Attn deficit w hyperact
+3152	Oth learning difficulty
+31531	Expressive language dis
+31539	Speech/language dis NEC
+3154	Devel coordination dis
+3158	Development delays NEC
+3159	Development delay NOS
+316	Psychic factor w oth dis
+317	Mild intellect disabilty
+3180	Mod intellect disability
+3181	Sev intellect disability
+3182	Profnd intellct disablty
+319	Intellect disability NOS
+3200	Hemophilus meningitis
+3201	Pneumococcal meningitis
+3202	Streptococcal meningitis
+3203	Staphylococc meningitis
+3207	Mening in oth bact dis
+32082	Mningts gram-neg bct NEC
+32089	Meningitis oth spcf bact
+3209	Bacterial meningitis NOS
+3210	Cryptococcal meningitis
+3212	Mening in oth viral dis
+3220	Nonpyogenic meningitis
+3221	Eosinophilic meningitis
+3222	Chronic meningitis
+3229	Meningitis NOS
+32341	Ot encph/mye ot inf else
+32351	Enceph/myel folwg immune
+32361	Inf ac dis encephalomyel
+32362	Postinf encephalitis NEC
+32372	Toxic myelitis
+32381	Enceph & encephlalo NEC
+32382	Myelitis cause NEC
+3239	Encephalitis NOS
+3240	Intracranial abscess
+3241	Intraspinal abscess
+3249	Cns abscess NOS
+325	Phlebitis intrcran sinus
+326	Late eff cns abscess
+32713	Recurrent hypersomnia
+32719	Organic hypersomnia NEC
+32721	Prim central sleep apnea
+32723	Obstructive sleep apnea
+32724	Idiopath sleep hypovent
+32725	Cong cntrl hypovent synd
+32726	Sleep hypovent oth dis
+32727	Cntrl sleep apnea ot dis
+28319	Oth nonauto hem anemia
+3649	Iris/ciliary dis NOS
+28411	Antin chemo indcd pancyt
+28412	Oth drg indcd pancytopna
+28419	Other pancytopenia
+2842	Myelophthisis
+28489	Aplastic anemias NEC
+2849	Aplastic anemia NOS
+2851	Ac posthemorrhag anemia
+28521	Anemia in chr kidney dis
+28522	Anemia in neoplastic dis
+28529	Anemia-other chronic dis
+2853	Anemia d/t antineo chemo
+2858	Anemia NEC
+2859	Anemia NOS
+2860	Cong factor viii diord
+2861	Cong factor IX disorder
+2862	Cong factor xi disorder
+2863	Cong def clot factor NEC
+2864	Von willebrand's disease
+28652	Acquired hemophilia
+2866	Defibrination syndrome
+2867	Acq coagul factor defic
+2869	Coagulat defect NEC/NOS
+2870	Allergic purpura
+2871	Thrombocytopathy
+2872	Purpura NOS
+28730	Prim thrombocytopen NOS
+28731	Immune thrombocyt purpra
+28732	Evans' syndrome
+28749	Sec thrombocytpenia NEC
+2875	Thrombocytopenia NOS
+2879	Hemorrhagic cond NOS
+28800	Neutropenia NOS
+28802	Cyclic neutropenia
+28803	Drug induced neutropenia
+28804	Neutropenia d/t infectn
+28809	Neutropenia NEC
+2881	Function dis neutrophils
+2882	Genetic anomaly leukocyt
+2883	Eosinophilia
+2884	Hemophagocytic syndromes
+28850	Leukocytopenia NOS
+28851	Lymphocytopenia
+28859	Decreased WBC count NEC
+28860	Leukocytosis NOS
+28861	Lymphocytosis-symptomatc
+28862	Leukemoid reaction
+28863	Monocytosis-symptomatic
+28866	Bandemia
+2888	Wbc disease NEC
+2889	Wbc disease NOS
+2890	Secondary polycythemia
+2891	Chronic lymphadenitis
+2893	Lymphadenitis NOS
+2894	Hypersplenism
+28950	Spleen disease NOS
+28951	Chr congest splenomegaly
+28952	Splenic sequestration
+28959	Spleen disease NEC
+2897	Methemoglobinemia
+28981	Prim hypercoagulable st
+28982	Sec hypercoagulable st
+28983	Myelofibrosis
+28984	Heparin-indu thrombocyto
+28989	Blood diseases NEC
+2899	Blood disease NOS
+2900	Senile dementia uncomp
+29010	Presenile dementia
+29012	Presenile delusion
+2903	Senile delirium
+29040	Vascular dementia,uncomp
+29041	Vasc dementia w delirium
+29042	Vasc dementia w delusion
+29043	Vasc dementia w depressn
+2910	Delirium tremens
+2911	Alcohol amnestic disordr
+2912	Alcohol persist dementia
+2913	Alcoh psy dis w hallucin
+29181	Alcohol withdrawal
+29189	Alcohol mental disor NEC
+2920	Drug withdrawal
+29211	Drug psych disor w delus
+29212	Drug psy dis w hallucin
+29281	Drug-induced delirium
+29282	Drug persisting dementia
+29284	Drug-induced mood disord
+29285	Drug induced sleep disor
+29289	Drug mental disorder NEC
+2929	Drug mental disorder NOS
+2930	Delirium d/t other cond
+2931	Subacute delirium
+29381	Psy dis w delus oth dis
+29382	Psy dis w halluc oth dis
+29383	Mood disorder other dis
+29384	Anxiety disorder oth dis
+29389	Transient mental dis NEC
+2939	Transient mental dis NOS
+2940	Amnestic disord oth dis
+29410	Dementia w/o behav dist
+29411	Dementia w behavior dist
+29420	Demen NOS w/o behv dstrb
+29421	Demen NOS w behav distrb
+2948	Mental disor NEC oth dis
+2949	Mental disor NOS oth dis
+29502	Simple schizophren-chr
+29512	Hebephrenia-chronic
+29520	Catatonia-unspec
+29522	Catatonia-chronic
+29524	Catatonia-chr/exacerb
+29530	Paranoid schizo-unspec
+29532	Paranoid schizo-chronic
+29540	Schizophreniform dis NOS
+29544	Schizophr dis-chr/exacer
+29560	Schizophr dis resid NOS
+29562	Schizophr dis resid-chr
+29564	Schizoph resid-chro/exac
+29570	Schizoaffective dis NOS
+29572	Schizoaffective dis-chr
+29573	Schizoaff dis-subch/exac
+29574	Schizoafftv dis-chr/exac
+29575	Schizoaffectve dis-remis
+29580	Schizophrenia NEC-unspec
+29590	Schizophrenia NOS-unspec
+29592	Schizophrenia NOS-chr
+29600	Bipol I single manic NOS
+29604	Bipo I sin man-sev w psy
+29614	Recur manic-sev w psycho
+29620	Depress psychosis-unspec
+29621	Depress psychosis-mild
+29622	Depressive psychosis-mod
+29623	Depress psychosis-severe
+29624	Depr psychos-sev w psych
+29625	Depr psychos-part remiss
+29630	Recurr depr psychos-unsp
+29631	Recurr depr psychos-mild
+29632	Recurr depr psychos-mod
+29633	Recur depr psych-severe
+3321	Secondary parkinsonism
+3330	Degen basal ganglia NEC
+3331	Tremor NEC
+3332	Myoclonus
+3334	Huntington's chorea
+3335	Chorea NEC
+3336	Genetic torsion dystonia
+33372	Acute dystonia d/t drugs
+33379	Acq torsion dystonia NEC
+33381	Blepharospasm
+33382	Orofacial dyskinesia
+33384	Organic writers' cramp
+33385	Subac dyskinesa d/t drug
+33390	Extrapyramidal dis NOS
+33391	Stiff-man syndrome
+33392	Neuroleptic malgnt synd
+33394	Restless legs syndrome
+33399	Extrapyramidal dis NEC
+3340	Friedreich's ataxia
+3341	Hered spastic paraplegia
+3342	Primary cerebellar degen
+3343	Cerebellar ataxia NEC
+3344	Cerebel atax in oth dis
+3348	Spinocerebellar dis NEC
+3349	Spinocerebellar dis NOS
+33510	Spinal muscl atrophy NOS
+33511	Kugelberg-welander dis
+33520	Amyotrophic sclerosis
+33521	Prog muscular atrophy
+33522	Progressive bulbar palsy
+33523	Pseudobulbar palsy
+3360	Syringomyelia
+3361	Vascular myelopathies
+3363	Myelopathy in oth dis
+3368	Myelopathy NEC
+3369	Spinal cord disease NOS
+33701	Carotid sinus syndrome
+33709	Idio perph auto neur NEC
+3371	Aut neuropthy in oth dis
+33720	Unsp rflx sympth dystrph
+33721	Rflx sym dystrph up limb
+33722	Rflx sym dystrph lwr lmb
+33729	Rflx sym dystrph oth st
+3373	Autonomic dysreflexia
+3379	Autonomic nerve dis NEC
+3380	Central pain syndrome
+33811	Acute pain due to trauma
+33812	Acute post-thoracot pain
+33818	Acute postop pain NEC
+33819	Acute pain NEC
+33821	Chronc pain d/t trauma
+33822	Chron post-thoracot pain
+33828	Chronic postop pain NEC
+33829	Chronic pain NEC
+3383	Neoplasm related pain
+3384	Chronic pain syndrome
+33900	Cluster headache syn NOS
+33902	Chronic cluster headache
+33912	Chronic tension headache
+33920	Post-trauma headache NOS
+3393	Drug induce headache NEC
+33989	Headache syndrome NEC
+340	Multiple sclerosis
+3410	Neuromyelitis optica
+3411	Schilder's disease
+34120	Acute myelitis NOS
+3418	Cns demyelination NEC
+3419	Cns demyelination NOS
+34200	Flccd hmiplga unspf side
+34201	Flccd hmiplga domnt side
+34202	Flccd hmiplg nondmnt sde
+34210	Spstc hmiplga unspf side
+34211	Spstc hmiplga domnt side
+34212	Spstc hmiplg nondmnt sde
+34280	Ot sp hmiplga unspf side
+34281	Ot sp hmiplga domnt side
+34282	Ot sp hmiplg nondmnt sde
+34290	Unsp hemiplga unspf side
+34291	Unsp hemiplga domnt side
+34292	Unsp hmiplga nondmnt sde
+3430	Congenital diplegia
+3431	Congenital hemiplegia
+3432	Congenital quadriplegia
+3434	Infantile hemiplegia
+3438	Cerebral palsy NEC
+3439	Cerebral palsy NOS
+34400	Quadriplegia, unspecifd
+34401	Quadrplg c1-c4, complete
+34402	Quadrplg c1-c4, incomplt
+34403	Quadrplg c5-c7, complete
+34404	Quadrplg c5-c7, incomplt
+34409	Other quadriplegia
+3441	Paraplegia NOS
+3442	Diplegia of upper limbs
+34430	Monplga lwr lmb unsp sde
+34431	Monplga lwr lmb dmnt sde
+34440	Monplga upr lmb unsp sde
+34670	Ch mgr wo ar wo nt wo st
+34680	Othr migrne wo ntrc mgrn
+34690	Migrne unsp wo ntrc mgrn
+34691	Mgrn unsp w ntrc mgr std
+36813	Visual discomfort
+34693	Mgrn NOS w ntrc w st mgr
+34700	Narcolepsy w/o cataplexy
+34701	Narcolepsy w cataplexy
+36040	Degeneration of eye NOS
+36043	Hemophthalmos
+36100	Detachmnt w defect NOS
+36101	Part detach-singl defec
+36105	Recent detachment, total
+36106	Old detachment, partial
+36107	Old detachment, total
+3612	Serous retina detachment
+36189	Retinal detachment NEC
+3619	Retinal detachment NOS
+36201	Diabetic retinopathy NOS
+36202	Prolif diab retinopathy
+36203	Nonprolf db retnoph NOS
+36204	Mild nonprolf db retnoph
+36205	Mod nonprolf db retinoph
+36206	Sev nonprolf db retinoph
+36207	Diabetic macular edema
+36210	Backgrnd retinopathy NOS
+36211	Hypertensive retinopathy
+36213	Retinal vascular changes
+36217	Retinal varices
+36221	Retrolental fibroplasia
+36230	Retinal vasc occlus NOS
+36231	Cent retina artery occlu
+36232	Arterial branch occlus
+36233	Part arterial occlusion
+36234	Transient arterial occlu
+36241	Cent serous retinopathy
+36250	Macular degeneration NOS
+36251	Nonexudat macular degen
+36252	Exudative macular degen
+36253	Cystoid macular degen
+36274	Pigment retina dystrophy
+36275	Sensory retina dystrophy
+36281	Retinal hemorrhage
+36283	Retinal edema
+36284	Retinal ischemia
+3629	Retinal disorder NOS
+36315	Pigment epitheliopathy
+36320	Chorioretinitis NOS
+36362	Expulsive choroid hemorr
+36400	Acute iridocyclitis NOS
+36403	Secondry iritis, infect
+3643	Iridocyclitis NOS
+36470	Adhesions of iris NOS
+36500	Preglaucoma NOS
+36510	Open-angle glaucoma NOS
+36511	Prim open angle glaucoma
+36512	Low tension glaucoma
+36520	Prim angl-clos glauc NOS
+36522	Acute angl-clos glaucoma
+36523	Chr angle-clos glaucoma
+36544	Glaucoma w systemic synd
+36552	Pseudoexfoliat glaucoma
+36563	Glaucoma w vascular dis
+36565	Glaucoma w ocular trauma
+36570	Glaucoma stage NOS
+36573	Severe stage glaucoma
+36589	Glaucoma NEC
+3659	Glaucoma NOS
+36616	Senile nuclear cataract
+36641	Diabetic cataract
+36646	Cataract w radiation
+3668	Cataract NEC
+3669	Cataract NOS
+3671	Myopia
+3674	Presbyopia
+36800	Amblyopia NOS
+36801	Strabismic amblyopia
+36811	Sudden visual loss
+36812	Transient visual loss
+36815	Visual distortions NEC
+36816	Psychophysic visual dist
+3682	Diplopia
+38014	Malignant otitis externa
+38015	Chr mycot otitis externa
+38021	Cholesteatoma extern ear
+38022	Acute otitis externa NEC
+38023	Chr otitis externa NEC
+3804	Impacted cerumen
+38100	Ac nonsup otitis med NOS
+3814	Nonsupp otitis media NOS
+38200	Ac supp otitis media NOS
+38201	Ac supp OM w drum rupt
+3824	Suppur otitis media NOS
+3829	Otitis media NOS
+38300	Ac mastoiditis w/o compl
+38302	Ac mastoiditis-compl NEC
+3831	Chronic mastoiditis
+38321	Acute petrositis
+3839	Mastoiditis NOS
+38401	Bullous myringitis
+38420	Perforat tympan memb NOS
+32737	Circadian rhym oth dis
+32742	REM sleep behavior dis
+3300	Leukodystrophy
+3301	Cerebral lipidoses
+3308	Cereb degen in child NEC
+3310	Alzheimer's disease
+33119	Frontotemp dementia NEC
+3313	Communicat hydrocephalus
+3314	Obstructiv hydrocephalus
+3315	Norml pressure hydroceph
+33182	Dementia w Lewy bodies
+33183	Mild cognitive impairemt
+33189	Cereb degeneration NEC
+3319	Cereb degeneration NOS
+3320	Paralysis agitans
+36840	Visual field defect NOS
+36841	Central scotoma
+36844	Visual field defect NEC
+36846	Homonymous hemianopsia
+36847	Heteronymous hemianopsia
+36859	Color deficiency NEC
+3688	Visual disturbances NEC
+3689	Visual disturbance NOS
+36900	Both eyes blind-who def
+36901	Tot impairment-both eyes
+36910	Blindness/low vision
+3693	Blindness NOS, both eyes
+3694	Legal blindness-usa def
+36960	Blindness, one eye
+36970	Low vision, one eye
+3698	Visual loss, one eye NOS
+3699	Visual loss NOS
+37000	Corneal ulcer NOS
+37005	Mycotic corneal ulcer
+37034	Expsure keratoconjunctiv
+3708	Keratitis NEC
+3709	Keratitis NOS
+37140	Corneal degeneration NOS
+37143	Band-shaped keratopathy
+37182	Corneal dsdr contct lens
+37189	Corneal disorder NEC
+37200	Acute conjunctivitis NOS
+37203	Mucopur conjunctivit NEC
+3523	Pneumogastric nerve dis
+3524	Accessory nerve disorder
+3526	Mult cranial nerve palsy
+3529	Cranial nerve dis NOS
+3530	Brachial plexus lesions
+3536	Phantom limb (syndrome)
+3540	Carpal tunnel syndrome
+3541	Median nerve lesion NEC
+3542	Ulnar nerve lesion
+3543	Radial nerve lesion
+3545	Mononeuritis multiplex
+3548	Mononeuritis arm NEC
+3549	Mononeuritis arm NOS
+3550	Sciatic nerve lesion
+3551	Meralgia paresthetica
+3552	Femoral nerve lesion NEC
+3553	Lat popliteal nerve les
+3555	Tarsal tunnel syndrome
+3556	Plantar nerve lesion
+35571	Causalgia lower limb
+35579	Oth mononeur lower limb
+3558	Mononeuritis leg NOS
+3559	Mononeuritis NOS
+3561	Peroneal muscle atrophy
+3562	Hered sensory neuropathy
+3568	Idio periph neurpthy NEC
+3569	Idio periph neurpthy NOS
+3570	Ac infect polyneuritis
+3571	Neurpthy in col vasc dis
+3572	Neuropathy in diabetes
+3573	Neuropathy in malig dis
+3574	Neuropathy in other dis
+3575	Alcoholic polyneuropathy
+3576	Neuropathy due to drugs
+3577	Neurpthy toxic agent NEC
+35781	Chr inflam polyneuritis
+35782	Crit illness neuropathy
+35789	Inflam/tox neuropthy NEC
+35800	Mysthna grvs w/o ac exac
+35801	Myasthna gravs w ac exac
+3581	Myasthenia in oth dis
+3588	Myoneural disorders NEC
+3589	Myoneural disorders NOS
+3590	Cong hered musc dystrphy
+3591	Hered prog musc dystrphy
+35921	Myotonic musclr dystrphy
+35922	Myotonia congenita
+3593	Periodic paralysis
+3594	Toxic myopathy
+3595	Myopathy in endocrin dis
+35971	Inclusion body myositis
+35981	Critical illness myopthy
+35989	Myopathies NEC
+3599	Myopathy NOS
+36000	Purulent endophthalm NOS
+36001	Acute endophthalmitis
+36002	Panophthalmitis
+36003	Chronic endophthalmitis
+36012	Panuveitis
+36019	Endophthalmitis NEC
+37990	Eye disorder NOS
+37991	Pain in or around eye
+37992	Swelling or mass of eye
+37993	Redness/discharge of eye
+37999	Ill-defined eye dis NEC
+38000	Perichondritis pinna NOS
+38003	Chondritis of pinna
+38010	Infec otitis externa NOS
+43884	Ataxia
+43885	Vertigo
+43889	Late effect CV dis NEC
+4389	Late effect CV dis NOS
+4400	Aortic atherosclerosis
+4401	Renal artery atheroscler
+44020	Athscl extrm ntv art NOS
+44021	Ath ext ntv at w claudct
+44022	Ath ext ntv at w rst pn
+44023	Ath ext ntv art ulcrtion
+44024	Ath ext ntv art gngrene
+44029	Athrsc extrm ntv art oth
+44030	Athscl extrm bps gft NOS
+44031	Ath ext autologs bps gft
+44032	Ath ext nonautlg bps gft
+4404	Chr tot occl art extrem
+4408	Atherosclerosis NEC
+4409	Atherosclerosis NOS
+44100	Dsct of aorta unsp site
+44101	Dsct of thoracic aorta
+44102	Dsct of abdominal aorta
+44103	Dsct of thoracoabd aorta
+4411	Ruptur thoracic aneurysm
+4412	Thoracic aortic aneurysm
+4413	Rupt abd aortic aneurysm
+4414	Abdom aortic aneurysm
+4416	Thoracoabd aneurysm rupt
+4417	Thracabd anurysm wo rupt
+4419	Aortic aneurysm NOS
+4420	Upper extremity aneurysm
+4421	Renal artery aneurysm
+4422	Iliac artery aneurysm
+4423	Lower extremity aneurysm
+44281	Aneurysm of neck
+44282	Subclavian aneurysm
+44283	Splenic artery aneurysm
+44284	Visceral aneurysm NEC
+44289	Aneurysm NEC
+4430	Raynaud's syndrome
+4431	Thromboangiit obliterans
+44321	Dissect carotid artery
+44322	Dissection iliac artery
+44323	Dissection renal artery
+44324	Dissect vertebral artery
+44329	Dissection artery NEC
+44381	Angiopathy in other dis
+44382	Erythromelalgia
+44389	Periph vascular dis NEC
+4439	Periph vascular dis NOS
+44409	Ot art emb/thrm abd aort
+4441	Thoracic aortic embolism
+44421	Upper extremity embolism
+44422	Lower extremity embolism
+44481	Iliac artery embolism
+44489	Arterial embolism NEC
+4449	Arterial embolism NOS
+44502	Atheroembolism,lower ext
+44581	Atheroembolism, kidney
+44589	Atheroembolism, site NEC
+4460	Polyarteritis nodosa
+44620	Hypersensit angiitis NOS
+44621	Goodpasture's syndrome
+44629	Hypersensit angiitis NEC
+4464	Wegener's granulomatosis
+4465	Giant cell arteritis
+4466	Thrombot microangiopathy
+4467	Takayasu's disease
+4470	Acq arterioven fistula
+4471	Stricture of artery
+4472	Rupture of artery
+4473	Renal artery hyperplasia
+4474	Celiac art compress syn
+4475	Necrosis of artery
+4476	Arteritis NOS
+44771	Thoracic aortic ectasia
+44772	Abdominal aortic ectasia
+44773	Thoracoabd aortc ectasia
+4478	Arterial disease NEC
+4479	Arterial disease NOS
+4480	Heredit hemorr telangiec
+4481	Nevus, non-neoplastic
+4489	Capillary dis NEC/NOS
+449	Septic arterial embolism
+4510	Superfic phlebitis-leg
+45111	Femoral vein phlebitis
+45119	Deep phlebitis-leg NEC
+4512	Thrombophlebitis leg NOS
+45181	Iliac thrombophlebitis
+45182	Phlbts sprfc vn up extrm
+45183	Phlbts deep vn up extrm
+45184	Phlbts vn NOS up extrm
+45189	Thrombophlebitis NEC
+4519	Thrombophlebitis NOS
+452	Portal vein thrombosis
+4530	Budd-chiari syndrome
+4531	Thrombophlebitis migrans
+4532	Oth inf vena cava thromb
+4533	Renal vein thrombosis
+39890	Rheumatic heart dis NOS
+39891	Rheumatic heart failure
+39899	Rheumatic heart dis NEC
+4010	Malignant hypertension
+4011	Benign hypertension
+4019	Hypertension NOS
+40200	Mal hyp ht dis w/o hf
+40201	Mal hypert hrt dis w hf
+40210	Benign hyp ht dis w/o hf
+40290	Hyp hrt dis NOS w/o hf
+40291	Hyp ht dis NOS w ht fail
+40300	Mal hy kid w cr kid I-IV
+40301	Mal hyp kid w cr kid V
+40310	Ben hy kid w cr kid I-IV
+40311	Ben hyp kid w cr kid V
+40390	Hy kid NOS w cr kid I-IV
+40391	Hyp kid NOS w cr kid V
+40400	Mal hy ht/kd I-IV w/o hf
+40401	Mal hyp ht/kd I-IV w hf
+40403	Mal hyp ht/kd stg V w hf
+40411	Ben hyp ht/kd I-IV w hf
+40413	Ben hyp ht/kd stg V w hf
+40490	Hy ht/kd NOS I-IV w/o hf
+40491	Hyp ht/kd NOS I-IV w hf
+40492	Hy ht/kd NOS st V w/o hf
+40493	Hyp ht/kd NOS st V w hf
+40501	Mal renovasc hypertens
+40511	Benign renovasc hyperten
+40591	Renovasc hypertension
+40599	Second hypertension NEC
+41000	AMI anterolateral,unspec
+41001	AMI anterolateral, init
+41002	AMI anterolateral,subseq
+41010	AMI anterior wall,unspec
+41011	AMI anterior wall, init
+41012	AMI anterior wall,subseq
+41020	AMI inferolateral,unspec
+41021	AMI inferolateral, init
+41022	AMI inferolateral,subseq
+41031	AMI inferopost, initial
+41032	AMI inferopost, subseq
+41040	AMI inferior wall,unspec
+41041	AMI inferior wall, init
+41042	AMI inferior wall,subseq
+41051	AMI lateral NEC, initial
+41061	True post infarct, init
+41071	Subendo infarct, initial
+41072	Subendo infarct, subseq
+41081	AMI NEC, initial
+41082	AMI NEC, subsequent
+41090	AMI NOS, unspecified
+41091	AMI NOS, initial
+41092	AMI NOS, subsequent
+4110	Post MI syndrome
+4111	Intermed coronary synd
+41181	Acute cor occlsn w/o MI
+41189	Ac ischemic hrt dis NEC
+412	Old myocardial infarct
+4131	Prinzmetal angina
+4139	Angina pectoris NEC/NOS
+41400	Cor ath unsp vsl ntv/gft
+41401	Crnry athrscl natve vssl
+41402	Crn ath atlg vn bps grft
+41403	Crn ath nonatlg blg grft
+41404	Cor ath artry bypas grft
+41405	Cor ath bypass graft NOS
+41410	Aneurysm of heart
+41411	Aneurysm coronary vessel
+41412	Dissection cor artery
+41419	Aneurysm of heart NEC
+4142	Chr tot occlus cor artry
+4144	Cor ath d/t calc cor lsn
+4148	Chr ischemic hrt dis NEC
+4149	Chr ischemic hrt dis NOS
+4150	Acute cor pulmonale
+41511	Iatrogen pulm emb/infarc
+41512	Septic pulmonary embolsm
+41513	Saddle embol pulmon art
+41519	Pulm embol/infarct NEC
+4160	Prim pulm hypertension
+4162	Chr pulmonary embolism
+4168	Chr pulmon heart dis NEC
+4169	Chr pulmon heart dis NOS
+4170	Arterioven fistu pul ves
+4171	Pulmon artery aneurysm
+4178	Pulmon circulat dis NEC
+4179	Pulmon circulat dis NOS
+4200	Ac pericardit in oth dis
+42090	Acute pericarditis NOS
+42091	Ac idiopath pericarditis
+42099	Acute pericarditis NEC
+4210	Ac/subac bact endocard
+4219	Ac/subac endocardit NOS
+4220	Ac myocardit in oth dis
+42290	Acute myocarditis NOS
+42291	Idiopathic myocarditis
+42292	Septic myocarditis
+42293	Toxic myocarditis
+4230	Hemopericardium
+4231	Adhesive pericarditis
+4232	Constrictiv pericarditis
+4233	Cardiac tamponade
+4238	Pericardial disease NEC
+4239	Pericardial disease NOS
+4240	Mitral valve disorder
+4241	Aortic valve disorder
+4242	Nonrheum tricusp val dis
+4243	Pulmonary valve disorder
+42490	Endocarditis NOS
+42491	Endocarditis in oth dis
+42511	Hyprtrophc obst cardiomy
+42518	Oth hyprtrophic cardiomy
+4253	Endocard fibroelastosis
+4254	Prim cardiomyopathy NEC
+4255	Alcoholic cardiomyopathy
+4257	Metabolic cardiomyopathy
+4258	Cardiomyopath in oth dis
+4259	Second cardiomyopath NOS
+4260	Atriovent block complete
+42610	Atriovent block NOS
+42611	Atriovent block-1st degr
+42612	Atrioven block-mobitz ii
+42613	Av block-2nd degree NEC
+4262	Left bb hemiblock
+4263	Left bb block NEC
+4264	Rt bundle branch block
+42650	Bundle branch block NOS
+42651	Rt bbb/lft post fasc blk
+42652	Rt bbb/lft ant fasc blk
+42653	Bilat bb block NEC
+42654	Trifascicular block
+4266	Other heart block
+4267	Anomalous av excitation
+42682	Long QT syndrome
+42689	Conduction disorder NEC
+4269	Conduction disorder NOS
+4270	Parox atrial tachycardia
+4271	Parox ventric tachycard
+4272	Parox tachycardia NOS
+42731	Atrial fibrillation
+42732	Atrial flutter
+42741	Ventricular fibrillation
+42742	Ventricular flutter
+4275	Cardiac arrest
+42760	Premature beats NOS
+42761	Atrial premature beats
+42769	Premature beats NEC
+42781	Sinoatrial node dysfunct
+42789	Cardiac dysrhythmias NEC
+4279	Cardiac dysrhythmia NOS
+4280	CHF NOS
+4281	Left heart failure
+42820	Systolic hrt failure NOS
+42821	Ac systolic hrt failure
+42822	Chr systolic hrt failure
+42823	Ac on chr syst hrt fail
+42830	Diastolc hrt failure NOS
+42831	Ac diastolic hrt failure
+42832	Chr diastolic hrt fail
+42833	Ac on chr diast hrt fail
+42840	Syst/diast hrt fail NOS
+42841	Ac syst/diastol hrt fail
+42842	Chr syst/diastl hrt fail
+42843	Ac/chr syst/dia hrt fail
+4289	Heart failure NOS
+4290	Myocarditis NOS
+4291	Myocardial degeneration
+4292	Ascvd
+4293	Cardiomegaly
+4294	Hrt dis postcardiac surg
+4295	Chordae tendinae rupture
+4296	Papillary muscle rupture
+42971	Acq cardiac septl defect
+42979	Other sequelae of MI NEC
+42981	Papillary muscle dis NEC
+42983	Takotsubo syndrome
+42989	Ill-defined hrt dis NEC
+4299	Heart disease NOS
+430	Subarachnoid hemorrhage
+431	Intracerebral hemorrhage
+4320	Nontraum extradural hem
+4321	Subdural hemorrhage
+4329	Intracranial hemorr NOS
+43300	Ocl bslr art wo infrct
+43301	Ocl bslr art w infrct
+43310	Ocl crtd art wo infrct
+43311	Ocl crtd art w infrct
+43320	Ocl vrtb art wo infrct
+43321	Ocl vrtb art w infrct
+43330	Ocl mlt bi art wo infrct
+43331	Ocl mlt bi art w infrct
+43380	Ocl spcf art wo infrct
+43381	Ocl spcf art w infrct
+48249	Staph pneumonia NEC
+48281	Pneumonia anaerobes
+48282	Pneumonia e coli
+48283	Pneumo oth grm-neg bact
+38582	Cholesterin granuloma
+38589	Dis mid ear/mastoid NEC
+38600	Meniere's disease NOS
+38610	Peripheral vertigo NOS
+38611	Benign parxysmal vertigo
+38612	Vestibular neuronitis
+38619	Peripheral vertigo NEC
+3862	Central origin vertigo
+38630	Labyrinthitis NOS
+3897	Deaf, nonspeaking NEC
+3898	Hearing loss NEC
+3899	Hearing loss NOS
+390	Rheum fev w/o hrt involv
+3910	Acute rheumatic pericard
+3911	Acute rheumatic endocard
+3918	Ac rheumat hrt dis NEC
+393	Chr rheumatic pericard
+3940	Mitral stenosis
+3941	Rheumatic mitral insuff
+3942	Mitral stenosis w insuff
+3949	Mitral valve dis NEC/NOS
+3950	Rheumat aortic stenosis
+3951	Rheumatic aortic insuff
+3952	Rheum aortic sten/insuff
+3959	Rheum aortic dis NEC/NOS
+3960	Mitral/aortic stenosis
+3961	Mitral stenos/aort insuf
+3962	Mitral insuf/aort stenos
+3963	Mitral/aortic val insuff
+3968	Mitr/aortic mult involv
+3969	Mitral/aortic v dis NOS
+3970	Tricuspid valve disease
+3971	Rheum pulmon valve dis
+3869	Vertiginous synd NOS
+3879	Otosclerosis NOS
+38830	Tinnitus NOS
+38832	Objective tinnitus
+38842	Hyperacusis
+3885	Acoustic nerve disorders
+38860	Otorrhea NOS
+38861	Cerebrosp fluid otorrhea
+38869	Otorrhea NEC
+38870	Otalgia NOS
+38871	Otogenic pain
+38872	Referred pain of ear
+3888	Disorders of ear NEC
+38900	Conduct hearing loss NOS
+38903	Conduc hear loss mid ear
+38905	Condctv hear loss,unilat
+38906	Condctv hear loss, bilat
+38908	Cond hear loss comb type
+38910	Sensorneur hear loss NOS
+38912	Neural hearng loss,bilat
+38915	Sensorneur hear loss uni
+38917	Sensory hear loss,unilat
+38918	Sensonrl hear loss,bilat
+38921	Mixed hearing loss,unilt
+38922	Mixed hearing loss,bilat
+37214	Chr allrg conjunctiv NEC
+37230	Conjunctivitis NOS
+37239	Conjunctivitis NEC
+37240	Pterygium NOS
+37272	Conjunctival hemorrhage
+37273	Conjunctival edema
+37274	Conjunctiva vasc anomaly
+37275	Conjunctival cysts
+37289	Conjunctiva disorder NEC
+3729	Conjunctiva disorder NOS
+37300	Blepharitis NOS
+37311	Hordeolum externum
+37312	Hordeolum internum
+37313	Abscess of eyelid
+3732	Chalazion
+3739	Inflammation eyelid NOS
+37410	Ectropion NOS
+37420	Lagophthalmos NOS
+37430	Ptosis of eyelid NOS
+37431	Paralytic ptosis
+37432	Myogenic ptosis
+37443	Abnorm innervation synd
+37452	Hyperpigmentation lid
+37482	Edema of eyelid
+37489	Disorders of eyelid NEC
+3749	Disorder of eyelid NOS
+37501	Acute dacryoadenitis
+37515	Tear film insuffic NOS
+37520	Epiphora NOS
+37556	Acq nasolacrml stenosis
+3759	Lacrimal syst dis NOS
+37601	Orbital cellulitis
+37603	Orbital osteomyelitis
+37611	Orbital granuloma
+37612	Orbital myositis
+37630	Exophthalmos NOS
+37632	Orbital hemorrhage
+37633	Orbital edema
+37635	Pulsating exophthalmos
+37652	Enophthalmos d/t trauma
+37689	Orbital disorders NEC
+3769	Orbital disorder NOS
+37700	Papilledema NOS
+37701	Papilledema w incr press
+37702	Papilledema w decr press
+37710	Optic atrophy NOS
+37716	Hereditary optic atrophy
+37730	Optic neuritis NOS
+37733	Nutrition optc neuropthy
+37739	Optic neuritis NEC
+37741	Ischemic optic neuropthy
+37749	Optic nerve disorder NEC
+37751	Opt chiasm w pituit dis
+37775	Cortical blindness
+37800	Esotropia NOS
+37810	Exotropia NOS
+37820	Intermit heterotrop NOS
+37842	Exophoria
+37850	Paralytic strabismus NOS
+37851	Partial third nerv palsy
+37852	Total third nerve palsy
+37853	Fourth nerve palsy
+37854	Sixth nerve palsy
+37855	External ophthalmoplegia
+37871	Duane's syndrome
+37881	Palsy of conjugate gaze
+37882	Spasm of conjugate gaze
+37886	Internucl ophthalmopleg
+37887	Skew deviation, eye
+3789	Eye movemnt disorder NOS
+37900	Scleritis NOS
+37909	Scleritis NEC
+37921	Vitreous degeneration
+37922	Crystal deposit vitreous
+37923	Vitreous hemorrhage
+37924	Vitreous opacities NEC
+37940	Abn pupil function NOS
+37941	Anisocoria
+37942	Miosis not d/t miotics
+37943	Mydriasis not d/t mydrtc
+37950	Nystagmus NOS
+37952	Latent nystagmus
+37955	Dissociated nystagmus
+37956	Nystagmus NEC
+56210	Dvrtclo colon w/o hmrhg
+3798	Eye disorders NEC
+45340	Ac DVT/embl low ext NOS
+45341	Ac DVT/emb prox low ext
+45342	Ac DVT/emb distl low ext
+45350	Ch DVT/embl low ext NOS
+45351	Ch DVT/embl prox low ext
+45352	Ch DVT/embl dstl low ext
+4536	Embl suprfcl ves low ext
+45371	Ch emblsm suprfcl up ext
+45372	Ch DVT/embl up ext
+45374	Ch emblsm axillary veins
+45375	Ch emblsm subclav veins
+45376	Ch embl internl jug vein
+45377	Ch embl thorac vein NEC
+45379	Ch emblsm veins NEC
+45381	Ac embl suprfcl up ext
+45382	Ac DVT/embl up ext
+45383	Ac emblsm up ext NOS
+45384	Ac emblsm axillary veins
+45385	Ac embl subclav veins
+45386	Ac embl internl jug vein
+45387	Ac embl thorac vein NEC
+45389	Ac embolism veins NEC
+4539	Venous thrombosis NOS
+4540	Leg varicosity w ulcer
+4541	Leg varicosity w inflam
+4542	Varicos leg ulcer/inflam
+4548	Varic vein leg,comp NEC
+4549	Asympt varicose veins
+4550	Int hemorrhoid w/o compl
+4551	Int thrombos hemorrhoid
+4552	Int hemrrhoid w comp NEC
+4553	Ext hemorrhoid w/o compl
+4554	Ext thrombos hemorrhoid
+4555	Ext hemrrhoid w comp NEC
+4556	Hemorrhoids NOS
+4558	Hemrrhoid NOS w comp NEC
+4559	Residual hemorrhoid tags
+4560	Esophag varices w bleed
+4561	Esoph varices w/o bleed
+45620	Bleed esoph var oth dis
+45621	Esoph varice oth dis NOS
+4568	Varices of other sites
+4570	Postmastect lymphedema
+4571	Other lymphedema
+4572	Lymphangitis
+4578	Noninfect lymph dis NEC
+4580	Orthostatic hypotension
+4581	Chronic hypotension
+45821	Hemododialysis hypotensn
+45829	Iatrogenc hypotnsion NEC
+4588	Hypotension NEC
+4589	Hypotension NOS
+4590	Hemorrhage NOS
+45910	Postphlbtc synd w/o comp
+4592	Compression of vein
+45981	Venous insufficiency NOS
+45989	Circulatory disease NEC
+4599	Circulatory disease NOS
+4610	Ac maxillary sinusitis
+4611	Ac frontal sinusitis
+4612	Ac ethmoidal sinusitis
+4613	Ac sphenoidal sinusitis
+4618	Other acute sinusitis
+4619	Acute sinusitis NOS
+462	Acute pharyngitis
+463	Acute tonsillitis
+46400	Ac laryngitis w/o obst
+46410	Ac tracheitis no obstruc
+46411	Ac tracheitis w obstruct
+46430	Ac epiglottitis no obstr
+46431	Ac epiglottitis w obstr
+46450	Supraglottis w/o obs NOS
+46451	Supraglottis w obstr NOS
+4659	Acute uri NOS
+4660	Acute bronchitis
+46611	Acu broncholitis d/t RSV
+46619	Acu brnchlts d/t oth org
+470	Deviated nasal septum
+4710	Polyp of nasal cavity
+4718	Nasal sinus polyp NEC
+4719	Nasal polyp NOS
+4720	Chronic rhinitis
+4730	Chr maxillary sinusitis
+4731	Chr frontal sinusitis
+4732	Chr ethmoidal sinusitis
+4733	Chr sphenoidal sinusitis
+4738	Chronic sinusitis NEC
+4739	Chronic sinusitis NOS
+47400	Chronic tonsillitis
+47411	Hypertrophy tonsils
+47412	Hypertrophy adenoids
+4748	Chr T & A dis NEC
+4749	Chr T & A dis NOS
+475	Peritonsillar abscess
+4770	Rhinitis due to pollen
+4772	Allerg rhinitis-cat/dog
+4778	Allergic rhinitis NEC
+4779	Allergic rhinitis NOS
+4780	Hypertrph nasal turbinat
+47819	Nasal & sinus dis NEC
+47820	Disease of pharynx NOS
+47821	Cellulitis of pharynx
+47822	Parapharyngeal abscess
+47824	Retropharyngeal abscess
+47825	Edema pharynx/nasopharyx
+47829	Disease of pharynx NEC
+47830	Vocal cord paralysis NOS
+47831	Vocal paral unilat part
+47832	Vocal paral unilat total
+47833	Vocal paral bilat part
+47834	Vocal paral bilat total
+4784	Vocal cord/larynx polyp
+4785	Vocal cord disease NEC
+4786	Edema of larynx
+47870	Disease of larynx NOS
+47871	Laryngeal cellulitis
+47874	Stenosis of larynx
+47875	Laryngeal spasm
+47879	Disease of larynx NEC
+4789	Upper resp dis NEC/NOS
+4801	Resp syncyt viral pneum
+4802	Parinfluenza viral pneum
+4808	Viral pneumonia NEC
+4809	Viral pneumonia NOS
+481	Pneumococcal pneumonia
+4820	K. pneumoniae pneumonia
+4821	Pseudomonal pneumonia
+4822	H.influenzae pneumonia
+48230	Streptococcal pneumn NOS
+48231	Pneumonia strptococcus a
+48232	Pneumonia strptococcus b
+48239	Pneumonia oth strep
+48240	Staphylococcal pneu NOS
+48241	Meth sus pneum d/t Staph
+48242	Meth res pneu d/t Staph
+48284	Legionnaires' disease
+48289	Pneumonia oth spcf bact
+4829	Bacterial pneumonia NOS
+4830	Pneu mycplsm pneumoniae
+4838	Pneumon oth spec orgnsm
+4841	Pneum w cytomeg incl dis
+4843	Pneumonia in whoop cough
+4846	Pneum in aspergillosis
+4847	Pneum in oth sys mycoses
+4848	Pneum in infect dis NEC
+485	Bronchopneumonia org NOS
+486	Pneumonia, organism NOS
+4870	Influenza with pneumonia
+4871	Flu w resp manifest NEC
+4878	Flu w manifestation NEC
+48801	Flu dt iden avian w pneu
+490	Bronchitis NOS
+4910	Simple chr bronchitis
+49120	Obst chr bronc w/o exac
+49121	Obs chr bronc w(ac) exac
+49122	Obs chr bronc w ac bronc
+4918	Chronic bronchitis NEC
+4919	Chronic bronchitis NOS
+4920	Emphysematous bleb
+55300	Unilat femoral hernia
+5531	Umbilical hernia
+55320	Ventral hernia NOS
+55321	Incisional hernia
+55329	Ventral hernia NEC
+5533	Diaphragmatic hernia
+5538	Hernia NEC
+5539	Hernia NOS
+5550	Reg enteritis, sm intest
+5551	Reg enteritis, lg intest
+5552	Reg enterit sm/lg intest
+5559	Regional enteritis NOS
+5560	Ulcerative enterocolitis
+5561	Ulcerative ileocolitis
+5562	Ulcerative proctitis
+5563	Ulcertve prctosigmoidtis
+5564	Pseudopolyposis colon
+5565	Lftsded ulcertve colitis
+5566	Univrsl ulcertve colitis
+5568	Other ulcerative colitis
+5569	Ulceratve colitis unspcf
+5570	Ac vasc insuff intestine
+5571	Chr vasc insuff intest
+5579	Vasc insuff intest NOS
+5581	Radiation gastroenterit
+5582	Toxic gastroenteritis
+5583	Allrgic gastro & colitis
+55841	Eosinophilic gastroent
+5589	Noninf gastroenterit NEC
+5600	Intussusception
+5601	Paralytic ileus
+5602	Volvulus of intestine
+56030	Impaction intestine NOS
+56031	Gallstone ileus
+56032	Fecal impaction
+56039	Impaction intestine NEC
+56081	Intestinal adhes w obstr
+56089	Intestinal obstruct NEC
+5609	Intestinal obstruct NOS
+56200	Dvrtclo sml int w/o hmrg
+56201	Dvrtcli sml int w/o hmrg
+56202	Dvrtclo sml int w hmrhg
+6173	Pelv perit endometriosis
+56211	Dvrtcli colon w/o hmrhg
+56212	Dvrtclo colon w hmrhg
+56213	Dvrtcli colon w hmrhg
+56400	Constipation NOS
+56401	Slow transt constipation
+56409	Constipation NEC
+5641	Irritable bowel syndrome
+5642	Postgastric surgery synd
+5643	Vomiting post-gi surgery
+5644	Postop GI funct dis NEC
+5646	Anal spasm
+5647	Megacolon NEC
+56481	Neurogenic bowel
+56489	Funct dis intestine NEC
+5650	Anal fissure
+5651	Anal fistula
+566	Anal & rectal abscess
+5670	Peritonitis in infec dis
+5671	Pneumococcal peritonitis
+56721	Peritonitis (acute) gen
+56722	Peritoneal abscess
+56723	Spontan bact peritonitis
+56729	Suppurat peritonitis NEC
+56731	Psoas muscle abscess
+56738	Retroperiton abscess NEC
+56781	Choleperitonitis
+56782	Sclerosing mesenteritis
+56789	Peritonitis NEC
+5679	Peritonitis NOS
+5680	Peritoneal adhesions
+56881	Hemoperitoneum
+56882	Peritoneal effusion
+56889	Peritoneal disorder NEC
+5690	Anal & rectal polyp
+5691	Rectal prolapse
+5692	Rectal & anal stenosis
+5693	Rectal & anal hemorrhage
+56941	Rectal & anal ulcer
+56942	Anal or rectal pain
+56944	Dysplasia of anus
+56949	Rectal & anal dis NEC
+5695	Intestinal abscess
+56960	Colstomy/enter comp NOS
+56961	Colosty/enterost infectn
+56962	Colosty/enter comp-mech
+56969	Colstmy/enteros comp NEC
+56971	Pouchitis
+56979	Comp intest pouch NEC
+56981	Intestinal fistula
+56982	Ulceration of intestine
+56983	Perforation of intestine
+56984	Angio intes w/o hmrhg
+56985	Angio intes w hmrhg
+56986	Dieulafoy les, intestine
+56987	Vomiting of fecal matter
+56989	Intestinal disorders NEC
+5699	Intestinal disorder NOS
+570	Acute necrosis of liver
+5710	Alcoholic fatty liver
+5711	Ac alcoholic hepatitis
+52469	Other specf TMJ disordrs
+52489	Dentofacial anomaly NEC
+52510	Acq absence of teeth NOS
+52511	Loss of teeth d/t trauma
+52512	Loss teeth d/t peri dis
+5253	Retained dental root
+52540	Complete edentulism NOS
+52550	Partial edentulism NOS
+43391	Ocl art NOS w infrct
+43400	Crbl thrmbs wo infrct
+43401	Crbl thrmbs w infrct
+43410	Crbl emblsm wo infrct
+43411	Crbl emblsm w infrct
+43490	Crbl art oc NOS wo infrc
+43491	Crbl art ocl NOS w infrc
+4350	Basilar artery syndrome
+4351	Vertebral artery syndrom
+4352	Subclavian steal syndrom
+4353	Vertbrobaslr artery synd
+4358	Trans cereb ischemia NEC
+4359	Trans cereb ischemia NOS
+436	Cva
+4370	Cerebral atherosclerosis
+4371	Ac cerebrovasc insuf NOS
+4372	Hypertens encephalopathy
+4373	Nonrupt cerebral aneurym
+4374	Cerebral arteritis
+4375	Moyamoya disease
+4376	Nonpyogen thrombos sinus
+4377	Transient global amnesia
+4378	Cerebrovasc disease NEC
+4379	Cerebrovasc disease NOS
+4380	Late ef CV dis-cognf def
+43810	Late ef-spch/lng def NOS
+43811	Late eff CV dis-aphasia
+43812	Late eff CV dis-dysphsia
+43813	Late eff CV-dysarthria
+43814	Late eff CV-fluency dis
+43819	Late ef-spch/lang df NEC
+43820	Late ef-hemplga side NOS
+43821	Late ef-hemplga dom side
+43822	Late ef-hemiplga non-dom
+43830	Late ef-mplga up lmb NOS
+43831	Late ef-mplga up lmb dom
+43840	Lte ef-mplga low lmb NOS
+43850	Lt ef oth paral side NOS
+43852	Lt ef oth parals non-dom
+43853	Lt ef oth parals-bilat
+4386	Alteration of sensations
+4387	Disturbances of vision
+43881	Late eff CV dis-apraxia
+43882	Late ef CV dis dysphagia
+43883	Facial weakness
+4928	Emphysema NEC
+49300	Extrinsic asthma NOS
+49301	Ext asthma w status asth
+49302	Ext asthma w(acute) exac
+49320	Chronic obst asthma NOS
+49321	Ch ob asthma w stat asth
+49322	Ch obst asth w (ac) exac
+49381	Exercse ind bronchospasm
+49382	Cough variant asthma
+49390	Asthma NOS
+49391	Asthma w status asthmat
+49392	Asthma NOS w (ac) exac
+4940	Bronchiectas w/o ac exac
+4941	Bronchiectasis w ac exac
+4957	"ventilation" pneumonit
+4958	Allerg alveol/pneum NEC
+4959	Allerg alveol/pneum NOS
+496	Chr airway obstruct NEC
+500	Coal workers' pneumocon
+501	Asbestosis
+502	Silica pneumocon NEC
+5060	Fum/vapor bronc/pneumon
+5070	Food/vomit pneumonitis
+5071	Oil/essence pneumonitis
+5078	Solid/liq pneumonit NEC
+5080	Ac pul manif d/t radiat
+5081	Chr pul manif d/t radiat
+5082	Resp cond dt smoke inhal
+5088	Resp cond: ext agent NEC
+5100	Empyema with fistula
+5109	Empyema w/o fistula
+5110	Pleurisy w/o effus or TB
+5111	Bact pleur/effus not TB
+51181	Malignant pleural effusn
+51189	Effusion NEC exc tb
+5119	Pleural effusion NOS
+5120	Spont tens pneumothorax
+5121	Iatrogenic pneumothorax
+5122	Postoperative air leak
+51283	Chronic pneumothorax
+51284	Other air leak
+51289	Other pneumothorax
+5130	Abscess of lung
+5131	Abscess of mediastinum
+514	Pulm congest/hypostasis
+515	Postinflam pulm fibrosis
+5160	Pul alveolar proteinosis
+5161	Idio pulm hemosiderosis
+51631	Idiopath pulmon fibrosis
+51633	Acute interstitial pneum
+51634	Resp brncio interst lung
+51636	Cryptogenic organiz pneu
+5164	Lymphangioleiomyomatosis
+5168	Alveol pneumonopathy NEC
+5169	Alveol pneumonopathy NOS
+5172	Syst sclerosis lung dis
+5173	Acute chest syndrome
+5178	Lung involv in oth dis
+52181	Cracked tooth
+5219	Hard tiss dis teeth NOS
+5224	Ac apical periodontitis
+5225	Periapical abscess
+5226	Chr apical periodontitis
+52310	Chronc gingititis,plaque
+52330	Aggres periodontitis NOS
+52331	Aggres periodontitis,loc
+52333	Acute periodontitis
+52340	Chronc periodontitis NOS
+52342	Chron periodontitis,gen
+5235	Periodontosis
+5238	Periodontal disease NEC
+5239	Gingiv/periodont dis NOS
+5244	Malocclusion NOS
+52460	TMJ disorders NOS
+52462	Arthralgia TMJ
+5180	Pulmonary collapse
+5181	Interstitial emphysema
+5183	Pulmonary eosinophilia
+5184	Acute lung edema NOS
+51851	Ac resp flr fol trma/srg
+51852	Ot pul insuf fol trm/srg
+51853	Ac/chr rsp flr fol tr/sg
+5186	Alrgc brncpul asprglosis
+5187	Transfsn rel ac lung inj
+51881	Acute respiratry failure
+51882	Other pulmonary insuff
+51883	Chronic respiratory fail
+51884	Acute & chronc resp fail
+51889	Other lung disease NEC
+51900	Tracheostomy comp NOS
+51901	Tracheostomy infection
+51902	Tracheostomy - mech comp
+51909	Tracheostomy comp NEC
+51911	Acute bronchospasm
+51919	Trachea & bronch dis NEC
+5192	Mediastinitis
+5193	Mediastinum disease NEC
+5194	Disorders of diaphragm
+5198	Resp system disease NEC
+5199	Resp system disease NOS
+5200	Anodontia
+5206	Tooth eruption disturb
+52100	Dental caries NOS
+52101	Dental caries - enamel
+52108	Dental caries-root surf
+52109	Dental caries NEC
+6179	Endometriosis NOS
+61800	Vaginal wall prolpse NOS
+61801	Cystocele, midline
+61802	Cystocele, lateral
+61804	Rectocele
+6181	Uterine prolapse
+6182	Uterovag prolaps-incompl
+6183	Uterovag prolaps-complet
+6184	Utervaginal prolapse NOS
+6185	Postop vaginal prolapse
+61882	Incomptnce rectovag tiss
+6190	Urin-genital fistul, fem
+6191	Digest-genit fistul, fem
+6192	Genital-skin fistul, fem
+6198	Fem genital fistula NEC
+6200	Follicular cyst of ovary
+6201	Corpus luteum cyst
+6202	Ovarian cyst NEC/NOS
+6203	Acq atrophy ovary & tube
+6205	Torsion of ovary or tube
+6208	Noninfl dis ova/adnx NEC
+6209	Noninfl dis ova/adnx NOS
+6210	Polyp of corpus uteri
+62130	Endometrial hyperpla NOS
+6214	Hematometra
+6218	Disorders of uterus NEC
+62210	Dysplasia of cervix NOS
+62211	Mild dysplasia of cervix
+63310	Tubal preg w/o intra prg
+63311	Tubal preg w intra preg
+63320	Ovarn preg w/o intra prg
+63380	Ect preg NEC w/o int prg
+63381	Ectpc prg NEC w int preg
+63391	Ectp preg NOS w int preg
+63401	Spon abor w pelv inf-inc
+63411	Spon abort w hemorr-inc
+63412	Spon abort w hemorr-comp
+63421	Spon ab w pelv damag-inc
+63451	Spon abort w shock-inc
+63491	Spon abort uncompl-inc
+63502	Leg abor w pelv inf-comp
+63511	Legal abort w hemorr-inc
+63512	Legal abor w hemorr-comp
+63522	Leg ab w pelv damag-comp
+63552	Legal abort w shock-comp
+6232	Stricture of vagina
+6235	Noninfect vag leukorrhea
+6238	Noninflam dis vagina NEC
+62402	Vulvr intraepth neopl II
+6248	Noninflam dis vulva NEC
+6249	Noninflam dis vulva NOS
+6251	Vaginismus
+6253	Dysmenorrhea
+6254	Premenstrual tension
+6255	Pelvic congestion synd
+6256	Fem stress incontinence
+62570	Vulvodynia NOS
+6258	Fem genital symptoms NEC
+6259	Fem genital symptoms NOS
+6260	Absence of menstruation
+6261	Scanty menstruation
+6262	Excessive menstruation
+6264	Irregular menstruation
+6266	Metrorrhagia
+6268	Menstrual disorder NEC
+6269	Menstrual disorder NOS
+6270	Premenopause menorrhagia
+6271	Postmenopausal bleeding
+6272	Sympt fem climact state
+6273	Atrophic vaginitis
+6274	Sympt state w artif meno
+6278	Menopausal disorder NEC
+6279	Menopausal disorder NOS
+6289	Female infertility NOS
+62981	Rec preg loss wo cur prg
+62989	Female genital disor NEC
+632	Missed abortion
+5712	Alcohol cirrhosis liver
+5713	Alcohol liver damage NOS
+57140	Chronic hepatitis NOS
+57142	Autoimmune hepatitis
+57149	Chronic hepatitis NEC
+5715	Cirrhosis of liver NOS
+5716	Biliary cirrhosis
+5718	Chronic liver dis NEC
+5719	Chronic liver dis NOS
+5720	Abscess of liver
+5721	Portal pyemia
+5722	Hepatic encephalopathy
+5723	Portal hypertension
+5724	Hepatorenal syndrome
+5728	Oth sequela, chr liv dis
+5730	Chr passiv congest liver
+5731	Hepatitis in viral dis
+5733	Hepatitis NOS
+5734	Hepatic infarction
+5735	Hepatopulmonary syndrome
+5738	Liver disorders NEC
+5739	Liver disorder NOS
+57400	Cholelith w ac cholecyst
+57401	Cholelith/ac gb inf-obst
+57410	Cholelith w cholecys NEC
+57411	Cholelith/gb inf NEC-obs
+57420	Cholelithiasis NOS
+57421	Cholelithias NOS w obstr
+57430	Choledocholith/ac gb inf
+57431	Choledochlith/ac gb-obst
+57440	Choledochlith/gb inf NEC
+57441	Choledochlith/gb NEC-obs
+57450	Choledocholithiasis NOS
+57451	Choledochlith NOS w obst
+57460	Gall&bil cal w/ac w/o ob
+57461	Gall&bil cal w/ac w obs
+57470	Gal&bil cal w/oth w/o ob
+57471	Gall&bil cal w/oth w obs
+57480	Gal&bil cal w/ac&chr w/o
+57481	Gal&bil cal w/ac&ch w ob
+57490	Gall&bil cal w/o cho w/o
+57491	Gall&bil cal w/o ch w ob
+5750	Acute cholecystitis
+57510	Cholecystitis NOS
+57511	Chronic cholecystitis
+57512	Acte & chr cholecystitis
+5752	Obstruction gallbladder
+5753	Hydrops of gallbladder
+5754	Perforation gallbladder
+5755	Fistula of gallbladder
+5756	Gb cholesterolosis
+5758	Dis of gallbladder NEC
+5759	Dis of gallbladder NOS
+5760	Postcholecystectomy synd
+5761	Cholangitis
+5762	Obstruction of bile duct
+5763	Perforation of bile duct
+5764	Fistula of bile duct
+5768	Dis of biliary tract NEC
+5769	Dis of biliary tract NOS
+5770	Acute pancreatitis
+5771	Chronic pancreatitis
+5772	Pancreat cyst/pseudocyst
+5778	Pancreatic disease NEC
+5779	Pancreatic disease NOS
+5780	Hematemesis
+5781	Blood in stool
+5789	Gastrointest hemorr NOS
+5790	Celiac disease
+5793	Intest postop nonabsorb
+5798	Intest malabsorption NEC
+5799	Intest malabsorption NOS
+5800	Ac proliferat nephritis
+5804	Ac rapidly progr nephrit
+58081	Ac nephritis in oth dis
+58089	Acute nephritis NEC
+5809	Acute nephritis NOS
+5810	Nephrotic syn, prolifer
+5811	Epimembranous nephritis
+5812	Membranoprolif nephrosis
+58181	Nephrotic syn in oth dis
+58189	Nephrotic syndrome NEC
+5819	Nephrotic syndrome NOS
+5820	Chr proliferat nephritis
+5821	Chr membranous nephritis
+5822	Chr membranoprolif nephr
+5824	Chr rapid progr nephrit
+58281	Chr nephritis in oth dis
+58289	Chronic nephritis NEC
+5829	Chronic nephritis NOS
+5830	Proliferat nephritis NOS
+5831	Membranous nephritis NOS
+5832	Membranoprolif nephr NOS
+5834	Rapidly prog nephrit NOS
+58381	Nephritis NOS in oth dis
+58389	Nephritis NEC
+5839	Nephritis NOS
+5845	Ac kidny fail, tubr necr
+5846	Ac kidny fail, cort necr
+5847	Ac kidny fail, medu necr
+5848	Acute kidney failure NEC
+5849	Acute kidney failure NOS
+5851	Chro kidney dis stage I
+5852	Chro kidney dis stage II
+5853	Chr kidney dis stage III
+5854	Chr kidney dis stage IV
+5855	Chron kidney dis stage V
+5856	End stage renal disease
+5859	Chronic kidney dis NOS
+586	Renal failure NOS
+587	Renal sclerosis NOS
+5880	Renal osteodystrophy
+5881	Nephrogen diabetes insip
+58881	Sec hyperparathyrd-renal
+58889	Impair ren funct dis NEC
+5890	Unilateral small kidney
+59000	Chr pyelonephritis NOS
+59001	Chr pyeloneph w med necr
+59010	Ac pyelonephritis NOS
+59011	Ac pyelonephr w med necr
+5902	Renal/perirenal abscess
+59080	Pyelonephritis NOS
+5909	Infection of kidney NOS
+52563	Fx dental mat w/o loss
+52579	Endos dentl imp fail NEC
+5258	Dental disorder NEC
+5259	Dental disorder NOS
+5260	Devel odontogenic cysts
+5262	Cysts of jaws NEC
+5264	Inflammation of jaw
+5265	Alveolitis of jaw
+52689	Jaw disease NEC
+5269	Jaw disease NOS
+5272	Sialoadenitis
+5273	Salivary gland abscess
+5275	Sialolithiasis
+5277	Salivary secretion dis
+5278	Salivary gland dis NEC
+5279	Salivary gland dis NOS
+52800	Stomatitis/mucositis NOS
+52801	Mucosits d/t antineo rx
+52809	Stomatits & mucosits NEC
+5282	Oral aphthae
+5283	Cellulitis/abscess mouth
+5285	Diseases of lips
+5286	Leukoplakia oral mucosa
+5289	Oral soft tissue dis NEC
+5290	Glossitis
+5291	Geographic tongue
+5293	Hypertroph tongue papill
+5296	Glossodynia
+5298	Tongue disorder NEC
+5300	Achalasia & cardiospasm
+53010	Esophagitis, unspecified
+53011	Reflux esophagitis
+53012	Acute esophagitis
+53013	Eosinophilic esophagitis
+53019	Other esophagitis
+53020	Ulc esophagus w/o bleed
+53021	Ulcer esophagus w bleed
+5303	Esophageal stricture
+5304	Perforation of esophagus
+5305	Dyskinesia of esophagus
+5306	Acq esophag diverticulum
+5307	Mallory-weiss syndrome
+53081	Esophageal reflux
+53082	Esophageal hemorrhage
+53084	Tracheoesophageal fstula
+53085	Barrett's esophagus
+53087	Mech comp esophagostomy
+53089	Other dsrders esophagus
+5309	Esophageal disorder NOS
+53100	Ac stomach ulcer w hem
+53101	Ac stomac ulc w hem-obst
+53110	Ac stomach ulcer w perf
+53111	Ac stom ulc w perf-obst
+53120	Ac stomac ulc w hem/perf
+53130	Acute stomach ulcer NOS
+53140	Chr stomach ulc w hem
+53141	Chr stom ulc w hem-obstr
+53150	Chr stomach ulcer w perf
+53160	Chr stomach ulc hem/perf
+53170	Chr stomach ulcer NOS
+53171	Chr stomach ulc NOS-obst
+53190	Stomach ulcer NOS
+53191	Stomach ulcer NOS-obstr
+53200	Ac duodenal ulcer w hem
+53201	Ac duoden ulc w hem-obst
+53210	Ac duodenal ulcer w perf
+53211	Ac duoden ulc perf-obstr
+53220	Ac duoden ulc w hem/perf
+53230	Acute duodenal ulcer NOS
+53240	Chr duoden ulcer w hem
+53241	Chr duoden ulc hem-obstr
+53250	Chr duoden ulcer w perf
+53251	Chr duoden ulc perf-obst
+53260	Chr duoden ulc hem/perf
+53261	Chr duod ulc hem/perf-ob
+53270	Chr duodenal ulcer NOS
+53290	Duodenal ulcer NOS
+53291	Duodenal ulcer NOS-obstr
+53300	Ac peptic ulcer w hemorr
+53311	Ac peptic ulc w perf-obs
+53340	Chr peptic ulcer w hem
+53370	Chronic peptic ulcer NOS
+53390	Peptic ulcer NOS
+53400	Ac marginal ulcer w hem
+53401	Ac margin ulc w hem-obst
+53410	Ac marginal ulcer w perf
+53430	Ac marginal ulcer NOS
+53440	Chr marginal ulcer w hem
+53441	Chr margin ulc w hem-obs
+53450	Chr marginal ulc w perf
+53490	Gastrojejunal ulcer NOS
+53500	Acute gastrtis w/o hmrhg
+53501	Acute gastritis w hmrhg
+53510	Atrph gastrtis w/o hmrhg
+53511	Atrph gastritis w hmrhg
+53520	Gstr mcsl hyprt w/o hmrg
+53530	Alchl gastrtis w/o hmrhg
+53531	Alchl gstritis w hmrhg
+53540	Oth spf gstrt w/o hmrhg
+53541	Oth spf gastrt w hmrhg
+53550	Gstr/ddnts NOS w/o hmrhg
+53551	Gstr/ddnts NOS w hmrhg
+53560	Duodenitis w/o hmrhg
+53561	Duodenitis w hmrhg
+53570	Eosinophil gastrt wo hem
+5361	Ac dilation of stomach
+5362	Persistent vomiting
+5363	Gastroparesis
+53640	Gastrostomy comp NOS
+53641	Gastrostomy infection
+53642	Gastrostomy comp - mech
+53649	Gastrostomy comp NEC
+5368	Stomach function dis NEC
+5369	Stomach function dis NOS
+5370	Acq pyloric stenosis
+5371	Gastric diverticulum
+5373	Duodenal obstruction NEC
+5374	Gastric/duodenal fistula
+53781	Pylorospasm
+53782	Angio stm/dudn w/o hmrhg
+53783	Angio stm/dudn w hmrhg
+53784	Dieulafoy les,stom&duod
+53789	Gastroduodenal dis NEC
+5379	Gastroduodenal dis NOS
+538	GI mucositis (ulceratve)
+53989	Ot comp ot bariatrc proc
+5400	Ac append w peritonitis
+5401	Abscess of appendix
+5409	Acute appendicitis NOS
+541	Appendicitis NOS
+542	Other appendicitis
+5439	Diseases of appendix NEC
+55000	Unilat ing hernia w gang
+55001	Recur unil ing hern-gang
+55010	Unilat ing hernia w obst
+55011	Recur unil ing hern-obst
+55012	Bilat ing hernia w obst
+55090	Unilat inguinal hernia
+55091	Recur unilat inguin hern
+55092	Bilat inguinal hernia
+55093	Recur bilat inguin hern
+55100	Unil femoral hern w gang
+5511	Umbilical hernia w gangr
+55120	Gangr ventral hernia NOS
+55121	Gangr incisional hernia
+55129	Gang ventral hernia NEC
+5513	Diaphragm hernia w gangr
+5518	Hernia, site NEC w gangr
+55200	Unil femoral hern w obst
+5521	Umbilical hernia w obstr
+55220	Obstr ventral hernia NOS
+55221	Obstr incisional hernia
+55229	Obstr ventral hernia NEC
+5523	Diaphragm hernia w obstr
+5528	Hernia, site NEC w obstr
+5529	Hernia, site NOS w obstr
+6071	Balanoposthitis
+6072	Inflam dis, penis NEC
+6073	Priapism
+60781	Balanitis xerotica oblit
+60782	Vascular disorder, penis
+60783	Edema of penis
+60784	Impotence, organic orign
+60785	Peyronie's disease
+60789	Disorder of penis NEC
+6079	Disorder of penis NOS
+6080	Seminal vesiculitis
+60820	Torsion of testis NOS
+6084	Male gen inflam dis NEC
+60883	Male gen vascul dis NEC
+60886	Edema, male genital orgn
+60889	Male genital dis NEC
+6089	Male genital dis NOS
+6101	Diffus cystic mastopathy
+6110	Inflam disease of breast
+6111	Hypertrophy of breast
+6116	Galactorrhea-nonobstet
+61171	Mastodynia
+61172	Lump or mass in breast
+61179	Symptoms in breast NEC
+61189	Disorders breast NEC
+6119	Breast disorder NOS
+6140	Ac salpingo-oophoritis
+6141	Chr salpingo-oophoritis
+6142	Salpingo-oophoritis NOS
+6143	Acute parametritis
+6144	Chronic parametritis
+6145	Ac pelv peritonitis-fem
+6146	Fem pelvic periton adhes
+6149	Fem pelv inflam dis NOS
+6150	Ac uterine inflammation
+6151	Chr uterine inflammation
+6159	Uterine inflam dis NOS
+6160	Cervicitis
+61610	Vaginitis NOS
+6162	Bartholin's gland cyst
+6164	Abscess of vulva NEC
+61650	Ulceration of vulva NOS
+61689	Inflm cerv,vag,vulva NEC
+6169	Female gen inflam NOS
+6170	Uterine endometriosis
+6171	Ovarian endometriosis
+6172	Tubal endometriosis
+64511	Post term preg-del
+6175	Intestinal endometriosis
+6178	Endometriosis NEC
+6390	Postabortion gu infect
+6391	Postabortion hemorrhage
+6392	Postabort pelvic damage
+6396	Postabortion embolism
+6398	Postabortion compl NEC
+64101	Placenta previa-deliver
+64103	Placenta previa-antepart
+64111	Placenta prev hem-deliv
+64121	Prem separ placen-deliv
+64131	Coag def hemorr-deliver
+64133	Coag def hemorr-antepart
+64201	Essen hyperten-delivered
+64203	Essen hyperten-antepart
+64204	Essen hyperten-postpart
+64214	Renal hyperten-postpart
+64224	Old hyperten NEC-postpar
+64231	Trans hyperten-delivered
+64233	Trans hyperten-antepart
+64234	Trans hyperten-postpart
+64241	Mild/NOS preeclamp-deliv
+64243	Mild/NOS preeclamp-antep
+64244	Mild/NOS preeclamp-p/p
+64251	Severe preeclamp-deliver
+64252	Sev preeclamp-del w p/p
+64254	Sev preeclamp-postpartum
+64261	Eclampsia-delivered
+64263	Eclampsia-antepartum
+64264	Eclampsia-postpartum
+64271	Tox w old hyperten-deliv
+64274	Tox w old hyper-postpart
+64292	Hypertens NOS-del w p/p
+64293	Hypertens NOS-antepartum
+64294	Hypertens NOS-postpartum
+64303	Mild hyperemesis-antepar
+64313	Hyperem w metab-antepart
+64403	Thrt prem labor-antepart
+64421	Early onset delivery-del
+64621	Renal dis NOS-delivered
+64623	Renal dis NOS-antepartum
+64653	Asy bacteriuria-antepart
+64661	Gu infection-delivered
+64663	Gu infection-antepartum
+64664	Gu infection-postpartum
+64671	Liver/bil trct disr-del
+64673	Liver/bil trct disr-ante
+64681	Preg compl NEC-delivered
+64682	Preg compl NEC-del w p/p
+64683	Preg compl NEC-antepart
+591	Hydronephrosis
+5920	Calculus of kidney
+5921	Calculus of ureter
+5929	Urinary calculus NOS
+5931	Hypertrophy of kidney
+5932	Cyst of kidney, acquired
+5933	Stricture of ureter
+5934	Ureteric obstruction NEC
+5935	Hydroureter
+59370	Vescouretrl rflux unspcf
+59373	Vscourtl rflx w npht NOS
+59381	Renal vascular disorder
+59382	Ureteral fistula
+59389	Renal & ureteral dis NEC
+5939	Renal & ureteral dis NOS
+5940	Blad diverticulum calcul
+5941	Bladder calculus NEC
+5942	Urethral calculus
+5949	Lower urin calcul NOS
+5950	Acute cystitis
+5951	Chr interstit cystitis
+5952	Chronic cystitis NEC
+59581	Cystitis cystica
+59582	Irradiation cystitis
+59589	Cystitis NEC
+5959	Cystitis NOS
+5960	Bladder neck obstruction
+5961	Intestinovesical fistula
+5963	Diverticulum of bladder
+5964	Atony of bladder
+59651	Hypertonicity of bladder
+59654	Neurogenic bladder NOS
+59655	Detrusr sphinc dyssnrgia
+59659	Oth func dsdr bladder
+5966	Bladder rupt, nontraum
+5967	Bladder wall hemorrhage
+59689	Disorders of bladder NEC
+5969	Bladder disorder NOS
+5970	Urethral abscess
+59789	Urethritis NEC
+59800	Urethr strict:infect NOS
+5981	Traum urethral stricture
+5982	Postop urethral strictur
+5988	Urethral stricture NEC
+5989	Urethral stricture NOS
+5990	Urin tract infection NOS
+5991	Urethral fistula
+5993	Urethral caruncle
+5994	Urethral false passage
+5995	Prolapse urethral mucosa
+59960	Urinary obstruction NOS
+59969	Urinary obstruction NEC
+59970	Hematuria NOS
+59971	Gross hematuria
+59972	Microscopic hematuria
+59984	Oth spcf dsdr urethra
+60000	BPH w/o urinary obs/LUTS
+60001	BPH w urinary obs/LUTS
+60010	Nod prostate w/o ur obst
+60011	Nod prostate w ur obst
+60090	BPH NOS w/o ur obs/LUTS
+60091	BPH NOS w ur obs/LUTS
+6010	Acute prostatitis
+6011	Chronic prostatitis
+6012	Abscess of prostate
+6018	Prostatic inflam dis NEC
+6019	Prostatitis NOS
+6021	Prostatic congest/hemorr
+6023	Dysplasia of prostate
+6028	Prostatic disorders NEC
+6031	Infected hydrocele
+6038	Hydrocele NEC
+6039	Hydrocele NOS
+6040	Orchitis with abscess
+60490	Orchitis/epididymit NOS
+60499	Orchitis/epididymit NEC
+605	Redun prepuce & phimosis
+64761	Oth viral dis-delivered
+64781	Infect dis NEC-delivered
+64782	Infect dis NEC-del w p/p
+64783	Infect dis NEC-antepart
+64784	Infect dis NEC-postpart
+64793	Infect NOS-antepartum
+64801	Diabetes-delivered
+64803	Diabetes-antepartum
+64804	Diabetes-postpartum
+64811	Thyroid dysfunc-deliver
+64813	Thyroid dysfunc-antepart
+64814	Thyroid dysfunc-postpart
+64821	Anemia-delivered
+64822	Anemia-delivered w p/p
+64823	Anemia-antepartum
+64824	Anemia-postpartum
+64831	Drug dependence-deliver
+64833	Drug dependence-antepart
+64841	Mental disorder-deliver
+64842	Mental dis-deliv w p/p
+64843	Mental disorder-antepart
+64844	Mental disorder-postpart
+64852	Congen CV dis-del w p/p
+64861	CV dis NEC preg-deliver
+64862	CV dis NEC-deliver w p/p
+64863	CV dis NEC-antepartum
+64864	CV dis NEC-postpartum
+64881	Abn glucose toler-deliv
+64883	Abn glucose-antepartum
+64884	Abn glucose-postpartum
+64891	Oth curr cond-delivered
+64892	Oth curr cond-del w p/p
+64893	Oth curr cond-antepartum
+64894	Oth curr cond-postpartum
+64903	Tobacco use dis-antepart
+64904	Tobacco use dis-postpart
+64913	Obesity-antepartum
+64914	Obesity-postpartum
+64931	Coagulation def-deliv
+64933	Coagulation def-antepart
+64934	Coagulation def-postpart
+64943	Epilepsy-antepartum
+64944	Epilepsy-postpartum
+63572	Leg ab w compl NEC-comp
+63590	Legal abort uncompl-unsp
+63592	Legal abort uncompl-comp
+65101	Twin pregnancy-delivered
+65221	Breech presentat-deliver
+65251	High head at term-deliv
+65261	Mult gest malpres-deliv
+65404	Congen abn uter-postpart
+65411	Uterine tumor-delivered
+65414	Uterine tumor-postpartum
+65421	Prev c-delivery-delivrd
+65423	Prev c-delivery-antepart
+65441	Abn uterus NEC-delivered
+65444	Abn uterus NEC-postpart
+65451	Cervical incompet-deliv
+65571	Decrease fetal movmt del
+65583	Fetal abnorm NEC-antepar
+65613	Rh isoimmunizat-antepart
+81611	Fx mid/prx phal, hand-op
+81612	Fx distal phal, hand-opn
+81613	Fx mult phalan, hand-opn
+8170	Multiple fx hand-closed
+8171	Multiple fx hand-open
+8190	Fx arms w rib/sternum-cl
+8191	Fx arms w rib/stern-open
+82001	Fx up femur epiphy-clos
+82002	Fx femur, midcervic-clos
+82003	Fx base femoral nck-clos
+82009	Fx femur intrcaps NEC-cl
+82019	Fx femur intrcap NEC-opn
+82020	Trochanteric fx NOS-clos
+82021	Intertrochanteric fx-cl
+82022	Subtrochanteric fx-close
+82030	Trochanteric fx NOS-open
+82032	Subtrochanteric fx-open
+8208	Fx neck of femur NOS-cl
+8209	Fx neck of femur NOS-opn
+82100	Fx femur NOS-closed
+82101	Fx femur shaft-closed
+82110	Fx femur NOS-open
+82111	Fx femur shaft-open
+82120	Fx low end femur NOS-cl
+82121	Fx femoral condyle-close
+82122	Fx low femur epiphy-clos
+82123	Supracondyl fx femur-cl
+82129	Fx low end femur NEC-cl
+82130	Fx low end femur NOS-opn
+82131	Fx femoral condyle-open
+82132	Fx low femur epiphy-open
+82133	Supracondyl fx femur-opn
+82139	Fx low end femur NEC-opn
+8220	Fracture patella-closed
+8221	Fracture patella-open
+65641	Intrauter death-deliver
+65651	Poor fetal growth-deliv
+65661	Excess fetal grth-deliv
+65671	Oth placent cond-deliver
+65701	Polyhydramnios-delivered
+65801	Oligohydramnios-deliver
+65921	Pyrexia in labor-deliver
+65951	Elderly primigravida-del
+65953	Elder primigravid-antepa
+65961	Elderly multigravida-del
+65963	Elderly multigravd-antep
+65971	Abn ftl hrt rate/rhy-del
+66001	Obstruc/fet malpos-deliv
+66021	Abn pelv tis obstr-deliv
+7020	Actinic keratosis
+70219	Other sborheic keratosis
+65821	Prolong rupt memb-deliv
+66111	Sec uterine inert-deliv
+66131	Precipitate labor-deliv
+66331	Cord entangle NEC-deliv
+66401	Del w 1 deg lacerat-del
+66411	Del w 2 deg lacerat-del
+69289	Dermatitis NEC
+6929	Dermatitis NOS
+6930	Drug dermatitis NOS
+6931	Dermat d/t food ingest
+6938	Dermat d/t int agent NEC
+6940	Dermatitis herpetiformis
+6944	Pemphigus
+6945	Pemphigoid
+6948	Bullous dermatoses NEC
+6950	Toxic erythema
+69510	Erythema multiforme NOS
+69512	Erythema multiforme maj
+69513	Stevens-Johnson syndrome
+69514	Stevens-Johnson-TEN syn
+69515	Toxic epidrml necrolysis
+6952	Erythema nodosum
+6953	Rosacea
+6954	Lupus erythematosus
+69550	Exfol d/t eryth <10% bdy
+69551	Exfl d/t eryth 10-19 bdy
+74912	Unilat cleft lip-imcompl
+75019	Tongue anomaly NEC
+75029	Pharyngeal anomaly NEC
+7503	Cong esoph fistula/atres
+7504	Esophageal anomaly NEC
+7508	Upper GI anomaly NEC
+7509	Upper GI anomaly NOS
+7510	Meckel's diverticulum
+7513	Hirschsprung's disease
+7514	Intestinal fixation anom
+7515	Intestinal anomaly NEC
+75160	Biliary & liver anom NOS
+75162	Cong cystic liver dis
+75169	Biliary & liver anom NEC
+7517	Pancreas anomalies
+7520	Anomalies of ovaries
+75219	Tubal/broad lig anom NEC
+7522	Doubling of uterus
+75251	Undescended testis
+75261	Hypospadias
+75263	Congenital chordee
+75289	Genital organ anom NEC
+7530	Renal agenesis
+75310	Cystic kidney diseas NOS
+75311	Congenital renal cyst
+75312	Polycystic kidney NOS
+75313	Polycyst kid-autosom dom
+75314	Polycyst kid-autosom rec
+75317	Medullary sponge kidney
+75319	Cystic kidney diseas NEC
+79955	Frontal lobe deficit
+79959	Cognition sign/sympt NEC
+79989	Ill-define condition NEC
+80000	Closed skull vault fx
+80001	Cl skull vlt fx w/o coma
+80002	Cl skull vlt fx-brf coma
+80006	Cl skull vlt fx-coma NOS
+80009	Cl skl vlt fx-concus NOS
+80010	Cl skl vlt fx/cerebr lac
+80011	Cl skull vlt fx w/o coma
+80012	Cl skull vlt fx-brf coma
+80013	Cl skull vlt fx-mod coma
+80015	Cl skul vlt fx-deep coma
+80016	Cl skull vlt fx-coma NOS
+80020	Cl skl vlt fx/mening hem
+80021	Cl skull vlt fx w/o coma
+80022	Cl skull vlt fx-brf coma
+80023	Cl skull vlt fx-mod coma
+80024	Cl skl vlt fx-proln coma
+80025	Cl skul vlt fx-deep coma
+80026	Cl skull vlt fx-coma NOS
+80030	Cl skull vlt fx/hem NEC
+80031	Cl skull vlt fx w/o coma
+80032	Cl skull vlt fx-brf coma
+80034	Cl skl vlt fx-proln coma
+80035	Cl skul vlt fx-deep coma
+80036	Cl skull vlt fx-coma NOS
+8300	Dislocation jaw-closed
+83100	Disloc shoulder NOS-clos
+83101	Ant disloc humerus-close
+83103	Infer disloc humerus-cl
+83104	Disloc acromioclavic-cl
+83109	Disloc shoulder NEC-clos
+83114	Disloc acromioclavic-opn
+83200	Dislocat elbow NOS-close
+83202	Post disloc elbow-closed
+83209	Dislocat elbow NEC-close
+83300	Disloc wrist NOS-closed
+83301	Disloc dist radiouln-cl
+83302	Disloc radiocarpal-clos
+83303	Disloca midcarpal-closed
+83305	Disloc metacarpal-closed
+83309	Disloc wrist NEC-closed
+83311	Disloc dist radiouln-opn
+83313	Dislocat midcarpal-open
+83400	Disl finger NOS-closed
+83401	Disloc metacarpophaln-cl
+83402	Disl interphaln hand-cl
+83411	Disl metacarpophalan-opn
+83500	Dislocat hip NOS-closed
+83501	Posterior disloc hip-cl
+83503	Ant disloc hip NEC-clos
+69581	Ritter's disease
+69589	Erythematous cond NEC
+6959	Erythematous cond NOS
+6960	Psoriatic arthropathy
+6961	Other psoriasis
+6962	Parapsoriasis
+6963	Pityriasis rosea
+6965	Pityriasis NEC & NOS
+6970	Lichen planus
+6979	Lichen NOS
+6981	Pruritus of genitalia
+6982	Prurigo
+6983	Lichenification
+6984	Dermatitis factitia
+6988	Pruritic conditions NEC
+6989	Pruritic disorder NOS
+700	Corns and callosities
+7010	Circumscribe scleroderma
+7011	Keratoderma, acquired
+7012	Acq acanthosis nigricans
+7013	Striae atrophicae
+7014	Keloid scar
+7015	Abnormal granulation NEC
+7018	Skin hypertro/atroph NEC
+7019	Skin hypertro/atroph NOS
+7028	Other specf dermatoses
+7030	Ingrowing nail
+7038	Diseases of nail NEC
+70400	Alopecia NOS
+70401	Alopecia areata
+70409	Alopecia NEC
+7041	Hirsutism
+7048	Hair diseases NEC
+7051	Prickly heat
+70521	Primary focal hyprhidros
+70583	Hidradenitis
+7061	Acne NEC
+7062	Sebaceous cyst
+75321	Congen obst urtroplv jnc
+75322	Cong obst ureteroves jnc
+75329	Obst def ren plv&urt NEC
+7533	Kidney anomaly NEC
+7534	Ureteral anomaly NEC
+7539	Urinary anomaly NOS
+7542	Cong postural deformity
+75461	Congenital pes planus
+75470	Talipes NOS
+75481	Pectus excavatum
+75489	Nonteratogenic anom NEC
+75521	Transverse defic arm
+75526	Longitud defic radius
+677	Late effct cmplcatn preg
+6802	Carbuncle of trunk
+6805	Carbuncle of buttock
+6806	Carbuncle of leg
+6809	Carbuncle NOS
+68100	Cellulitis, finger NOS
+68101	Felon
+68102	Onychia of finger
+68110	Cellulitis, toe NOS
+68111	Onychia of toe
+6820	Cellulitis of face
+6821	Cellulitis of neck
+6822	Cellulitis of trunk
+6823	Cellulitis of arm
+6824	Cellulitis of hand
+6825	Cellulitis of buttock
+6826	Cellulitis of leg
+6827	Cellulitis of foot
+6828	Cellulitis, site NEC
+6829	Cellulitis NOS
+683	Acute lymphadenitis
+684	Impetigo
+6850	Pilonidal cyst w abscess
+6851	Pilonidal cyst w/o absc
+74441	Branch cleft sinus/fistu
+74442	Branchial cleft cyst
+74510	Compl transpos great ves
+74512	Correct transpos grt ves
+7452	Tetralogy of fallot
+7454	Ventricular sept defect
+7455	Secundum atrial sept def
+74560	Endocard cushion def NOS
+74561	Ostium primum defect
+7458	Septal closure anom NEC
+7459	Septal closure anom NOS
+74601	Cong pulmon valv atresia
+74602	Cong pulmon valve stenos
+74609	Pulmonary valve anom NEC
+7461	Cong tricusp atres/sten
+7462	Ebstein's anomaly
+7463	Cong aorta valv stenosis
+7464	Cong aorta valv insuffic
+7466	Cong mitral insufficienc
+74681	Cong subaortic stenosis
+74682	Cor triatriatum
+74684	Obstruct heart anom NEC
+74685	Coronary artery anomaly
+74686	Congenital heart block
+74687	Malposition of heart
+74689	Cong heart anomaly NEC
+7469	Cong heart anomaly NOS
+7470	Patent ductus arteriosus
+74710	Coarctation of aorta
+74720	Cong anom of aorta NOS
+74721	Anomalies of aortic arch
+74722	Aortic atresia/stenosis
+74729	Cong anom of aorta NEC
+74732	Pulmonary AV malformatn
+74740	Great vein anomaly NOS
+74741	Tot anom pulm ven connec
+74742	Part anom pulm ven conn
+74749	Great vein anomaly NEC
+74761	Gstrontest vesl anomaly
+74762	Renal vessel anomaly
+74763	Upr limb vessel anomaly
+74769	Oth spcf prph vscl anoml
+74781	Cerebrovascular anomaly
+74782	Spinal vessel anomaly
+7480	Choanal atresia
+7481	Nose anomaly NEC
+7482	Laryngeal web
+7483	Laryngotrach anomaly NEC
+7485	Agenesis of lung
+74861	Congen bronchiectasis
+7488	Respiratory anomaly NEC
+79579	Oth unspcf nspf imun fnd
+79589	Abnorml tumor marker NEC
+7960	Abn toxicologic finding
+7961	Abnormal reflex
+7962	Elev bl pres w/o hypertn
+7963	Low blood press reading
+7964	Abn clinical finding NEC
+79671	Pap smear anus w ASC-US
+7969	Abnormal findings NEC
+79901	Asphyxia
+79902	Hypoxemia
+7991	Respiratory arrest
+79923	Impulsiveness
+79929	Emotional state sym NEC
+7993	Debility NOS
+7994	Cachexia
+79953	Visuospatial deficit
+82300	Fx upper end tibia-close
+82301	Fx upper end fibula-clos
+82302	Fx up tibia w fibula-cl
+82310	Fx upper end tibia-open
+82312	Fx up tibia w fibula-opn
+82320	Fx shaft tibia-closed
+82321	Fx shaft fibula-closed
+82322	Fx shaft fib w tib-clos
+82330	Fx tibia shaft-open
+82331	Fx fibula shaft-open
+82332	Fx shaft tibia w fib-opn
+82342	Torus fx tibia/fibula
+82380	Fx tibia NOS-closed
+82381	Fx fibula NOS-closed
+82382	Fx tibia w fibula NOS-cl
+82390	Fx tibia NOS-open
+82392	Fx tibia w fib NOS-open
+8240	Fx medial malleolus-clos
+8241	Fx medial malleolus-open
+8242	Fx lateral malleolus-cl
+8243	Fx lateral malleolus-opn
+8244	Fx bimalleolar-closed
+8245	Fx bimalleolar-open
+8246	Fx trimalleolar-closed
+8247	Fx trimalleolar-open
+8248	Fx ankle NOS-closed
+8249	Fx ankle NOS-open
+8250	Fracture calcaneus-close
+8251	Fracture calcaneus-open
+82520	Fx foot bone NOS-closed
+82521	Fx astragalus-closed
+82522	Fx navicular, foot-clos
+82523	Fx cuboid-closed
+82524	Fx cuneiform, foot-clos
+82525	Fx metatarsal-closed
+82529	Fx foot bone NEC-closed
+82531	Fx astragalus-open
+82532	Fx navicular, foot-open
+82534	Fx cuneiform, foot-open
+82535	Fx metatarsal-open
+82539	Fx foot bone NEC-open
+8260	Fx phalanx, foot-closed
+8261	Fx phalanx, foot-open
+8280	Fx legs w arm/rib-closed
+8281	Fx legs w arm/rib-open
+68601	Pyoderma gangrenosum
+68609	Pyoderma NEC
+6861	Pyogenic granuloma
+6868	Local skin infection NEC
+6869	Local skin infection NOS
+69010	Sebrrheic dermatitis NOS
+69018	Sebrrheic dermatitis NEC
+6910	Diaper or napkin rash
+6918	Other atopic dermatitis
+6920	Detergent dermatitis
+6923	Topical med dermatitis
+6924	Chemical dermatitis NEC
+6926	Dermatitis due to plant
+69279	Oth dermatitis solar rad
+69282	Dermatitis oth radiation
+80125	Cl skl base fx-deep coma
+80126	Cl skul base fx-coma NOS
+83942	Dislocat sacrum-closed
+83961	Dislocat sternum-closed
+83969	Dislocat site NEC-closed
+83979	Dislocat site NEC-open
+8400	Sprain acromioclavicular
+8404	Sprain rotator cuff
+8406	Sprain supraspinatus
+8407	Sup glenoid labrm lesion
+8408	Sprain shoulder/arm NEC
+8409	Sprain shoulder/arm NOS
+8411	Sprain ulnar collat lig
+8418	Sprain elbow/forearm NEC
+84200	Sprain of wrist NOS
+84209	Sprain of wrist NEC
+8438	Sprain hip & thigh NEC
+8439	Sprain hip & thigh NOS
+8440	Sprain lateral coll lig
+8441	Sprain medial collat lig
+8442	Sprain cruciate lig knee
+71155	Viral arthritis-pelvis
+71180	Inf arthritis NEC-unspec
+75981	Prader-willi syndrome
+75982	Marfan syndrome
+75983	Fragile x syndrome
+75989	Specfied cong anomal NEC
+7599	Congenital anomaly NOS
+76075	Mat cocaine aff NB/fet
+76076	Maternal DES af NB/fetus
+7627	Chorioamnionitis aff NB
+76383	Ab ftl hrt rt/rhy NOS
+80129	Cl skull base fx-concuss
+80130	Cl skull base fx/hem NEC
+80131	Cl skul base fx w/o coma
+80132	Cl skul base fx-brf coma
+80135	Cl skl base fx-deep coma
+80136	Cl skul base fx-coma NOS
+80140	Cl sk base fx/br inj NEC
+80141	Cl skul base fx w/o coma
+80142	Cl skul base fx-brf coma
+80144	Cl skl base fx-prol coma
+80145	Cl skl base fx-deep coma
+80146	Cl skul base fx-coma NOS
+80150	Open skull base fracture
+80151	Opn skl base fx w/o coma
+80152	Opn skl base fx-brf coma
+80160	Op skl base fx/cereb lac
+80161	Opn skl base fx w/o coma
+80162	Opn skl base fx-brf coma
+80164	Op skl base fx-prol coma
+80165	Op skl base fx-deep coma
+80170	Op skl base fx/menin hem
+80171	Opn skl base fx w/o coma
+80172	Opn skl base fx-brf coma
+85162	Cerebel lacer-brief coma
+85173	Opn cerebel lac-mod coma
+85175	Opn cerebe lac-deep coma
+85180	Brain laceration NEC
+85181	Brain lacer NEC w/o coma
+85182	Brain lac NEC-brief coma
+85183	Brain lacer NEC-mod coma
+85184	Brain lac NEC-proln coma
+85185	Brain lac NEC-deep coma
+85186	Brain lacer NEC-coma NOS
+85189	Brain lacer NEC-concuss
+85190	Brain lac NEC w open wnd
+80050	Opn skull vault fracture
+80060	Opn skl vlt fx/cereb lac
+80061	Opn skul vlt fx w/o coma
+80065	Opn skl vlt fx-deep coma
+80070	Opn skl vlt fx/menin hem
+80071	Opn skul vlt fx w/o coma
+80075	Opn skl vlt fx-deep coma
+80076	Opn skul vlt fx-coma NOS
+80080	Opn skull vlt fx/hem NEC
+80081	Opn skul vlt fx w/o coma
+80082	Opn skul vlt fx-brf coma
+8360	Tear med menisc knee-cur
+8361	Tear lat menisc knee-cur
+8362	Tear meniscus NEC-curren
+8363	Dislocat patella-closed
+8364	Dislocation patella-open
+83650	Dislocat knee NOS-closed
+83651	Ant disloc prox tibia-cl
+83652	Post disl prox tibia-cl
+83660	Dislocat knee NOS-open
+83661	Ant disl prox tibia-open
+8370	Dislocation ankle-closed
+8371	Dislocation ankle-open
+83801	Disloc tarsal NOS-closed
+83805	Disl metatarsophalang-cl
+83809	Dislocat foot NEC-closed
+83813	Disl tarsometatarsal-opn
+83900	Disloc cerv vert NOS-cl
+83901	Disloc 1st cerv vert-cl
+83902	Disloc 2nd cerv vert-cl
+83903	Disloc 3rd cerv vert-cl
+83904	Disloc 4th cerv vert-cl
+83905	Disloc 5th cerv vert-cl
+83906	Disloc 6th cerv vert-cl
+83907	Disloc 7th cerv vert-cl
+83908	Disloc mult cerv vert-cl
+83920	Dislocat lumbar vert-cl
+83921	Disloc thoracic vert-cl
+7068	Sebaceous gland dis NEC
+7069	Sebaceous gland dis NOS
+70700	Pressure ulcer, site NOS
+70701	Pressure ulcer, elbow
+70702	Pressure ulcer, upr back
+70703	Pressure ulcer, low back
+70704	Pressure ulcer, hip
+70705	Pressure ulcer, buttock
+70706	Pressure ulcer, ankle
+70707	Pressure ulcer, heel
+70709	Pressure ulcer, site NEC
+70710	Ulcer of lower limb NOS
+70711	Ulcer of thigh
+70712	Ulcer of calf
+70713	Ulcer of ankle
+70714	Ulcer of heel & midfoot
+70715	Ulcer other part of foot
+70719	Ulcer oth part low limb
+70720	Pressure ulcer,stage NOS
+70721	Pressure ulcer, stage I
+70722	Pressure ulcer, stage II
+70723	Pressure ulcer,stage III
+70724	Pressure ulcer, stage IV
+70725	Pressure ulcer,unstagebl
+7078	Chronic skin ulcer NEC
+7079	Chronic skin ulcer NOS
+7080	Allergic urticaria
+7083	Dermatographic urticaria
+7088	Urticaria NEC
+7089	Urticaria NOS
+70900	Dyschromia, unspecified
+70901	Vitiligo
+70909	Other dyschromia
+7092	Scar & fibrosis of skin
+7093	Degenerative skin disord
+7094	Foreign body granul-skin
+7098	Skin disorders NEC
+7099	Skin disorder NOS
+7100	Syst lupus erythematosus
+7101	Systemic sclerosis
+7102	Sicca syndrome
+7103	Dermatomyositis
+7104	Polymyositis
+7105	Eosinophilia myalgia snd
+7108	Diff connect tis dis NEC
+7109	Diff connect tis dis NOS
+71101	Pyogen arthritis-shlder
+71102	Pyogen arthritis-up/arm
+71103	Pyogen arthritis-forearm
+71104	Pyogen arthritis-hand
+71105	Pyogen arthritis-pelvis
+71106	Pyogen arthritis-l/leg
+71107	Pyogen arthritis-ankle
+71108	Pyogen arthritis NEC
+71109	Pyogen arthritis-mult
+71120	Behcet arthritis-unspec
+75550	Upper limb anomaly NOS
+75557	Macrodactylia (fingers)
+75559	Upper limb anomaly NEC
+75563	Cong hip deformity NEC
+75564	Cong knee deformity
+75567	Anomalies of foot NEC
+7560	Anomal skull/face bones
+75610	Anomaly of spine NOS
+75611	Lumbosacr spondylolysis
+75612	Spondylolisthesis
+75614	Hemivertebra
+75615	Congen fusion of spine
+75616	Klippel-feil syndrome
+75617	Spina bifida occulta
+75619	Anomaly of spine NEC
+7564	Chondrodystrophy
+75651	Osteogenesis imperfecta
+7566	Anomalies of diaphragm
+75683	Ehlers-danlos syndrome
+75689	Soft tissue anomaly NEC
+7570	Hereditary edema of legs
+75733	Cong skin pigment anomal
+75739	Skin anomaly NEC
+7580	Down's syndrome
+7581	Patau's syndrome
+75839	Autosomal deletions NEC
+7585	Autosomal anomalies NEC
+7586	Gonadal dysgenesis
+7587	Klinefelter's syndrome
+75881	Oth cond due to sex chrm
+75889	Oth con d/t chrm anm NEC
+7589	Chromosome anomaly NOS
+7590	Anomalies of spleen
+7592	Endocrine anomaly NEC
+7593	Situs inversus
+7595	Tuberous sclerosis
+7596	Hamartoses NEC
+80085	Opn skl vlt fx-deep coma
+80100	Clos skull base fracture
+80101	Cl skul base fx w/o coma
+80102	Cl skul base fx-brf coma
+80105	Cl skl base fx-deep coma
+80106	Cl skul base fx-coma NOS
+80109	Cl skull base fx-concuss
+80110	Cl skl base fx/cereb lac
+80111	Cl skul base fx w/o coma
+80112	Cl skul base fx-brf coma
+80113	Cl skul base fx-mod coma
+80114	Cl skl base fx-prol coma
+80115	Cl skl base fx-deep coma
+80116	Cl skul base fx-coma NOS
+80119	Cl skull base fx-concuss
+80120	Cl skl base fx/menin hem
+80121	Cl skul base fx w/o coma
+80122	Cl skul base fx/brf coma
+80123	Cl skul base fx-mod coma
+80124	Cl skl base fx-prol coma
+85101	Cortex contusion-no coma
+86102	Heart laceration-closed
+86103	Heart chamber lacerat-cl
+86110	Heart injury NOS-open
+86112	Heart laceration-open
+86113	Heart chamber lacer-opn
+86120	Lung injury NOS-closed
+86121	Lung contusion-closed
+86122	Lung laceration-closed
+86130	Lung injury NOS-open
+86131	Lung contusion-open
+86132	Lung laceration-open
+7138	Arthrop w oth dis NEC
+7140	Rheumatoid arthritis
+7141	Felty's syndrome
+7142	Syst rheum arthritis NEC
+71430	Juv rheum arthritis NOS
+71432	Pauciart juv rheum arthr
+71481	Rheumatoid lung
+71489	Inflamm polyarthrop NEC
+7149	Inflamm polyarthrop NOS
+71500	General osteoarthrosis
+71504	Gen osteoarthros-hand
+71509	General osteoarthrosis
+71515	Loc prim osteoart-pelvis
+71516	Loc prim osteoart-l/leg
+71530	Loc osteoarth NOS-unspec
+71531	Loc osteoarth NOS-shlder
+71533	Loc osteoart NOS-forearm
+71534	Loc osteoarth NOS-hand
+71535	Loc osteoarth NOS-pelvis
+71536	Loc osteoarth NOS-l/leg
+71537	Loc osteoarth NOS-ankle
+71580	Osteoarthrosis-mult site
+71589	Osteoarthrosis-mult site
+71590	Osteoarthros NOS-unspec
+71591	Osteoarthros NOS-shlder
+71592	Osteoarthros NOS-up/arm
+71593	Osteoarthros NOS-forearm
+71594	Osteoarthros NOS-hand
+71595	Osteoarthros NOS-pelvis
+71596	Osteoarthros NOS-l/leg
+71597	Osteoarthros NOS-ankle
+71598	Osteoarthro NOS-oth site
+76525	29-30 comp wks gestation
+76526	31-32 comp wks gestation
+76527	33-34 comp wks gestation
+76528	35-36 comp wks gestation
+7661	Heavy-for-date infan NEC
+7689	Birth asphyxia NOS
+769	Respiratory distress syn
+7700	Congenital pneumonia
+7706	NB transitory tachypnea
+80300	Close skull fracture NEC
+80301	Cl skull fx NEC w/o coma
+80311	Cl skull fx NEC w/o coma
+80312	Cl skull fx NEC-brf coma
+80315	Cl skul fx NEC-deep coma
+80316	Cl skull fx NEC-coma NOS
+80320	Cl skl fx NEC/mening hem
+80321	Cl skull fx NEC w/o coma
+80322	Cl skull fx NEC-brf coma
+80324	Cl skl fx NEC-proln coma
+80325	Cl skul fx NEC-deep coma
+80326	Cl skull fx NEC-coma NOS
+80332	Cl skull fx NEC-brf coma
+80336	Cl skull fx NEC-coma NOS
+80341	Cl skull fx NEC w/o coma
+8448	Sprain of knee & leg NEC
+8449	Sprain of knee & leg NOS
+84500	Sprain of ankle NOS
+84503	Sprain distal tibiofibul
+84509	Sprain of ankle NEC
+8460	Sprain lumbosacral
+8461	Sprain sacroiliac
+8469	Sprain sacroiliac NOS
+8470	Sprain of neck
+8471	Sprain thoracic region
+8472	Sprain lumbar region
+8479	Sprain of back NOS
+8488	Sprain NEC
+8500	Concussion w/o coma
+85011	Concus-brief coma <31 mn
+8502	Concussion-moderate coma
+8504	Concussion-deep coma
+8505	Concussion w coma NOS
+8509	Concussion NOS
+85100	Cerebral cortx contusion
+85102	Cortex contus-brief coma
+71615	Traum arthropathy-pelvis
+71616	Traum arthropathy-l/leg
+71650	Polyarthritis NOS-unspec
+71666	Monoarthritis NOS-l/leg
+71680	Arthropathy NEC-unspec
+71687	Arthropathy NEC-ankle
+71690	Arthropathy NOS-unspec
+71691	Arthropathy NOS-shlder
+71693	Arthropathy NOS-forearm
+71694	Arthropathy NOS-hand
+71695	Arthropathy NOS-pelvis
+71696	Arthropathy NOS-l/leg
+71697	Arthropathy NOS-ankle
+71698	Arthropathy NOS-oth site
+71699	Arthropathy NOS-mult
+7707	Perinatal chr resp dis
+77081	Primary apnea of newborn
+85194	Opn brain lac-proln coma
+85196	Opn brain lacer-coma NOS
+85200	Traum subarachnoid hem
+85201	Subarachnoid hem-no coma
+71191	Inf arthritis NOS-shlder
+71195	Inf arthrit NOS-pelvis
+71198	Inf arthrit NOS-oth site
+71213	Dicalc phos crys-forearm
+71216	Dicalc phos cryst-l/leg
+71222	Pyrophosph cryst-up/arm
+71226	Pyrophosph cryst-l/leg
+71230	Chondrocalcin NOS-unspec
+71233	Chondrocalc NOS-forearm
+71235	Chondrocalcin NOS-pelvis
+71236	Chondrocalcin NOS-l/leg
+71237	Chondrocalcin NOS-ankle
+71238	Chondrocalc NOS-oth site
+71239	Chondrocalcin NOS-mult
+71296	Cryst arthrop NOS-l/leg
+7131	Arthrop w noninf GI dis
+7132	Arthropath w hematol dis
+7135	Arthropathy w nerve dis
+76407	Lt-for-dates 1750-1999g
+76408	Lt-for-dates 2000-2499g
+76501	Extreme immatur <500g
+76502	Extreme immatur 500-749g
+76503	Extreme immatur 750-999g
+76514	Preterm NEC 1000-1249g
+76515	Preterm NEC 1250-1499g
+76516	Preterm NEC 1500-1749g
+76517	Preterm NEC 1750-1999g
+76518	Preterm NEC 2000-2499g
+76519	Preterm NEC 2500+g
+76522	24 comp weeks gestation
+80174	Op skl base fx-prol coma
+80175	Op skl base fx-deep coma
+80176	Opn skl base fx-coma NOS
+80180	Opn skul base fx/hem NEC
+80182	Opn skl base fx-brf coma
+80196	Opn skl base fx-coma NOS
+8020	Nasal bone fx-closed
+8021	Nasal bone fx-open
+80220	Mandible fx NOS-closed
+80221	Fx condyl proc mandib-cl
+80222	Subcondylar fx mandib-cl
+80223	Fx coron proc mandib-cl
+80224	Fx ramus NOS-closed
+80225	Fx angle of jaw-closed
+80226	Fx symphy mandib body-cl
+80227	Fx alveolar bord mand-cl
+80228	Fx mandible body NEC-cl
+80229	Mult fx mandible-closed
+80230	Mandible fx NOS-open
+80232	Subcondyl fx mandib-open
+80234	Fx ramus NOS-open
+80235	Fx angle of jaw-open
+80236	Fx symphy mandib bdy-opn
+80238	Fx mandible body NEC-opn
+80239	Mult fx mandible-open
+8024	Fx malar/maxillary-close
+8025	Fx malar/maxillary-open
+8026	Fx orbital floor-closed
+8027	Fx orbital floor-open
+8028	Fx facial bone NEC-close
+8029	Fx facial bone NEC-open
+8600	Traum pneumothorax-close
+8601	Traum pneumothorax-open
+8602	Traum hemothorax-closed
+8603	Traum hemothorax-open
+8604	Traum pneumohemothor-cl
+8605	Traum pneumohemothor-opn
+86100	Heart injury NOS-closed
+86101	Heart contusion-closed
+80412	Cl skl w oth fx-brf coma
+80416	Cl skl w oth fx-coma NOS
+80420	Cl skl/oth fx/mening hem
+80421	Cl skl w oth fx w/o coma
+80422	Cl skl w oth fx-brf coma
+80423	Cl skl w oth fx-mod coma
+80425	Cl skul/oth fx-deep coma
+80426	Cl skl w oth fx-coma NOS
+80430	Cl skul w oth fx/hem NEC
+80432	Cl skl w oth fx-brf coma
+85256	Extradural hem-coma NOS
+85300	Traumatic brain hem NEC
+85301	Brain hem NEC w/o coma
+85302	Brain hem NEC-brief coma
+85304	Brain hem NEC-proln coma
+85305	Brain hem NEC-deep coma
+85306	Brain hem NEC-coma NOS
+85309	Brain hem NEC-concussion
+85310	Brain hem NEC w opn wnd
+85314	Brain hem opn-proln coma
+85316	Brain hem open-coma NOS
+85400	Brain injury NEC
+85401	Brain injury NEC-no coma
+85402	Brain inj NEC-brief coma
+85403	Brain inj NEC-mod coma
+85404	Brain inj NEC-proln coma
+85405	Brain inj NEC-deep coma
+85406	Brain inj NEC-coma NOS
+71884	Jt derangement NEC-hand
+71887	Jt derangement NEC-ankle
+71888	Jt derangment NEC-oth jt
+71891	Jt derangment NOS-shlder
+71895	Jt derangment NOS-pelvis
+71897	Jt derangement NOS-ankle
+71901	Joint effusion-shlder
+71902	Joint effusion-up/arm
+71903	Joint effusion-forearm
+71904	Joint effusion-hand
+71905	Joint effusion-pelvis
+71906	Joint effusion-l/leg
+71907	Joint effusion-ankle
+71909	Joint effusion-mult jts
+71911	Hemarthrosis-shlder
+71912	Hemarthrosis-up/arm
+71913	Hemarthrosis-forearm
+71916	Hemarthrosis-l/leg
+71918	Hemarthrosis-jt NEC
+71930	Palindrom rheum-unspec
+71940	Joint pain-unspec
+71941	Joint pain-shlder
+71942	Joint pain-up/arm
+71943	Joint pain-forearm
+71944	Joint pain-hand
+71945	Joint pain-pelvis
+71946	Joint pain-l/leg
+71947	Joint pain-ankle
+71949	Joint pain-mult jts
+71950	Jt stiffness NEC-unspec
+71954	Jt stiffness NEC-hand
+71958	Jt stiffness NEC-oth jt
+7786	Congenital hydrocele
+7788	NB integument cond NEC
+7790	Convulsions in newborn
+7795	NB drug withdrawal syndr
+77981	Neonatal bradycardia
+77989	Perinatal condition NEC
+78001	Coma
+78002	Trans alter awareness
+78003	Persistent vegtv state
+78009	Other alter consciousnes
+7801	Hallucinations
+7802	Syncope and collapse
+78031	Febrile convulsions NOS
+78033	Post traumatic seizures
+78039	Convulsions NEC
+7804	Dizziness and giddiness
+78050	Sleep disturbance NOS
+78051	Insomn w sleep apnea NOS
+78052	Insomnia NOS
+78053	Hypersom w slp apnea NOS
+78054	Hypersomnia NOS
+78055	Irreg sleep-wake rhy NOS
+78057	Sleep apnea NOS
+78059	Sleep disturbances NEC
+78060	Fever NOS
+78061	Fever in other diseases
+78062	Postprocedural fever
+78064	Chills (without fever)
+78065	Hypothrm-wo low env tmp
+78066	Feb nonhemo transf react
+78071	Chronic fatigue syndrome
+78072	Functional quadriplegia
+78079	Malaise and fatigue NEC
+7808	Generalizd hyperhidrosis
+78093	Memory loss
+78094	Early satiety
+78096	Generalized pain
+78097	Altered mental status
+78099	Other general symptoms
+7810	Abn involun movement NEC
+7811	Smell & taste disturb
+80435	Cl skul/oth fx-deep coma
+80436	Cl skl w oth fx-coma NOS
+80441	Cl skl w oth fx w/o coma
+80466	Opn skul/oth fx-coma NOS
+80470	Opn skl/oth fx/menin hem
+80473	Opn skul/oth fx-mod coma
+85103	Cortex contus-mod coma
+85105	Cortex contus-deep coma
+85106	Cortex contus-coma NOS
+77089	Resp prob after brth NEC
+7717	Neonatal candida infect
+77181	NB septicemia [sepsis]
+77189	Perinatal infection NEC
+77211	NB intraven hem,grade i
+77213	NB intravn hem,grade iii
+77214	NB intraven hem,grade iv
+7731	NB hemolyt dis-abo isoim
+7742	Neonat jaund preterm del
+80350	Open skull fracture NEC
+80360	Opn skl fx NEC/cereb lac
+80362	Opn skul fx NEC-brf coma
+80366	Opn skul fx NEC-coma NOS
+80372	Opn skul fx NEC-brf coma
+80375	Opn skl fx NEC-deep coma
+80376	Opn skul fx NEC-coma NOS
+85202	Subarach hem-brief coma
+85203	Subarach hem-mod coma
+85204	Subarach hem-prolng coma
+85205	Subarach hem-deep coma
+85206	Subarach hem-coma NOS
+85209	Subarach hem-concussion
+85211	Opn subarach hem-no coma
+85212	Op subarach hem-brf coma
+85215	Op subarach hem-deep com
+85216	Op subarach hem-coma NOS
+85219	Opn subarach hem-concuss
+85220	Traumatic subdural hem
+85221	Subdural hem w/o coma
+85222	Subdural hem-brief coma
+85223	Subdural hemorr-mod coma
+85224	Subdural hem-prolng coma
+85225	Subdural hem-deep coma
+85226	Subdural hemorr-coma NOS
+85229	Subdural hem-concussion
+85231	Open subdur hem w/o coma
+85232	Opn subdur hem-brf coma
+86383	Pancreas, tail inj-close
+85239	Opn subdur hem-concuss
+85240	Traumatic extradural hem
+85241	Extradural hem w/o coma
+85242	Extradur hem-brief coma
+85245	Extradural hem-deep coma
+85246	Extradural hem-coma NOS
+7176	Loose body in knee
+71784	Old disrupt post cruciat
+71815	Loose body-pelvis
+71821	Pathol dislocat-shlder
+71831	Recur dislocat-shlder
+71835	Recur dislocat-pelvis
+71836	Recur dislocat-l/leg
+71842	Jt contracture-up/arm
+71843	Jt contracture-forearm
+71844	Jt contracture-hand
+71845	Jt contracture-pelvis
+71846	Jt contracture-l/leg
+71847	Jt contracture-ankle
+71848	Jt contracture-jt NEC
+71849	Jt contracture-mult jts
+71855	Ankylosis-pelvis
+71856	Ankylosis-lower/leg
+71865	Protrusio acetabuli NOS
+7746	Fetal/neonatal jaund NOS
+7755	Neonatal dehydration
+7761	Neonatal thrombocytopen
+7764	Polycythemia neonatorum
+7766	Anemia of prematurity
+80400	Cl skul fx w oth bone fx
+80410	Cl sk w oth fx/cereb lac
+V1869	Fam hx-kidney dis NEC
+V189	Fam hx genet dis carrier
+V195	Fam hx-congen anomalies
+V198	Family hx-condition NEC
+V202	Routin child health exam
+V222	Preg state, incidental
+V230	Preg w hx of infertility
+V239	Suprv high-risk preg NOS
+V2501	Prescrip-oral contracept
+V252	Sterilization
+V2541	Contracept pill surveill
+V624	Social maladjustment
+V625	Legal circumstances
+V626	Refusal of treatment
+V6282	Bereavement, uncomplicat
+V6284	Suicidal ideation
+V6285	Homicidal ideation
+V6289	Psychological stress NEC
+88003	Open wound of upper arm
+88012	Open wound axilla-compl
+88013	Open wnd upper arm-compl
+88019	Mult opn wnd should-comp
+88020	Opn wnd shouldr w tendon
+88023	Open wnd up arm w tendon
+88029	Mlt opn wnd shldr w tend
+88100	Open wound of forearm
+88101	Open wound of elbow
+88102	Open wound of wrist
+88110	Open wound forearm-compl
+88111	Open wound elbow-complic
+88112	Open wound wrist-complic
+88120	Open wnd forearm w tendn
+88121	Opn wound elbow w tendon
+88122	Opn wound wrist w tendon
+8820	Open wound of hand
+8821	Opn wound hand-complicat
+8822	Open wound hand w tendon
+9462	2nd deg burn mult site
+9471	Burn larynx/trachea/lung
+9472	Burn of esophagus
+9473	Burn of GI tract
+94800	Bdy brn < 10%/3d deg NOS
+94840	40-49% bdy brn/3 deg NOS
+94850	50-59% bdy brn/3 deg NOS
+9755	Poisoning-expectorants
+9760	Pois-local anti-infect
+9762	Pois-loc astring/deterg
+E8216	Oth off-road mv-ped cycl
+E8217	Oth off-road mv-pedest
+E8219	Oth off-road mv-pers NOS
+E8226	Oth coll mov obj-ped cyc
+E8227	Oth coll mov obj-pedest
+E8228	Oth coll mov obj-per NEC
+E8230	Oth coll stndng obj-driv
+E8231	Oth coll stndng obj-psgr
+E8232	Oth coll stnd obj-mocycl
+E8233	Oth coll stn obj-cyc psg
+E8238	Oth coll stn obj-per NEC
+E8240	N-traf board/alight-driv
+E8241	N-traf board/alight-psgr
+E8242	N-traf brd/alight-mocycl
+E8717	FB post-catheter removal
+E8718	Post-op foreign body NEC
+V568	Dialysis encounter, NEC
+E8624	Acc poisn-solvents NEC
+V400	Problems with learning
+V4031	Wandering-dis elsewhere
+V420	Kidney transplant status
+V421	Heart transplant status
+V422	Heart valve transplant
+V425	Cornea transplant status
+V426	Lung transplant status
+V427	Liver transplant status
+V4281	Trnspl status-bne marrow
+V4282	Trspl sts-perip stm cell
+V4283	Trnspl status-pancreas
+V4284	Trnspl status-intestines
+V4289	Trnspl status organ NEC
+V430	Eye replacement NEC
+V431	Lens replacement NEC
+V433	Heart valve replac NEC
+V434	Blood vessel replac NEC
+V435	Bladder replacement NEC
+V4361	Joint replaced shoulder
+V4363	Joint replaced wrist
+V4364	Joint replaced hip
+V4365	Joint replaced knee
+V4382	Breast replacement
+E9292	Late eff acc poisoning
+E9293	Late eff accidental fall
+E9294	Late eff fire acc
+E9295	Late eff environment acc
+E9298	Late eff accident NEC
+E9299	Late eff accident NOS
+E9300	Adv eff penicillins
+E9301	Adv eff antifung antbiot
+E9303	Adv eff erythromycin
+9051	Late eff spine/trunk fx
+9052	Late effect arm fx
+9053	Late eff femoral neck fx
+9054	Late effect leg fx
+9055	Late effect fracture NEC
+9056	Late effect dislocation
+9059	Late eff traumat amputat
+9060	Lt eff opn wnd head/trnk
+9061	Late eff open wnd extrem
+9063	Late effect of contusion
+9064	Late effect of crushing
+9065	Late eff head/neck burn
+9067	Late eff burn extrem NEC
+9068	Late effect of burns NEC
+9070	Lt eff intracranial inj
+9072	Late eff spinal cord inj
+9074	Lt eff nerv inj shld/arm
+9075	Lt eff nerv inj pelv/leg
+9080	Late eff int injur chest
+9081	Late eff int inj abdomen
+9082	Late eff int injury NEC
+9083	Late eff inj periph vess
+9086	Late eff complic trauma
+9089	Late effect injury NOS
+9090	Late eff drug poisoning
+9092	Late effect of radiation
+9711	Pois-parasympatholytics
+9712	Poison-sympathomimetics
+9713	Poisoning-sympatholytics
+9720	Pois-card rhythm regulat
+9721	Poisoning-cardiotonics
+9722	Poisoning-antilipemics
+9724	Pois-coronary vasodilat
+9725	Poison-vasodilator NEC
+9726	Pois-antihyperten agent
+9729	Pois-cardiovasc agt NEC
+9733	Poisoning-cathartic NEC
+9735	Poisoning-antidiarrh agt
+9744	Poisoning-diuretics NEC
+9747	Pois-uric acid metabol
+9752	Pois-skelet muscle relax
+9753	Poison-muscle agent NEC
+9754	Poisoning-antitussives
+V561	Ft/adj xtrcorp dial cath
+V562	Fit/adj perit dial cath
+92800	Crushing injury thigh
+92801	Crushing injury hip
+92810	Crushing inj lower leg
+92811	Crushing injury knee
+92820	Crushing injury foot
+92821	Crushing injury ankle
+95203	Central cord synd/c1-c4
+95204	C1-c4 spin cord inj NEC
+95205	C5-c7 spin cord inj NOS
+95206	Complete les cord/c5-c7
+95207	Anterior cord synd/c5-c7
+95208	Central cord synd/c5-c7
+95209	C5-c7 spin cord inj NEC
+95214	T1-t6 spin cord inj NEC
+95215	T7-t12 spin cord inj NOS
+95219	T7-t12 spin cord inj NEC
+E8260	Pedal cycle acc-pedest
+E8261	Ped cycl acc-ped cyclist
+E8278	Anim drawn veh-pers NEC
+E8282	Ridden animal acc-rider
+E8298	Oth rd veh acc-pers NEC
+E8311	Boat acc inj NEC-power
+E8314	Boat acc inj NEC-skier
+E8318	Boat inj NEC-person NEC
+V2651	Tubal ligation status
+V2652	Vasectomy status
+V4581	Aortocoronary bypass
+V8801	Acq absnce cervix/uterus
+V8811	Acq total absnc pancreas
+V8812	Acq part absnce pancreas
+V8821	Acq absence of hip joint
+V9010	Retained metal frag NOS
+V902	Retain plastic fragments
+V9039	Retain organic frag NEC
+V9081	Retained glass fragments
+V9089	Retain FB NEC
+V9103	Twin gest-dich/diamniotc
+V671	Radiotherapy follow-up
+V672	Chemotherapy follow-up
+V6889	Administrtve encount NEC
+V694	Lack of adequate sleep
+V698	Oth prblms rltd lfstyle
+V703	Med exam NEC-admin purp
+V707	Exam-clincal trial
+V708	General medical exam NEC
+9180	Superfic inj periocular
+9181	Superficial inj cornea
+E8252	Mv n-traf acc NEC-mocycl
+E8257	Mv n-traff NEC-pedest
+E8258	Mv n-traff NEC-pers NEC
+V063	Vaccin for dtp + polio
+V065	Vaccination for Td-DT
+V066	Nd vac strp pnumn/inflnz
+V071	Desensitiza to allergens
+V0739	Other prophylac chemothr
+V074	Hormone replace postmeno
+V078	Prophyl or tx meas NEC
+V08	Asymp hiv infectn status
+V090	Inf mcrg rstn pncllins
+V091	Inf mcrg rstn b-lactam
+V0950	Inf mcr rst qn flr nt ml
+V0971	Inf mcrg rstn oth ag mlt
+V0980	Inf mcr rst ot drg nt ml
+V0981	Inf mcrg rstn oth drg ml
+V0990	Infc mcrg drgrst nt mult
+V0991	Infc mcrg drgrst mult
+V1000	Hx of GI malignancy NOS
+V1001	Hx of tongue malignancy
+V1002	Hx-oral/pharynx malg NEC
+V1003	Hx-esophageal malignancy
+V1004	Hx of gastric malignancy
+V1005	Hx of colonic malignancy
+V1006	Hx-rectal & anal malign
+V1007	Hx of liver malignancy
+V1009	Hx of GI malignancy NEC
+V1011	Hx-bronchogenic malignan
+V1012	Hx-tracheal malignancy
+V1020	Hx-resp org malignan NOS
+V1021	Hx-laryngeal malignancy
+V1022	Hx-nose/ear/sinus malig
+V1029	Hx-intrathoracic mal NEC
+V103	Hx of breast malignancy
+9094	Late eff cert ext cause
+9095	Lte efct advrs efct drug
+9099	Late eff exter cause NEC
+9100	Abrasion head
+9102	Blister head
+9104	Insect bite head
+V1049	Hx-male genit malig NEC
+V1050	Hx-urinary malignan NOS
+V1051	Hx of bladder malignancy
+V1052	Hx of kidney malignancy
+V1053	Hx malig renal pelvis
+V1059	Hx-urinary malignan NEC
+V1060	Hx of leukemia NOS
+8830	Open wound of finger
+8831	Open wound finger-compl
+8832	Open wnd finger w tendon
+8840	Open wound arm mult/NOS
+8850	Amputation thumb
+8851	Amputation thumb-compl
+8860	Amputation finger
+8861	Amputation finger-compl
+8870	Amput below elb, unilat
+8871	Amp below elb, unil-comp
+8872	Amput abv elbow, unilat
+8873	Amput abv elb, unil-comp
+8875	Amput arm, unil NOS-comp
+9500	Optic nerve injury
+9509	Inj optic nerv/path NOS
+9510	Injury oculomotor nerve
+E8811	Fall from scaffolding
+V4582	Status-post ptca
+V4585	Insulin pump status
+V4586	Bariatric surgery status
+V4587	Trnsplnt orgn rem status
+V4588	TPA adm status 24 hr pta
+V4589	Post-proc states NEC
+V4611	Respirator depend status
+V4614	Mech comp respirator
+V462	Depend-supplement oxygen
+V463	Wheelchair dependence
+V468	Machine dependence NEC
+V469	Machine dependence NOS
+V486	Disfigurements of head
+V489	Prob-head/neck/trunk NOS
+V4960	Status amput up lmb NOS
+V4961	Status amput thumb
+V4962	Status amput oth fingers
+V4963	Status amput hand
+V4965	Status amput below elbow
+V4966	Status amput above elbow
+V4971	Status amput great toe
+V4972	Status amput othr toe(s)
+V4973	Status amput foot
+V4975	Status amput below knee
+V4976	Status amput above knee
+V4981	Asympt postmeno status
+V4983	Await organ transplnt st
+V4984	Bed confinement status
+V4985	Dual sensory impairment
+V4986	Do not resusctate status
+V4987	Physical restrain status
+V4989	Conditn influ health NEC
+9160	Abrasion hip & leg
+9161	Abrasion hip/leg-infect
+9162	Blister hip & leg
+9164	Insect bite hip & leg
+9165	Insect bite hip/leg-inf
+E9506	Poison-agricult agent
+E9507	Poison-corrosiv/caustic
+E9509	Poison-solid/liquid NEC
+86411	Liver hematom/contus-opn
+86412	Liver lacerat, minor-opn
+86413	Liver lacerat, mod-open
+86414	Liver lacerat, major-opn
+92612	Crushing injury buttock
+9189	Superficial inj eye NEC
+9190	Abrasion NEC
+9191	Abrasion NEC-infected
+9196	Superfic foreign bdy NEC
+9920	Heat stroke & sunstroke
+9941	Drowning/nonfatal submer
+9942	Effects of hunger
+9947	Asphyxiation/strangulat
+9948	Effects electric current
+9949	Effect external caus NEC
+9950	Other anaphylactic react
+9951	Angioneurotic edema
+99527	Drug allergy NEC
+99529	Adv eff med/biol NEC/NOS
+9953	Allergy, unspecified
+99561	Anphylct react peanuts
+99562	Anphylct react crstacns
+99563	Anphylct react frts veg
+99564	Anphyl react tr nts seed
+99565	Anphylct reaction fish
+99567	Anphylct react milk prod
+99569	Anphyl react oth sp food
+99676	Comp-genitourin dev/grft
+9142	Blister hand
+9149	Superf inj hand NEC-inf
+9152	Blister finger
+9828	Toxic eff nonpetrol solv
+9831	Toxic effect acids
+9832	Toxic eff caustic alkali
+9839	Toxic effect caustic NOS
+9851	Toxic effect arsenic
+9858	Toxic effect metals NEC
+986	Tox eff carbon monoxide
+9878	Toxic eff gas/vapor NEC
+9879	Toxic eff gas/vapor NOS
+9881	Toxic effect mushrooms
+9890	Toxic effect cyanides
+9893	Tox eff organphos/carbam
+9894	Toxic eff pesticides NEC
+9895	Toxic effect venom
+98989	Tox eff nonmed subst NEC
+9899	Tox eff nonmed subst NOS
+990	Effects radiation NOS
+9911	Frostbite of hand
+9912	Frostbite of foot
+9913	Frostbite NEC/NOS
+9916	Hypothermia
+E8796	Abn react-urinary cath
+94232	3rd deg burn chest wall
+94234	3rd deg burn back
+E9063	Animal bite NEC
+E882	Fall from building
+E8830	Diving accident
+E8839	Fall into other hole
+E8840	Fall from playgrnd equip
+E8841	Fall from cliff
+E8842	Fall from chair
+E8843	Fall from wheelchair
+E8844	Fall from bed
+E8845	Fall from furniture NEC
+E8846	Fall from commode
+E8849	Fall-1 level to oth NEC
+E8850	Fall-nonmotor scooter
+E8851	Fall from roller skates
+E8852	Fall from skateboard
+E8853	Fall from skis
+E8854	Fall from snowboard
+E8859	Fall from slipping NEC
+E8860	Fall in sports
+E887	Fracture, cause NOS
+E8880	Fall striking sharp obj
+E8881	Fall striking object NEC
+E8888	Fall NEC
+E8889	Fall NOS
+E8902	Priv dwel fire-fumes NOS
+E8908	Priv dwel fire-accid NEC
+E8918	Fire in bldg-accid NEC
+E899	Fire accident NOS
+E9000	Excessive heat: weather
+E9010	Excessive cold: weather
+E9011	Excessive cold, man-made
+E9018	Excessive cold NEC
+E9019	Excessive cold NOS
+V449	Artif open status NOS
+V4501	Status cardiac pacemaker
+V4502	Status autm crd dfbrltr
+V4509	Status oth spcf crdc dvc
+V4511	Renal dialysis status
+V4512	Noncmplnt w renal dialys
+V452	Ventricular shunt status
+V453	Intestinal bypass status
+V454	Arthrodesis status
+E8002	RR coll NOS-pedestrian
+92619	Crushing inj trunk NEC
+92701	Crush inj scapul region
+92710	Crushing injury forearm
+92720	Crushing injury of hand
+92721	Crushing injury of wrist
+9273	Crushing injury finger
+9278	Mult crushing injury arm
+9957	Adverse food react NEC
+99580	Adult maltreatment NOS
+99581	Adult physical abuse
+99582	Adult emotnl/psych abuse
+99583	Adult sexual abuse
+99585	Oth adult abuse/neglect
+99586	Malignant hyperthermia
+99589	Adverse effect NEC
+99590	SIRS, NOS
+99591	Sepsis
+99592	Severe sepsis
+99593	SIRS-noninf w/o ac or ds
+99594	SIRS-noninf w ac org dys
+99601	Malfunc cardiac pacemake
+99602	Malfunc prosth hrt valve
+99603	Malfunc coron bypass grf
+99604	Mch cmp autm mplnt dfbrl
+99609	Malfunc card dev/grf NEC
+9961	Malfunc vasc device/graf
+9962	Malfun neuro device/graf
+99631	Malfunc urethral cath
+99639	Malfunc gu dev/graft NEC
+99640	Cmp int orth dev/gft NOS
+99641	Mech loosening pros jt
+99642	Dislocate prosthetic jt
+99643	Broke prosthtc jt implnt
+99644	Periprosthetc fx-pros jt
+99645	Periprosthetc osteolysis
+99647	Mech com pros jt implant
+99649	Mech com orth dev NEC
+99651	Corneal grft malfunction
+99652	Oth tissue graft malfunc
+99653	Lens prosthesis malfunc
+99654	Breast prosth malfunc
+99656	Comp-periton dialys cath
+99657	Complcation-insulin pump
+99659	Malfunc oth device/graft
+99661	React-cardiac dev/graft
+99662	React-oth vasc dev/graft
+99663	React-nerv sys dev/graft
+99664	React-indwell urin cath
+99665	React-oth genitourin dev
+99666	React-inter joint prost
+E8120	Mv collision NOS-driver
+E8121	Mv collision NOS-pasngr
+E8122	Mv collis NOS-motorcycl
+E8123	Mv coll NOS-mcycl psngr
+99677	Comp-internal joint pros
+99678	Comp-oth int ortho devic
+E9193	Metalworking machine acc
+E9194	Woodworking machine acc
+E9196	Transmission machine acc
+E9198	Machinery accident NEC
+E9200	Acc-powered lawn mower
+E9201	Acc-power hand tool NEC
+E9203	Knife/sword/dagger acc
+E9204	Accid-other hand tools
+E9205	Acc-hypodermic needle
+E9208	Acc-cutting instrum NEC
+E9209	Acc-cutting instrum NOS
+E9211	Gas cylinder explosion
+E9220	Handgun accident
+E9222	Hunting rifle accident
+E9225	Accident-paintball gun
+E9229	Firearm accident NOS
+E9238	Explosives accident NEC
+E9240	Acc-hot liquid & steam
+E9241	Accid-caustic substance
+E9242	Acc-hot tap water
+E9248	Hot substance accid NEC
+E9249	Hot substance accid NOS
+E9250	Domestic wiring accident
+E9262	Vis/ultraviol lght expos
+E9270	Overxrt-sudn stren mvmt
+E9274	Cumltv trma-repetv impct
+E9278	Overexert reptv mvmt NEC
+E9283	Human bite - accidental
+E9288	Accident NEC
+E9289	Accident NOS
+E9290	Late eff motor vehic acc
+E9291	Late eff transport acc
+E9579	Injury-jump NEC
+E9580	Injury-moving object
+E9581	Injury-burn, fire
+E9583	Injury-extreme cold
+E9585	Injury-motor veh crash
+E9588	Injury-NEC
+E9589	Injury-NOS
+E9064	Nonvenom arthropod bite
+E9068	Inj NEC caused by animal
+E9081	Accident d/t tornado
+E9100	Water-skiing accident
+E9102	Swimming accident NOS
+E9108	Accidental drowning NEC
+E9109	Accidental drowning NOS
+E911	Resp obstr-food inhal
+E912	Resp obstr-inhal obj NEC
+E9132	Suffocation-lack of air
+E9138	Suffocation NEC
+E915	FB entering oth orifice
+E916	Struck by falling object
+E9170	Sports acc w/o sub fall
+E9173	Furnit w/o sub fall
+E9174	Stat ob w/o sub fall NEC
+E9175	Sports acc w sub fall
+E9177	Furniture acc w sub fall
+E9178	Stat obj w sub fall NEC
+E9179	Obj w-w/o sub fall NEC
+E918	Caught between objects
+E9190	Machine accid-agricult
+E9192	Lifting machine accident
+V6129	Oth parent-child problem
+V6141	Alcoholism in family
+V6142	Substance abuse-family
+V618	Family circumstances NEC
+V620	Unemployment
+E8041	Fall from train-passengr
+E8042	Fall from train-pedest
+E8052	Hit by train-pedestrian
+E8058	Hit by train-person NEC
+V502	Routine circumcision
+V632	Wait adm to oth facility
+V638	No med facilities NEC
+V6406	No vaccination-pt refuse
+V641	No proc/contraindication
+V642	No proc/patient decision
+V643	No proc for reasons NEC
+V6441	Lap surg convert to open
+V6442	Thoracoscop conv to open
+V6443	Arthroscopc conv to open
+V652	Person feigning illness
+V653	Dietary surveil/counsel
+V6542	Counslng sbstn use abuse
+V6549	Other specfd counseling
+V655	Persn w feared complaint
+V667	Encountr palliative care
+9198	Superficial injury NEC
+920	Contusion face/scalp/nck
+9210	Black eye NOS
+9211	Contusion periocular
+9212	Contusion orbital tissue
+9213	Contusion of eyeball
+9219	Contusion of eye NOS
+9220	Contusion of breast
+9221	Contusion of chest wall
+9222	Contusion abdominal wall
+92231	Back contusion
+92232	Buttock contusion
+9224	Contusion genital organs
+9228	Multiple contusion trunk
+92300	Contusion shoulder reg
+92301	Contusion scapul region
+92303	Contusion of upper arm
+92309	Contusion shoulder & arm
+92310	Contusion of forearm
+92311	Contusion of elbow
+92320	Contusion of hand(s)
+8728	Open wound of ear NOS
+8730	Open wound of scalp
+8731	Open wound scalp-compl
+87320	Open wound of nose NOS
+E8637	Acc poison-rodenticides
+E8641	Acc poison-acids
+E8654	Acc poison-plants NEC
+E8655	Acc poison-mushrooms
+E8663	Acc poisoning-arsenic
+E8668	Acc pois-solid/liq NEC
+E8669	Acc pois-solid/liq NOS
+E8694	Scndhnd tbcco smoke
+E8698	Acc poison-gas/vapor NEC
+E8700	Acc cut/hem in surgery
+E8702	Acc cut/hem-perfusn NEC
+E8703	Acc cut/hem in injection
+E8704	Acc cut/hem w scope exam
+E8705	Acc cut/hem w catheteriz
+E8706	Acc cut/hem w heart cath
+E8708	Acc cut in med care NEC
+E8709	Acc cut in med care NOS
+E8710	Post-surgical forgn body
+E8714	Postendoscopy forgn body
+E8716	FB post heart catheter
+99881	Emphysema rsult frm proc
+99883	Non-healing surgcl wound
+99889	Oth spcf cmplc procd NEC
+9989	Surgical complicat NOS
+9991	Air embol comp med care
+E9304	Adv eff tetracycline
+E9305	Adv eff cephalosporin
+V580	Radiotherapy encounter
+V5811	Antineoplastic chemo enc
+V5812	Immunotherapy encounter
+V5831	Attn rem surg dressing
+V5841	Encntr plnd po wnd clsr
+V5842	Aftercare neoplasm surg
+V5843	Aftrcare inj/trauma surg
+V5844	Aftercare organ transplt
+V5849	Postop oth specfd aftrcr
+V5861	Long-term use anticoagul
+V5862	Long-term use antibiotic
+V5863	Lng use antiplte/thrmbtc
+V5864	Long-term anti-inflamtry
+V5865	Long-term use steroids
+V5866	Long-term use of aspirin
+V5867	Long-term use of insulin
+V5869	Long-term use meds NEC
+V5873	Aft surg circ syst NEC
+V5881	Fit/adj vascular cathetr
+V5883	Therapeutic drug monitor
+V596	Liver donor
+V600	Lack of housing
+V601	Inadequate housing
+V602	Economic problem
+V604	No family able to care
+V6103	Fmily dsrpt- divorce/sep
+V6104	Family dsrpt-estrangmemt
+V6107	Family dsrpt-death membr
+V6109	Family disruption NEC
+V6110	Consl partner prob
+V6111	Cnsl victm partner abuse
+9093	Late eff surg/med compl
+E9363	Adv eff antconvl NEC/NOS
+E9364	Adv eff anti-parkinson
+E9370	Adv eff barbiturates
+72882	FB granuloma of muscle
+V5041	Prphylct orgn rmvl brst
+V5049	Prphylct orgn rmvl other
+V510	Brst reconst fol mastect
+V5301	Adj cerebral vent shunt
+V5302	Adjust neuropacemaker
+V5309	Adj nerv syst device NEC
+V5331	Ftng cardiac pacemaker
+V5332	Ftng autmtc dfibrillator
+V5339	Ftng oth cardiac device
+V536	Fitting urinary devices
+V537	Fit orthopedic devices
+V5391	Fit/adjust insulin pump
+V5399	Fit/adjust device NEC
+V5401	Removal int fixation dev
+V5410	Aftrcre traum fx arm NOS
+V5411	Aftrcare traum fx up arm
+V5412	Aftrcre traum fx low arm
+V5413	Aftrcre traumatic fx hip
+V5415	Aftrcare traum fx up leg
+V5416	Aftrcre traum fx low leg
+V5417	Aftrcre traum fx vertebr
+V5419	Aftrce traum fx bone NEC
+V5422	Aftrcare path fx low arm
+V5423	Aftercare path fx hip
+V5426	Aftrcare path fx low leg
+V5427	Aftrcare path fx vertebr
+V5481	Aftercare joint replace
+V5482	Aftcr explantatn jt pros
+V5489	Orthopedic aftercare NEC
+V549	Orthopedic aftercare NOS
+V550	Atten to tracheostomy
+V551	Atten to gastrostomy
+V552	Atten to ileostomy
+V553	Atten to colostomy
+V554	Atten to enterostomy NEC
+V555	Atten to cystostomy
+V556	Atten to urinostomy NEC
+V558	Attn to artif open NEC
+V560	Renal dialysis encounter
+71990	Joint dis NOS-unspec jt
+71996	Joint dis NOS-l/leg
+V7651	Screen malig neop-colon
+V789	Screen-blood dis NOS
+V812	Screen-cardiovasc NEC
+V8389	Genetic carrier stat NEC
+V270	Deliver-single liveborn
+V271	Deliver-single stillborn
+V272	Deliver-twins, both live
+V289	Antenatal screening NOS
+V290	NB obsrv suspct infect
+V293	NB obs genetc/metabl cnd
+V3000	Single lb in-hosp w/o cs
+V3001	Single lb in-hosp w cs
+V301	Singl livebrn-before adm
+V311	Twin, mate lb-before adm
+9130	Abrasion forearm
+9132	Blister forearm
+E9410	Adv eff cholinergics
+E9411	Adv eff parasympatholytc
+E9412	Adv eff sympathomimetics
+E9413	Adv eff sympatholytics
+E9419	Adv eff autonom agnt NOS
+86415	Liver lacerat unspcf opn
+86419	Liver injury NEC-open
+72883	Nontraum muscle rupture
+72884	Diastasis of muscle
+72885	Spasm of muscle
+72886	Necrotizing fasciitis
+72887	Muscle weakness-general
+72888	Rhabdomyolysis
+72889	Muscle/ligament dis NEC
+7289	Muscle/ligament dis NOS
+7291	Myalgia and myositis NOS
+7292	Neuralgia/neuritis NOS
+72930	Panniculitis, unsp site
+72939	Panniculitis, site NEC
+7294	Fasciitis NOS
+7295	Pain in limb
+7296	Old FB in soft tissue
+72971	Nontraum comp syn-up ext
+72972	Nontraum comp syn-low ex
+72973	Nontrauma comp syn-abd
+72981	Swelling of limb
+72982	Cramp in limb
+72989	Muscskel sympt limb NEC
+72990	Soft tissue disord NOS
+72991	Post-traumatic seroma
+72992	Nontrauma hema soft tiss
+72999	Soft tissue disorder NEC
+73001	Ac osteomyelitis-shlder
+73002	Ac osteomyelitis-up/arm
+73004	Ac osteomyelitis-hand
+73005	Ac osteomyelitis-pelvis
+73006	Ac osteomyelitis-l/leg
+73007	Ac osteomyelitis-ankle
+73008	Ac osteomyelitis NEC
+73009	Ac osteomyelitis-mult
+73012	Chr osteomyelit-up/arm
+73013	Chr osteomyelit-forearm
+73015	Chr osteomyelit-pelvis
+73016	Chr osteomyelit-l/leg
+73017	Chr osteomyelit-ankle
+73018	Chr osteomyelit NEC
+73019	Chr osteomyelit-mult
+73020	Osteomyelitis NOS-unspec
+73022	Osteomyelitis NOS-up/arm
+73023	Osteomyelit NOS-forearm
+73024	Osteomyelitis NOS-hand
+73025	Osteomyelitis NOS-pelvis
+73026	Osteomyelitis NOS-l/leg
+73027	Osteomyelitis NOS-ankle
+73028	Osteomyelit NOS-oth site
+73029	Osteomyelitis NOS-mult
+78837	Continuous leakage
+78838	Overflow incontinence
+78839	Oth urinry incontinence
+78841	Urinary frequency
+78842	Polyuria
+78843	Nocturia
+7885	Oliguria & anuria
+78862	Slowing urinary stream
+78863	Urgency of urination
+78864	Urinary hesitancy
+78865	Straining on urination
+78869	Oth abnormalt urination
+7887	Urethral discharge
+7888	Extravasation of urine
+78891	Fnctnl urinary incontnce
+78899	Oth symptm urinary systm
+78900	Abdmnal pain unspcf site
+78901	Abdmnal pain rt upr quad
+78902	Abdmnal pain lft up quad
+78903	Abdmnal pain rt lwr quad
+9108	Superfic inj head NEC
+9110	Abrasion trunk
+9112	Blister trunk
+9114	Insect bite trunk
+9116	Foreign body trunk
+9120	Abrasion shoulder/arm
+9122	Blister shoulder & arm
+9125	Insect bite shld/arm-inf
+9766	Poison-ent preparation
+9767	Pois-topical dental drug
+9773	Poison-alcohol deterrent
+9778	Poison-medicinal agt NEC
+9779	Poison-medicinal agt NOS
+9800	Toxic eff ethyl alcohol
+9802	Toxic eff isopropyl alc
+9809	Toxic effect alcohol NOS
+94100	Burn NOS head-unspec
+E9445	Adv eff electrolyte agnt
+E9447	Adv eff uric acid metab
+E9451	Adv eff smooth musc relx
+E9452	Adv eff skelet musc relx
+E9453	Adv eff musc agt NEC/NOS
+E9455	Adv eff expectorants
+E9457	Adv eff antiasthmatics
+E9460	Adv eff loc anti-infectv
+E9463	Adv eff emollient/demulc
+E9466	Adv eff ent anti-inf/drg
+E9470	Adv eff dietetics
+E9478	Adv eff medicinal NEC
+E9479	Adv eff medicinal NOS
+E9496	Adv eff viral vacc NEC
+E9499	Adv eff biologic NEC/NOS
+E9500	Poison-analgesics
+E9501	Poison-barbiturates
+E9502	Poison-sedat/hypnotic
+E9503	Poison-psychotropic agt
+E9504	Poison-drug/medicin NEC
+E9505	Poison-drug/medicin NOS
+73088	Bone infect NEC-oth site
+86500	Spleen injury NOS-closed
+86501	Spleen hematoma-closed
+86502	Spleen capsular tear
+86503	Spleen parenchyma lacer
+86504	Spleen disruption-clos
+86509	Spleen injury NEC-closed
+86510	Spleen injury NOS-open
+86511	Spleen hematoma-open
+86512	Spleen capsular tear-opn
+86513	Spleen parnchym lac-opn
+86514	Spleen disruption-open
+86600	Kidney injury NOS-closed
+86601	Kidney hematoma-closed
+86602	Kidney laceration-closed
+86603	Kidney disruption-closed
+86610	Kidney injury NOS-open
+86611	Kidney hematoma-open
+86612	Kidney laceration-open
+86613	Kidney disruption-open
+8670	Bladder/urethra inj-clos
+8671	Bladder/urethra inj-open
+8672	Ureter injury-closed
+8676	Pelvic organ inj NEC-cl
+8677	Pelvic organ inj NEC-opn
+8678	Pelvic organ inj NOS-cl
+8679	Pelvic organ inj NOS-opn
+86800	Intra-abdom inj NOS-clos
+86801	Adrenal gland injury-cl
+86802	Biliary tract injury-cl
+86803	Peritoneum injury-closed
+86804	Retroperitoneum inj-cl
+86809	Intra-abdom inj NEC-clos
+86810	Intra-abdom inj NOS-open
+86812	Biliary tract injury-opn
+86813	Peritoneum injury-open
+86814	Retroperitoneum inj-open
+7929	Abn find-body subst NEC
+7930	Nonsp abn fd-skull/head
+79311	Solitary pulmonry nodule
+79319	Ot nonsp ab fnd lung fld
+7932	Nonsp abn intrathor NEC
+7933	Nonsp abn fd-bilry tract
+7934	Nonsp abn find-gi tract
+7935	Nonsp abn find-gu organs
+7936	Nonsp abn fnd-abdom area
+94320	2nd deg burn arm NOS
+94321	2nd deg burn forearm
+94323	2nd deg burn upper arm
+94325	2nd deg burn shoulder
+94332	3rd deg burn elbow
+94335	3rd deg burn shoulder
+E8012	RR coll w oth obj-pedest
+67401	Puerp cerebvas dis-deliv
+67402	Cerebvas dis-deliv w p/p
+67403	Cerebrovasc dis-antepart
+E959	Late eff of self-injury
+E9600	Unarmed fight or brawl
+E9601	Rape
+E0064	Bike riding
+E0069	Individ sports,athletics
+E0070	Tackle football
+E0071	Amer flag/touch football
+E0073	Baseball
+E0076	Basketball
+E0080	Boxing
+E0089	Sports,athletics NEC
+E0138	Personal hygiene NEC
+E0161	Gardening/landscaping
+E0162	Building & construction
+E0190	Walking an animal
+E0291	Spectator at event
+E0299	Activity NEC
+E030	Activity NOS
+94401	Burn NOS finger
+94420	2nd deg burn hand NOS
+94421	2nd deg burn finger
+94423	2nd deg burn mult finger
+94425	2nd deg burn palm
+94426	2 deg burn back of hand
+7948	Abn liver function study
+7949	Abn function study NEC
+79500	Abn glandular pap smear
+E8126	Mv coll NOS-ped cycl
+E8127	Mv collision NOS-pedest
+E8129	Mv collis NOS-pers NOS
+E8130	Mv-oth veh coll-driver
+E8131	Mv-oth veh coll-pasngr
+E8132	Mv-oth veh coll-motcycl
+E8133	Mv-oth veh coll-mcyc psg
+E8136	Mv-oth veh coll-ped cycl
+E8138	Mv-oth veh coll-pers NEC
+E8140	Mv coll w pedest-driver
+E8141	Mv coll w pedest-pasngr
+E8142	Mv coll w pedest-motcycl
+E8145	Mv coll w ped-anim rid
+E8146	Mv coll w ped-ped cycl
+E8147	Mv coll w pedest-pedest
+E8150	Mv coll w oth obj-driver
+E8151	Mv coll w oth obj-pasngr
+E8152	Mv coll w oth obj-mocycl
+E8156	Mv coll w obj-ped cycl
+E8160	Loss control mv acc-driv
+E8161	Loss control mv acc-psgr
+E8162	Loss control mv-mocycl
+E975	Legal intervention NEC
+81513	Fx metacarpal shaft-open
+81514	Fx metacarpal neck-open
+81519	Mult fx metacarpus-open
+81600	Fx phalanx, hand NOS-cl
+81601	Fx mid/prx phal, hand-cl
+81602	Fx dist phalanx, hand-cl
+81603	Fx mult phalan, hand-cl
+81610	Fx phalanx, hand NOS-opn
+E9306	Adv eff antmycob antbiot
+E9307	Adv eff antineop antbiot
+E9620	Assault-pois w medic agt
+E963	Assault-hanging/strangul
+E964	Assault-submersion
+E9650	Assault-handgun
+E9651	Assault-shotgun
+E9654	Assault-firearm NEC
+E9659	Assault-explosive NOS
+E966	Assault-cutting instr
+E9670	Abuse by fther/stpfth/bf
+E9671	Child abuse by pers NEC
+E9673	Batter by spouse/partner
+E9674	Battering by child
+E9677	Batter by other relative
+E9679	Child abuse NOS
+E9682	Assault-striking w obj
+E9687	Human bite - assault
+E9688	Assault NEC
+E9689	Assault NOS
+E969	Late effect assault
+E970	Legal intervent-firearm
+86819	Intra-abdom inj NEC-open
+8690	Internal inj NOS-closed
+8691	Internal injury NOS-open
+8700	Lac eyelid skn/perioculr
+8701	Full-thicknes lac eyelid
+8702	Lac eyelid inv lacrm pas
+8703	Penetr wnd orbit w/o FB
+8704	Penetrat wnd orbit w FB
+8708	Opn wnd ocular adnex NEC
+8710	Ocular lac w/o prolapse
+8711	Ocular lacera w prolapse
+8712	Rupture eye w tissu loss
+8713	Avulsion of eye
+8716	Penetrat FB NEC eye
+87200	Opn wound extern ear NOS
+87201	Open wound of auricle
+87202	Opn wound auditory canal
+87261	Open wound of ear drum
+87264	Open wound of cochlea
+87269	Open wound of ear NEC
+74100	Spin bif w hydroceph NOS
+74101	Spin bif w hydrceph-cerv
+74103	Spin bif w hydrceph-lumb
+E8062	RR acc NEC-pedestrian
+E8110	Reentrant mv coll-driver
+E9530	Injury-hanging
+E9538	Injury-strang/suff NEC
+E954	Injury-submersion
+E9550	Injury-handgun
+E9554	Injury-firearm NEC
+E9559	Injury-firearm/expl NOS
+E956	Injury-cut instrument
+E9570	Injury-jump fm residence
+E9571	Injury-jump fm struc NEC
+E9572	Injury-jump fm natur sit
+73609	Forearm deformity NEC
+73620	Acq finger deformity NOS
+73629	Acq finger deformity NEC
+73630	Acq hip deformity NOS
+7366	Acq knee deformity NEC
+73670	Acq ankle-foot def NOS
+73671	Acq equinovarus
+73672	Acq equinus deformity
+9301	FB in conjunctival sac
+9308	Foreign bdy ext eye NEC
+9309	Foreign bdy ext eye NOS
+932	Foreign body in nose
+9330	Foreign body in pharynx
+9331	Foreign body in larynx
+9340	Foreign body in trachea
+9341	Foreign body bronchus
+9348	FB trach/bronch/lung NEC
+9349	FB respiratory tree NOS
+9351	Foreign body esophagus
+9352	Foreign body in stomach
+936	FB in intestine & colon
+937	Foreign body anus/rectum
+99679	Comp-int prost devic NEC
+99680	Comp organ transplnt NOS
+99681	Compl kidney transplant
+99682	Compl liver transplant
+99683	Compl heart transplant
+99684	Compl lung transplant
+99685	Compl marrow transplant
+99686	Compl pancreas transplnt
+99687	Comp intestine transplnt
+99688	Comp tp organ-stem cell
+99689	Comp oth organ transplnt
+99693	Compl reattached finger
+99700	Nervous syst complc NOS
+99701	Surg complication - cns
+99702	Iatrogen CV infarc/hmrhg
+99709	Surg comp nerv systm NEC
+9971	Surg compl-heart
+9972	Surg comp-peri vasc syst
+99731	Ventltr assoc pneumonia
+99732	Postproc aspiration pneu
+99739	Respiratory comp NEC
+99741	Ret cholelh fol cholecys
+99749	Oth digestv system comp
+9975	Surg compl-urinary tract
+99762	Infection amputat stump
+99769	Amputat stump compl NEC
+99771	Vasc comp mesenteric art
+99772	Vasc comp renal artery
+99779	Vascular comp vessel NEC
+99791	Surg comp - hypertension
+99799	Surg compl-body syst NEC
+99800	Postoperative shock, NOS
+99801	Postop shock,cardiogenic
+99802	Postop shock, septic
+99809	Postop shock, other
+99811	Hemorrhage complic proc
+99812	Hematoma complic proc
+99813	Seroma complicting proc
+9982	Accidental op laceration
+99830	Wound disruption NOS
+99831	Disrup internal op wound
+99832	Disrup-external op wound
+99833	Disrpt trauma wound repr
+9984	FB left during procedure
+99851	Infected postop seroma
+99859	Other postop infection
+9986	Persist postop fistula
+78441	Aphonia
+78442	Dysphonia
+78443	Hypernasality
+78449	Voice/resonance dis NEC
+78451	Dysarthria
+78459	Speech disturbance NEC
+78461	Alexia and dyslexia
+78469	Symbolic dysfunction NEC
+7847	Epistaxis
+7848	Hemorrhage from throat
+78491	Postnasal drip
+78492	Jaw pain
+78499	Head & neck symptoms NEC
+99989	Transfusion reaction NEC
+E9308	Adv eff antibiotics NEC
+E9309	Adv eff antibiotic NOS
+E9310	Adv eff sulfonamides
+E9313	Adv eff quinoline
+E9314	Adv eff antimalarials
+E9315	Adv eff antprotazoal NEC
+E9317	Adv eff antiviral drugs
+E9318	Adv eff antimycobac NEC
+E9319	Adv eff antinfct NEC/NOS
+E9320	Adv eff corticosteroids
+E9322	Adv eff ovarian hormones
+E9323	Adv eff insulin/antidiab
+E9324	Adv eff ant pituitary
+E9325	Adv eff post pituitary
+E9328	Adv eff antithyroid agnt
+E9330	Adv eff anallrg/antemet
+E9331	Adv eff antineoplastic
+E9334	Adv eff enzymes NEC
+E9335	Adv eff vitamins NEC
+E9338	Adv eff systemic agt NEC
+E9340	Adv eff iron & compounds
+E9342	Adv eff anticoagulants
+E9343	Adv eff vitamin k
+E9344	Adv eff fibrinolysis agt
+E9345	Adv eff coagulants
+E9346	Adv eff gamma globulin
+E9347	Adv eff blood products
+E9348	Adv eff blood agent NEC
+E9351	Adv eff methadone
+E9352	Adv eff opiates
+E9353	Adv eff salicylates
+E9354	Adv eff arom analgsc NEC
+E9356	Adv eff antirheumatics
+E9357	Adv eff non-narc analgsc
+E9358	Adv eff analgesics NEC
+E9359	Adv eff analgesic NOS
+E9360	Adv eff oxazolidin deriv
+E9361	Adv eff hydantoin deriv
+E9420	Adv eff card rhyth regul
+E9421	Adv eff cardiotonics
+66511	Rupture uterus NOS-deliv
+66524	Invers uterus-postpart
+66531	Lacerat of cervix-deliv
+66534	Lacer of cervix-postpart
+66541	High vaginal lacer-deliv
+66551	Ob inj pelv org NEC-del
+66554	Inj pelv org NEC-postpar
+66561	Damage to pelvic jt-del
+66574	Pelvic hematoma-postpart
+66582	Ob trauma NEC-del w p/p
+66602	Thrd-stage hem-del w p/p
+66604	Third-stage hem-postpart
+66612	Postpa hem NEC-del w p/p
+66614	Postpart hem NEC-postpar
+66622	Delay p/p hem-del w p/p
+66624	Delay p/part hem-postpar
+66632	P/p coag def-del w p/p
+66634	Postpart coag def-postpa
+938	Foreign body GI NOS
+9390	FB bladder & urethra
+9392	Foreign bdy vulva/vagina
+9393	Foreign body penis
+7244	Lumbosacral neuritis NOS
+7245	Backache NOS
+7246	Disorders of sacrum
+7248	Other back symptoms
+7249	Back disorder NOS
+725	Polymyalgia rheumatica
+7260	Adhesive capsulit shlder
+72610	Rotator cuff synd NOS
+72611	Calcif tendinitis shlder
+72612	Bicipital tenosynovitis
+78909	Abdmnal pain oth spcf st
+7891	Hepatomegaly
+7892	Splenomegaly
+78930	Abdmnal mass unspcf site
+7200	Ankylosing spondylitis
+7202	Sacroiliitis NEC
+7209	Inflam spondylopathy NOS
+7210	Cervical spondylosis
+7211	Cerv spondyl w myelopath
+7212	Thoracic spondylosis
+7213	Lumbosacral spondylosis
+72141	Spond compr thor sp cord
+72142	Spond compr lumb sp cord
+7217	Traumatic spondylopathy
+7218	Spinal disorders NEC
+72190	Spondylos NOS w/o myelop
+72191	Spondylosis NOS w myelop
+7220	Cervical disc displacmnt
+72210	Lumbar disc displacement
+72211	Thoracic disc displacmnt
+7222	Disc displacement NOS
+72230	Schmorl's nodes NOS
+7224	Cervical disc degen
+72251	Thoracic disc degen
+72252	Lumb/lumbosac disc degen
+7226	Disc degeneration NOS
+72270	Disc dis w myelopath NOS
+72271	Cerv disc dis w myelopat
+72272	Thor disc dis w myelopat
+72273	Lumb disc dis w myelopat
+72283	Postlaminect synd-lumbar
+72290	Disc dis NEC/NOS-unspec
+72291	Disc dis NEC/NOS-cerv
+72292	Disc dis NEC/NOS-thorac
+72293	Disc dis NEC/NOS-lumbar
+7230	Cervical spinal stenosis
+7231	Cervicalgia
+7234	Brachial neuritis NOS
+7235	Torticollis NOS
+7812	Abnormality of gait
+7813	Lack of coordination
+7816	Meningismus
+7817	Tetany
+7818	Neurologic neglect syndr
+78194	Facial weakness
+78199	Nerve/musculskel sym NEC
+7820	Skin sensation disturb
+7821	Nonspecif skin erupt NEC
+7822	Local suprficial swellng
+7823	Edema
+7824	Jaundice NOS
+7825	Cyanosis
+78261	Pallor
+78262	Flushing
+7827	Spontaneous ecchymoses
+7828	Changes in skin texture
+7830	Anorexia
+7831	Abnormal weight gain
+78321	Abnormal loss of weight
+7833	Feeding problem
+78340	Lack norm physio dev NOS
+78341	Failure to thrive-child
+78343	Short stature
+7835	Polydipsia
+7836	Polyphagia
+7837	Failure to thrive-adult
+7840	Headache
+7841	Throat pain
+7842	Swelling in head & neck
+7843	Aphasia
+V016	Venereal dis contact
+V0179	Viral dis contact NEC
+V0189	Communic dis contact NEC
+V020	Cholera carrier
+9999	Complic med care NEC/NOS
+E0000	Civilian activity-income
+E0008	Externl cause status NEC
+E0009	Externl cause status NOS
+E0010	Walking,marching,hiking
+E0011	Running
+E0020	Swimming
+E0026	Water ski/wake boarding
+E0030	Ice Skating
+E0031	Ice hockey
+E0032	Ski,snow brd,sled,tobagn
+E0039	Ice and snow
+E0060	Roller skate,skateboard
+E0061	Horseback riding
+E0062	Golf
+E9378	Adv eff sedat/hypnot NEC
+E9379	Adv eff sedat/hypnot NOS
+E9380	Adv eff cns muscl depres
+E9382	Adv eff gas anesthet NEC
+E9383	Adv eff intraven anesth
+E9384	Adv eff gen anes NEC/NOS
+E9385	Adv eff topic/infil anes
+E9386	Adv eff nerve-block anes
+E9387	Adv eff spinal anesthet
+E9389	Adv eff loc anes NEC/NOS
+E9390	Adv eff antidepressants
+E9391	Adv eff phenothiaz tranq
+E9392	Adv eff butyrophen tranq
+E9393	Adv eff antipsychotc NEC
+E9394	Adv eff benzodiaz tranq
+E9395	Adv eff tranquilizer NEC
+E9397	Adv eff psychostimulants
+E9398	Adv eff psychotropic NEC
+E9399	Adv eff psychotropic NOS
+E9401	Adv eff opiat antagonist
+E9408	Adv eff cns stimulnt NEC
+80700	Fracture rib NOS-closed
+80701	Fracture one rib-closed
+80702	Fracture two ribs-closed
+80703	Fracture three ribs-clos
+80704	Fracture four ribs-close
+80705	Fracture five ribs-close
+80706	Fracture six ribs-closed
+80707	Fracture seven ribs-clos
+80708	Fx eight/more rib-closed
+E9422	Adv eff antilipemics
+E9424	Adv eff coronary vasodil
+E9425	Adv eff vasodilators NEC
+E9426	Adv eff antihyperten agt
+E9429	Adv eff cardiovasc NEC
+E9430	Adv eff antacids
+E9433	Adv eff cathartics NEC
+E9438	Adv eff GI agent NEC
+E9441	Adv eff purine diuretics
+E9443	Adv eff saluretics
+E9444	Adv eff diuretics NEC
+8620	Diaphragm injury-closed
+8621	Diaphragm injury-open
+86222	Esophagus injury-closed
+86229	Intrathoracic inj NEC-cl
+86232	Esophagus injury-open
+86239	Intrathorac inj NEC-open
+8629	Intrathorac inj NOS-open
+8630	Stomach injury-closed
+8631	Stomach injury-open
+86320	Small intest inj NOS-cl
+86321	Duodenum injury-closed
+86329	Small intest inj NEC-cl
+86330	Small intest inj NOS-opn
+86331	Duodenum injury-open
+86339	Small intest inj NEC-opn
+86340	Colon injury NOS-closed
+86342	Transverse colon inj-cl
+86343	Descending colon inj-cl
+86344	Sigmoid colon inj-closed
+86345	Rectum injury-closed
+86349	Colon injury NEC-closed
+86350	Colon injury NOS-open
+86351	Ascending colon inj-open
+86352	Transverse colon inj-opn
+86353	Descending colon inj-opn
+86354	Sigmoid colon inj-open
+86355	Rectum injury-open
+86381	Pancreas, head inj-close
+72813	Postop heterotopic calc
+7282	Musc disuse atrophy NEC
+7283	Muscle disorders NEC
+7284	Laxity of ligament
+7286	Contracted palmar fascia
+72871	Plantar fibromatosis
+72879	Fibromatoses NEC
+81103	Fx scap, glen cav/nck-cl
+81109	Fx scapula NEC-closed
+81110	Fx scapula NOS-open
+78931	Abdmnal mass rt upr quad
+78932	Abdmnal mass lft up quad
+78933	Abdmnal mass rt lwr quad
+78934	Abdmnal mass lt lwr quad
+78939	Abdmnal mass oth spcf st
+78940	Abdmnal rgdt unspcf site
+78947	Abdmnal rgdt generalized
+78951	Malignant ascites
+78959	Ascites NEC
+78960	Abdmnal tndr unspcf site
+78961	Abdmnal tndr rt upr quad
+79001	Drop, hematocrit, precip
+79009	Abnormal RBC NEC
+7901	Elevated sediment rate
+79021	Impaired fasting glucose
+79022	Impaired oral glucse tol
+79029	Abnormal glucose NEC
+80709	Fx mult ribs NOS-closed
+80710	Fracture rib NOS-open
+80711	Fracture one rib-open
+80718	Fx eight/more ribs-open
+8072	Fracture of sternum-clos
+8073	Fracture of sternum-open
+8074	Flail chest
+8075	Fx larynx/trachea-closed
+8076	Fx larynx/trachea-open
+8080	Fracture acetabulum-clos
+8081	Fracture acetabulum-open
+8082	Fracture of pubis-closed
+8083	Fracture of pubis-open
+80841	Fracture of ilium-closed
+80842	Fracture ischium-closed
+80843	Pelv fx-clos/pelv disrup
+80849	Pelvic fracture NEC-clos
+80851	Fracture of ilium-open
+80853	Pelv fx-open/pelv disrup
+80859	Pelvic fracture NEC-open
+8088	Pelvic fracture NOS-clos
+8089	Pelvic fracture NOS-open
+81000	Fx clavicle NOS-closed
+81001	Fx clavicl, stern end-cl
+81002	Fx clavicle shaft-closed
+81003	Fx clavicl, acrom end-cl
+81010	Fx clavicle NOS-open
+81012	Fx clavicle shaft-open
+81013	Fx clavic, acrom end-opn
+81100	Fx scapula NOS-closed
+81101	Fx scapul, acrom proc-cl
+81102	Fx scapul, corac proc-cl
+67404	Cerebrovasc dis-postpart
+94108	Burn NOS neck
+94126	2nd deg burn scalp
+94127	2nd deg burn face NEC
+94128	2nd deg burn neck
+9992	Vasc comp med care NEC
+99931	Oth/uns inf-cen ven cath
+99932	Blood inf dt cen ven cth
+99933	Lcl inf dt cen ven cth
+99939	Infect fol infus/inj/vac
+99941	Anaphyl d/t adm bld/prod
+99971	Rh incomp/HTR NEC
+78724	Dysphagia,pharyngoesoph
+78729	Dysphagia NEC
+7873	Flatul/eructat/gas pain
+7874	Visible peristalsis
+78760	Full incontinence-feces
+78791	Diarrhea
+78799	Digestve syst symptm NEC
+7881	Dysuria
+78820	Retention urine NOS
+78821	Incmplet bldder emptying
+73089	Bone infect NEC-mult
+73097	Bone infect NOS-ankle
+7310	Osteitis deformans NOS
+7313	Major osseous defects
+7318	Bone involv in oth dis
+7320	Juv osteochondros spine
+7321	Juv osteochondros pelvis
+7323	Juv osteochondrosis arm
+7324	Juv osteochondrosis leg
+7325	Juv osteochondrosis foot
+73300	Osteoporosis NOS
+73301	Senile osteoporosis
+73302	Idiopathic osteoporosis
+73309	Osteoporosis NEC
+73311	Path fx humerus
+73312	Path fx dstl radius ulna
+73313	Path fx vertebrae
+73314	Path fx neck of femur
+73315	Path fx oth spcf prt fmr
+73316	Path fx tibia fibula
+73319	Path fx oth specif site
+73320	Cyst of bone NOS
+73329	Bone cyst NEC
+7333	Hyperostosis of skull
+73340	Asept necrosis bone NOS
+73341	Aseptic necrosis humerus
+73342	Aseptic necrosis femur
+73345	Aseptic necrosis of jaw
+73349	Asept necrosis bone NEC
+7335	Osteitis condensans
+7336	Tietze's disease
+73381	Malunion of fracture
+73382	Nonunion of fracture
+73390	Bone & cartilage dis NOS
+7904	Elev transaminase/ldh
+7905	Abn serum enzy level NEC
+7906	Abn blood chemistry NEC
+7907	Bacteremia
+7908	Viremia NOS
+79092	Abnrml coagultion prfile
+79093	Elvtd prstate spcf antgn
+79094	Euthyroid sick syndrome
+79095	Elev C-reactive protein
+79099	Oth nspcf finding blood
+7910	Proteinuria
+7912	Hemoglobinuria
+7913	Myoglobinuria
+7916	Acetonuria
+7919	Abn urine findings NEC
+7920	Abn fnd-cerebrospinal fl
+7921	Abn find-stool contents
+81200	Fx up end humerus NOS-cl
+81201	Fx surg nck humerus-clos
+81202	Fx anatom nck humerus-cl
+81203	Fx gr tuberos humerus-cl
+81209	Fx upper humerus NEC-cl
+81210	Fx upper humerus NOS-opn
+81212	Fx anat neck humerus-opn
+81219	Fx upper humerus NEC-opn
+81220	Fx humerus NOS-closed
+81221	Fx humerus shaft-closed
+81230	Fx humerus NOS-open
+81231	Fx humerus shaft-open
+81240	Fx lower humerus NOS-cl
+81241	Suprcondyl fx humerus-cl
+81242	Fx humer, lat condyl-cl
+81243	Fx humer, med condyl-cl
+81244	Fx humer, condyl NOS-cl
+81249	Fx lower humerus NEC-cl
+81250	Fx lower humer NOS-open
+81251	Supracondyl fx humer-opn
+81252	Fx humer, lat condyl-opn
+81254	Fx humer, condyl NOS-opn
+81259	Fx lower humer NEC-open
+81301	Fx olecran proc ulna-cl
+81302	Fx coronoid proc ulna-cl
+81303	Monteggia's fx-closed
+81305	Fx radius head-closed
+81307	Fx up radius NEC/NOS-cl
+81308	Fx up radius w ulna-clos
+81311	Fx olecran proc ulna-opn
+81313	Monteggia's fx-open
+81314	Fx up ulna NEC/NOS-open
+81318	Fx up radius w ulna-open
+81321	Fx radius shaft-closed
+81322	Fx ulna shaft-closed
+81323	Fx shaft rad w ulna-clos
+81331	Fx radius shaft-open
+81332	Fx ulna shaft-open
+81333	Fx shaft rad w ulna-open
+81341	Colles' fracture-closed
+67324	Pulm embol NOS-postpart
+67333	Ob pyemic embol-antepart
+8960	Amputation foot, unilat
+8961	Amput foot, unilat-compl
+8970	Amput below knee, unilat
+67412	Disrupt c-sect-del w p/p
+67414	Disrupt c-sect-postpart
+67432	Ob surg compl-del w p/p
+67434	Ob surg comp NEC-postpar
+67451	Peripartum cardiomy-del
+67454	Peripartum card-postpart
+67482	Puerp comp NEC-del w p/p
+67484	Puerp compl NEC-postpart
+73393	Stress fx tibia/fibula
+73396	Stress fx femoral neck
+73399	Bone & cartilage dis NEC
+734	Flat foot
+7350	Hallux valgus
+7354	Other hammer toe
+7355	Claw toe
+7358	Acq deformity of toe NEC
+7359	Acq deformity of toe NOS
+73600	Forearm deformity NOS
+73605	Wrist drop
+9642	Poisoning-anticoagulants
+74190	Spina bifida
+67153	Thrombosis NEC-antepart
+67154	Thrombosis NEC-postpart
+67202	Puerp pyrexia-del w p/p
+67204	Puerp pyrexia-postpartum
+67311	Amniotic embolism-deliv
+67323	Pulm embol NOS-antepart
+95899	Trauma compart synd NEC
+95901	Head injury NOS
+95909	Face & neck injury
+95911	Injury of chest wall NEC
+95912	Injury of abdomen NEC
+95914	Inj external genital NEC
+95919	Trunk injury-sites NEC
+9592	Shldr/upper arm inj NOS
+9593	Elb/forearm/wrst inj NOS
+9594	Hand injury NOS
+9595	Finger injury NOS
+79509	Abn pap cervix HPV NEC
+79510	Abn gland pap smr vagina
+79539	Nonsp positive cult NEC
+79551	Nonsp rea skn test wo tb
+79552	Nonsp rea gma interferon
+81342	Fx distal radius NEC-cl
+81343	Fx distal ulna-closed
+81344	Fx low radius w ulna-cl
+81351	Colles' fracture-open
+81352	Fx distal radius NEC-opn
+81353	Fx distal ulna-open
+81354	Fx low radius w ulna-opn
+81381	Fx radius NOS-closed
+81382	Fracture ulna NOS-closed
+81383	Fx radius w ulna NOS-cl
+81391	Fracture radius NOS-open
+81392	Fracture ulna NOS-open
+81393	Fx radius w ulna NOS-opn
+81400	Fx carpal bone NOS-close
+81401	Fx navicular, wrist-clos
+81402	Fx lunate, wrist-closed
+81403	Fx triquetral, wrist-cl
+81404	Fx pisiform-closed
+81405	Fx trapezium bone-closed
+81406	Fx trapezoid bone-closed
+81407	Fx capitate bone-closed
+81408	Fx hamate bone-closed
+81409	Fx carpal bone NEC-close
+81411	Fx navicular, wrist-open
+81412	Fx lunate, wrist-open
+81418	Fx hamate bone-open
+81419	Fx carpal bone NEC-open
+81500	Fx metacarpal NOS-closed
+81501	Fx 1st metacarp base-cl
+81502	Fx metacarp base NEC-cl
+81503	Fx metacarpal shaft-clos
+81504	Fx metacarpal neck-close
+81509	Mult fx metacarpus-close
+81510	Fx metacarpal NOS-open
+81511	Fx 1st metacarp base-opn
+81512	Fx metacarp base NEC-opn
+90225	Inj super mesenteric art
+90226	Inj brnch sup mesent art
+90229	Inj mesenteric vess NEC
+90233	Injury portal vein
+90234	Injury splenic vein
+90241	Injury renal artery
+90242	Injury renal vein
+90251	Inj hypogastric artery
+96905	Pois tricyclc antidepres
+96909	Pois antidepressants NEC
+9691	Pois-phenothiazine tranq
+9693	Poison-antipsychotic NEC
+9694	Pois-benzodiazepine tran
+9695	Poison-tranquilizer NEC
+9696	Poisoning-hallucinogens
+96971	Poisoning by caffeine
+96972	Poisoning by amphetamine
+74193	Spina bifida-lumbar
+7420	Encephalocele
+7421	Microcephalus
+7422	Reduction deform, brain
+7423	Congenital hydrocephalus
+7424	Brain anomaly NEC
+74259	Spinal cord anomaly NEC
+7428	Nervous system anom NEC
+7429	Nervous system anom NOS
+74320	Buphthalmos NOS
+74330	Congenital cataract NOS
+74361	Congenital ptosis
+74401	Cong absence ext ear
+74423	Microtia
+V011	Tuberculosis contact
+E8609	Acc poison-alcohol NOS
+E8611	Acc poison-soap products
+E8613	Acc poison-cleanser NEC
+E8619	Acc poison-cleanser NOS
+7262	Shoulder region dis NEC
+73679	Acq ankle-foot def NEC
+73681	Unequal leg length
+73689	Oth acq limb deformity
+73710	Kyphosis NOS
+73711	Radiation kyphosis
+73712	Postlaminectomy kyphosis
+73719	Kyphosis NEC
+73722	Oth postsurgery lordosis
+73729	Lordosis NEC
+73730	Idiopathic scoliosis
+73732	Progr idiopath scoliosis
+73733	Radiation scoliosis
+73734	Thoracogenic scoliosis
+73739	Scoliosis NEC
+73741	Kyphosis in oth dis
+73743	Scoliosis in oth dis
+7380	Acq nose deformity
+73810	Unspf acq deformity head
+73819	Oth spcf deformity head
+7383	Acq chest deformity
+7384	Acq spondylolisthesis
+7385	Other acq back deformity
+7386	Acq pelvic deformity
+7388	Acq deformity NEC
+7937	Nonsp abn find-ms system
+79381	Mammographic microcalcif
+79389	Abn finding-breast NEC
+79399	Nonsp abn find-body NEC
+79400	Abn cns funct study NOS
+79401	Abnorm echoencephalogram
+79402	Abn electroencephalogram
+79409	Abn cns funct study NEC
+7942	Abn pulmonary func study
+79431	Abnorm electrocardiogram
+79439	Abn cardiovasc study NEC
+7944	Abn kidney funct study
+7945	Abn thyroid funct study
+7946	Abn endocrine study NEC
+7947	Abn basal metabol study
+E8495	Accid on street/highway
+E8496	Accident in public bldg
+E8497	Accid in resident instit
+E8498	Accident in place NEC
+E8499	Accident in place NOS
+V180	Fam hx-diabetes mellitus
+V1811	Fam hx MEN syndrome
+V1819	Fm hx endo/metab dis NEC
+V182	Family hx-anemia
+V183	Fam hx-blood disord NEC
+V1851	Family hx colonic polyps
+V1859	Fam hx digest disord NEC
+7850	Tachycardia NOS
+7851	Palpitations
+80475	Opn skl/oth fx-deep coma
+80476	Opn skul/oth fx-coma NOS
+80485	Opn skl/oth fx-deep coma
+80500	Fx cervical vert NOS-cl
+80501	Fx c1 vertebra-closed
+80502	Fx c2 vertebra-closed
+80503	Fx c3 vertebra-closed
+80504	Fx c4 vertebra-closed
+80505	Fx c5 vertebra-closed
+80506	Fx c6 vertebra-closed
+80507	Fx c7 vertebra-closed
+80508	Fx mult cervical vert-cl
+8052	Fx dorsal vertebra-close
+8053	Fx dorsal vertebra-open
+8054	Fx lumbar vertebra-close
+8055	Fx lumbar vertebra-open
+8794	Opn wnd lateral abdomen
+8795	Opn wnd lat abdomen-comp
+8796	Open wound of trunk NEC
+8797	Open wnd trunk NEC-compl
+8798	Open wound site NOS
+8799	Opn wound site NOS-compl
+88000	Open wound of shoulder
+88001	Open wound of scapula
+88002	Open wound of axilla
+66811	Heart compl in del-deliv
+66822	Cns complic-del w p/p
+66911	Obstetric shock-deliver
+66914	Obstetric shock-postpart
+66921	Matern hypoten syn-deliv
+7236	Panniculitis of neck
+7237	Ossification cerv lig
+7238	Cervical syndrome NEC
+72400	Spinal stenosis NOS
+72401	Spinal stenosis-thoracic
+72402	Spin sten,lumbr wo claud
+72403	Spin sten,lumbr w claud
+72409	Spinal stenosis-oth site
+7242	Lumbago
+7243	Sciatica
+72632	Lateral epicondylitis
+72633	Olecranon bursitis
+7265	Enthesopathy of hip
+72660	Enthesopathy of knee NOS
+72664	Patellar tendinitis
+72665	Prepatellar bursitis
+72669	Enthesopathy of knee NEC
+72671	Achilles tendinitis
+72672	Tibialis tendinitis
+72673	Calcaneal spur
+72679	Ankle enthesopathy NEC
+72690	Enthesopathy, site NOS
+72691	Exostosis, site NOS
+72700	Synovitis NOS
+72703	Trigger finger
+72704	Radial styloid tenosynov
+72705	Tenosynov hand/wrist NEC
+72706	Tenosynovitis foot/ankle
+72709	Synovitis NEC
+7271	Bunion
+7273	Bursitis NEC
+72740	Synovial cyst NOS
+72741	Ganglion of joint
+72742	Ganglion of tendon
+72743	Ganglion NOS
+72751	Popliteal synovial cyst
+72761	Rotator cuff rupture
+72762	Biceps tendon rupture
+72763	Rupt exten tendon hand
+72781	Contracture of tendon
+72782	Calcium deposit tendon
+72789	Synov/tend/bursa dis NEC
+7852	Cardiac murmurs NEC
+7854	Gangrene
+78550	Shock NOS
+78551	Cardiogenic shock
+78552	Septic shock
+78559	Shock w/o trauma NEC
+7856	Enlargement lymph nodes
+7859	Cardiovas sys symp NEC
+78600	Respiratory abnorm NOS
+78601	Hyperventilation
+78602	Orthopnea
+78603	Apnea
+78604	Cheyne-stokes respiratn
+78605	Shortness of breath
+78606	Tachypnea
+78607	Wheezing
+78609	Respiratory abnorm NEC
+7861	Stridor
+7862	Cough
+78630	Hemoptysis NOS
+78639	Hemoptysis NEC
+7864	Abnormal sputum
+78650	Chest pain NOS
+78651	Precordial pain
+78652	Painful respiration
+78659	Chest pain NEC
+7866	Chest swelling/mass/lump
+7868	Hiccough
+7869	Resp sys/chest symp NEC
+78701	Nausea with vomiting
+78702	Nausea alone
+78703	Vomiting alone
+78704	Bilious emesis
+7871	Heartburn
+78720	Dysphagia NOS
+78721	Dysphagia, oral phase
+78722	Dysphagia, oropharyngeal
+78723	Dysphagia, pharyngeal
+E8248	N-traf brd/alit-pers NEC
+E8250	Mv n-traff acc NEC-driv
+E8251	Mv n-traff NEC/NOS-psgr
+V1351	Hx pathological fracture
+V1352	Hx stress fracture
+V023	GI pathogen carrier NEC
+V024	Diphtheria carrier
+V0251	Group b streptoc carrier
+V0252	Streptococus carrier NEC
+V0253	Meth susc Staph carrier
+V0254	Meth resis Staph carrier
+V0259	Bacteria dis carrier NEC
+V0261	Hepatitis B carrier
+V0262	Hepatitis C carrier
+V029	Carrier NEC
+V037	Tetanus toxoid inoculat
+V0381	Nd vac hmophlus inflnz b
+V0382	Nd vac strptcs pneumni b
+V0389	Nd other specf vacnation
+V045	Vaccin for rabies
+V0481	Vaccin for influenza
+V0482	Vaccination for RSV
+V053	Need prphyl vc vrl hepat
+V058	Vaccin for disease NEC
+V061	Vaccination for DTP-DTaP
+8780	Open wound of penis
+8782	Opn wound scrotum/testes
+8783	Opn wnd scrot/test-compl
+8785	Open wound vulva-compl
+8786	Open wound of vagina
+8787	Open wound vagina-compl
+8790	Open wound of breast
+8791	Open wound breast-compl
+8792	Opn wnd anterior abdomen
+8793	Opn wnd ant abdomen-comp
+V440	Tracheostomy status
+V441	Gastrostomy status
+V442	Ileostomy status
+V443	Colostomy status
+V444	Enterostomy status NEC
+V4450	Cystostomy status NOS
+V4451	Cutaneous-vesicos status
+V4459	Cystostomy status NEC
+V446	Urinostomy status NEC
+V448	Artif open status NEC
+66932	Ac kidney fail-del w p/p
+66934	Ac kidney fail-postpart
+66941	Oth ob compl-delivered
+66942	Oth ob compl-deliv w p/p
+66944	Oth ob surg compl-postpa
+67002	Maj puer inf NOS-del p/p
+67004	Major puerp inf NOS-p/p
+67012	Puerp endomet del w p/p
+67014	Puerp endomet-postpart
+7279	Synov/tend/bursa dis NOS
+7280	Infective myositis
+9513	Injury abducens nerve
+9514	Injury to facial nerve
+9515	Injury to acoustic nerve
+9517	Injury hypoglossal nerve
+9518	Injury cranial nerve NEC
+95200	C1-c4 spin cord inj NOS
+95202	Anterior cord synd/c1-c4
+V1061	Hx of lymphoid leukemia
+V1062	Hx of myeloid leukemia
+V1069	Hx of leukemia NEC
+V1071	Hx-lymphosarcoma
+V1072	Hx-hodgkin's disease
+V1079	Hx-lymphatic malign NEC
+V1081	Hx of bone malignancy
+V1082	Hx-malig skin melanoma
+V1083	Hx-skin malignancy NEC
+V1084	Hx of eye malignancy
+V1085	Hx of brain malignancy
+V1086	Hx-malign nerve syst NEC
+V1087	Hx of thyroid malignancy
+V1088	Hx-endocrine malign NEC
+V1089	Hx of malignancy NEC
+V1090	Hx malig neoplasm NOS
+V1091	Hx malig neuroendo tumor
+V110	Hx of schizophrenia
+V111	Hx of affective disorder
+V113	Hx of alcoholism
+V118	Hx-mental disorder NEC
+V1201	Prsnl hst tuberculosis
+V1202	Prsnl hst poliomyelitis
+V1203	Personal histry malaria
+V1204	Hx Methicln resist Staph
+V1209	Prsnl hst oth nfct parst
+V1241	Hx benign neoplasm brain
+V1242	Personl hx infection CNS
+V1250	Hx-circulatory dis NOS
+V1251	Hx-ven thrombosis/embols
+V1252	Hx-thrombophlebitis
+V1253	Hx sudden cardiac arrest
+V1254	Hx TIA/stroke w/o resid
+V1255	Hx pulmonary embolism
+V1259	Hx-circulatory dis NEC
+V1261	Prsnl hx recur pneumonia
+V1271	Prsnl hst peptic ulcr ds
+V1272	Prsnl hst colonic polyps
+V1279	Prsnl hst ot spf dgst ds
+V1301	Prsnl hst urnr dsrd calc
+V1302	Personal history UTI
+V1309	Prsn hst ot spf urn dsrd
+V8741	Hx antineoplastic chemo
+V8745	Hx systemc steroid thrpy
+8972	Amput above knee, unilat
+V1364	Hx-cong malform-eye,face
+V1365	Hx-cong malform-heart
+8900	Open wound of hip/thigh
+8901	Open wnd hip/thigh-compl
+8902	Opn wnd hip/thigh w tend
+8910	Open wnd knee/leg/ankle
+8911	Open wnd knee/leg-compl
+8912	Opn wnd knee/leg w tendn
+8920	Open wound of foot
+8921	Open wound foot-compl
+8922	Open wound foot w tendon
+8930	Open wound of toe
+8940	Open wound of leg NEC
+9523	Sacral spinal cord injur
+9524	Cauda equina injury
+9528	Spin cord inj-mult site
+9529	Spinal cord injury NOS
+9530	Cervical root injury
+9531	Dorsal root injury
+9534	Brachial plexus injury
+9535	Lumbosacral plex injury
+9539	Inj nerve root/plex NOS
+9540	Inj cerv sympath nerve
+9551	Injury median nerve
+9552	Injury ulnar nerve
+9553	Injury radial nerve
+9555	Inj cutan senso nerv/arm
+9556	Injury digital nerve
+9557	Inj nerve shldr/arm NEC
+9558	Inj mult nerve shldr/arm
+9559	Inj nerve shldr/arm NOS
+9561	Injury femoral nerve
+9562	Inj posterior tib nerve
+9563	Injury peroneal nerve
+9569	Inj nerve pelv/leg NOS
+9570	Inj superf nerv head/nck
+9571	Injury to nerve NEC
+9578	Injury to mult nerves
+9579	Injury to nerve NOS
+9580	Air embolism
+9581	Fat embolism
+9582	Secondary/recur hemorr
+9583	Posttraum wnd infec NEC
+9584	Traumatic shock
+9585	Traumatic anuria
+9587	Traum subcutan emphysema
+9588	Early complic trauma NEC
+95891	Trauma comp synd up ext
+95892	Trauma comp synd low ext
+95893	Trauma compart synd abd
+9140	Abrasion hand
+E8405	Tk off/land-aircraft NEC
+78829	Oth spcf retention urine
+78830	Urinary incontinence NOS
+78831	Urge incontinence
+78832	Stress incontinence male
+78833	Mixed incontinence
+78834	Incontnce wo sensr aware
+8056	Fx sacrum/coccyx-closed
+8058	Vertebral fx NOS-closed
+80600	C1-c4 fx-cl/cord inj NOS
+80601	C1-c4 fx-cl/com cord les
+80602	C1-c4 fx-cl/ant cord syn
+80603	C1-c4 fx-cl/cen cord syn
+80604	C1-c4 fx-cl/cord inj NEC
+80605	C5-c7 fx-cl/cord inj NOS
+80606	C5-c7 fx-cl/com cord les
+80607	C5-c7 fx-cl/ant cord syn
+80608	C5-c7 fx-cl/cen cord syn
+80609	C5-c7 fx-cl/cord inj NEC
+80616	C5-c7 fx-op/com cord les
+80620	T1-t6 fx-cl/cord inj NOS
+80621	T1-t6 fx-cl/com cord les
+80622	T1-t6 fx-cl/ant cord syn
+80623	T1-t6 fx-cl/cen cord syn
+80624	T1-t6 fx-cl/cord inj NEC
+80625	T7-t12 fx-cl/crd inj NOS
+80626	T7-t12 fx-cl/com crd les
+80629	T7-t12 fx-cl/crd inj NEC
+80631	T1-t6 fx-op/com cord les
+80639	T7-t12 fx-op/crd inj NEC
+8064	Cl lumbar fx w cord inj
+8065	Opn lumbar fx w cord inj
+80660	Fx sacrum-cl/crd inj NOS
+80662	Fx sacr-cl/cauda inj NEC
+8068	Vert fx NOS-cl w crd inj
+V1041	Hx-cervical malignancy
+V1042	Hx-uterus malignancy NEC
+V1043	Hx of ovarian malignancy
+V1044	Hx-female genit malg NEC
+V1046	Hx-prostatic malignancy
+V1047	Hx-testicular malignancy
+V1369	Hx-congenital malfor NEC
+V1381	Hx of anaphylaxis
+V1389	Hx diseases NEC
+V140	Hx-penicillin allergy
+V141	Hx-antibiot allergy NEC
+V142	Hx-sulfonamides allergy
+V143	Hx-anti-infect allergy
+V145	Hx-narcotic allergy
+V146	Hx-analgesic allergy
+V148	Hx-drug allergy NEC
+V1501	Hx-peanut allergy
+V1502	Hx-milk prod allergy
+V1504	Hx-seafood allergy
+V1505	Hx-other food allergy
+V1506	Hx-allergy insct/arachnd
+V1507	Hx-latex allergy
+V1508	Hx-radiogrphc dye allrgy
+V1509	Hx-allergy NEC
+V151	Hx-major cardiovasc surg
+V1529	Hx surgery to organs NEC
+V153	Hx of irradiation
+V1541	Hx of physical abuse
+V1542	Hx of emotional abuse
+V1551	Hx traumatic fracture
+V1552	Hx traumatc brain injury
+V1553	Hx retained FB, rem
+V1559	Hx injury NEC
+V1581	Hx of past noncompliance
+V1582	History of tobacco use
+V1584	Hx-contct/expos asbestos
+V1585	Hx-cont/exps haz bdy fld
+V1586	Hx-contact/exposure lead
+V1588	Personal history of fall
+V1589	Hx-health hazards NEC
+V160	Family hx-gi malignancy
+V161	Fm hx-trach/bronchog mal
+V162	Fam hx-intrathoracic mal
+V163	Family hx-breast malig
+V1641	Fm hx ovary malignancy
+V1642	Fm hx prostate malig
+V1643	Fm hx testis malig
+V1649	Fm hx genital malig NEC
+V1651	Family hx-kidney malig
+V1652	Fam hx-bladder malig
+V1659	Fam hx-urinry malig NEC
+V166	Family hx-leukemia
+V167	Fam hx-lymph neoplas NEC
+V168	Family hx-malignancy NEC
+V169	Family hx-malignancy NOS
+V170	Fam hx-psychiatric cond
+V171	Family hx-stroke
+V173	Fam hx-ischem heart dis
+V1741	Fam hx sudden card death
+V1749	Fam hx-cardiovas dis NEC
+V175	Family hx-asthma
+V4561	Cataract extract status
+V4569	Post-proc st eye/adn NEC
+V4571	Acq absnce breast/nipple
+V4572	Acquire absnce intestine
+V4573	Acquired absence kidney
+V4574	Acq absence urinary trct
+V4575	Acq absence of stomach
+V4576	Acq absence of lung
+V4577	Acq absnce genital organ
+V4578	Acquired absence of eye
+V4579	Acq absence of organ NEC
+8973	Amput abv kn, unil-compl
+8977	Amputat leg, bilat-compl
+90001	Inj common carotid arter
+90002	Inj external carotid art
+90003	Inj internal carotid art
+9001	Inj internl jugular vein
+90081	Inj extern jugular vein
+90082	Inj mlt head/neck vessel
+90089	Inj head/neck vessel NEC
+9009	Inj head/neck vessel NOS
+9010	Injury thoracic aorta
+9011	Inj innomin/subclav art
+9012	Inj superior vena cava
+9013	Inj innomin/subclav vein
+90140	Inj pulmonary vessel NOS
+90141	Injury pulmonary artery
+90142	Injury pulmonary vein
+90181	Inj intercostal art/vein
+90182	Inj int mammary art/vein
+9019	Inj thoracic vessel NOS
+9020	Injury abdominal aorta
+90210	Inj infer vena cava NOS
+90220	Inj celiac/mesen art NOS
+90221	Injury gastric artery
+90222	Injury hepatic artery
+90223	Injury splenic artery
+9604	Poisoning-tetracycline
+9605	Pois-cephalosporin group
+9610	Poisoning-sulfonamides
+9614	Poisoning-antimalarials
+9617	Poisoning-antiviral drug
+9618	Pois-antimycobac drg NEC
+9619	Pois-anti-infect NEC/NOS
+9623	Poison-insulin/antidiab
+9627	Poisoning-thyroid/deriv
+9630	Pois-antiallrg/antiemet
+9631	Pois-antineopl/immunosup
+9635	Poisoning-vitamins NEC
+9170	Abrasion foot & toe
+9171	Abrasion foot/toe-infec
+9172	Blister foot & toe
+9173	Blister foot & toe-infec
+96979	Poison by psychostim NEC
+9698	Poison-psychotropic NEC
+E8415	Oth powered aircraft acc
+E848	Oth vehicle acc NEC
+E8490	Accident in home
+E8493	Acc on industr premises
+E8494	Accid in recreation area
+E9051	Venomous spider bite
+E9053	Hornet/wasp/bee sting
+E9060	Dog bite
+9596	Hip & thigh injury NOS
+9597	Lower leg injury NOS
+9598	Injury mlt site/site NEC
+9599	Injury-site NOS
+9600	Poisoning-penicillins
+E8341	W/craft fall NEC-power
+E8343	Wtrcraft fall NEC-pasngr
+E8348	W/crft fall NEC-pers NEC
+E8353	Wtrcraft fall NOS-pasngr
+E8381	Watercraft acc NEC-power
+E8384	Watercraft acc NEC-skier
+E8797	Abn react-blood sampling
+E8798	Abn react-procedure NEC
+E8799	Abn react-procedure NOS
+E8800	Fall on escalator
+E8801	Fall on sidewalk curb
+E8809	Fall on stair/step NEC
+E8810	Fall from ladder
+90253	Injury iliac artery
+90254	Injury iliac vein
+90287	Inj mult abd/pelv vessel
+90289	Inj abdominal vessel NEC
+9029	Inj abdominal vessel NOS
+90301	Injury axillary artery
+9031	Injury brachial vessels
+9032	Injury radial vessels
+9033	Injury ulnar vessels
+9034	Injury palmar artery
+9035	Injury finger vessels
+9038	Injury arm vessels NEC
+9039	Injury arm vessel NOS
+9040	Inj common femoral arter
+9041	Inj superfic femoral art
+9042	Injury femoral vein
+9043	Injury saphenous vein
+90441	Injury popliteal artery
+90442	Injury popliteal vein
+90450	Injury tibial vessel NOS
+90451	Inj anter tibial artery
+90453	Inj post tibial artery
+9046	Inj deep plantar vessel
+9047	Injury leg vessels NEC
+9048	Injury leg vessel NOS
+9050	Late effec skull/face fx
+96500	Poisoning-opium NOS
+96501	Poisoning-heroin
+96502	Poisoning-methadone
+96509	Poisoning-opiates NEC
+9651	Poisoning-salicylates
+9654	Pois-arom analgesics NEC
+96561	Pois-propionic acid derv
+96569	Poison-antirheumatic NEC
+9658	Pois-analges/antipyr NEC
+9661	Poison-hydantoin derivat
+9663	Pois-anticonvul NEC/NOS
+9664	Pois-anti-parkinson drug
+9670	Poisoning-barbiturates
+9671	Poisoning-chloral hydrat
+9678	Pois-sedative/hypnot NEC
+9679	Pois-sedative/hypnot NOS
+9680	Pois-cns muscle depress
+9683	Poison-intraven anesthet
+9684	Pois-gen anesth NEC/NOS
+9685	Surfce-topic/infilt anes
+96901	Pois monoamine oxidase
+96903	Pois serotinin reuptake
+92321	Contusion of wrist
+9233	Contusion of finger
+9238	Multiple contusion arm
+92400	Contusion of thigh
+92401	Contusion of hip
+92410	Contusion of lower leg
+92411	Contusion of knee
+92420	Contusion of foot
+92421	Contusion of ankle
+9243	Contusion of toe
+9245	Contusion leg NOS
+9248	Multiple contusions NEC
+9249	Contusion NOS
+9251	Crush inj face scalp
+9252	Crush inj neck
+9260	Crush inj ext genitalia
+9701	Poison-opiate antagonist
+97081	Poisoning by cocaine
+9710	Pois-parasympathomimetic
+E8500	Acc poison-heroin
+E8501	Acc poison-methadone
+E8502	Acc poison-opiates NEC
+E8503	Acc poison-salicylates
+E8504	Acc poison-arom analgesc
+E8508	Acc poison-analgesic NEC
+E851	Acc poison-barbiturates
+E8528	Acc poison-sedatives NEC
+E8529	Acc poison-sedatives NOS
+E8532	Acc poisn-benzdiaz tranq
+E8538	Acc poisn-tranquilzr NEC
+E8540	Acc poison-antidepressnt
+E8541	Acc poison-hallucinogens
+E8542	Acc poisn-psychstimulant
+E8543	Acc poison-cns stimulant
+E8548	Acc poisn psychotrop NEC
+E8550	Acc poisn-anticonvulsant
+E8551	Acc poisn-cns depres NEC
+E8552	Acc poisn-local anesthet
+E8554	Acc poisn-anticholinerg
+E8555	Acc poison-adrenergics
+E8556	Acc poisn-sympatholytics
+E856	Acc poison-antibiotics
+E857	Acc pois-oth anti-infect
+E8580	Acc poison-hormones
+E8581	Acc poisn-systemic agent
+E8582	Acc poison-blood agent
+E8583	Acc poisn-cardiovasc agt
+E8584	Acc poison-gi agent
+E8585	Acc poisn-metabol agnt
+E8586	Acc poisn-muscl/resp agt
+E8587	Acc poisn-skin/eent agnt
+E8588	Acc poisoning-drug NEC
+E8589	Acc poisoning-drug NOS
+E8600	Acc poisn-alcohol bevrag
+E8603	Acc poisn-isopropyl alc
+99667	React-oth int ortho dev
+99668	React-periton dialy cath
+99669	React-int pros devic NEC
+99670	Comp-unsp device/graft
+99671	Comp-heart valve prosth
+99672	Comp-oth cardiac device
+99673	Comp-ren dialys dev/grft
+99674	Comp-oth vasc dev/graft
+99675	Comp-nerv sys dev/graft
+E8735	Wrng temp in applic/pack
+E8740	Instrmnt fail in surgery
+E8742	Instrmnt fail-perfus NEC
+E8744	Instrmnt fail-catheteriz
+E8748	Instrmnt fail-proced NEC
+E8761	Wrong fluid in infusion
+E8762	Failure in suture
+E8764	Fail introd/remove tube
+E8767	Rt proc-wrong side/part
+E8768	Medical misadventure NEC
+E8769	Medical misadventure NOS
+E8780	Abn react-org transplant
+E8781	Abn react-artif implant
+E8782	Abn react-anastom/graft
+E8783	Abn react-external stoma
+E8784	Abn react-plast surg NEC
+E8785	Abn react-limb amputat
+E8786	Abn reac-organ rem NEC
+E8788	Abn react-surg proc NEC
+E8789	Abn react-surg proc NOS
+E8790	Abn react-cardiac cath
+E8791	Abn react-renal dialysis
+E8792	Abn react-radiotherapy
+E8793	Abn react-shock therapy
+E8794	Abn react-fluid aspirat
+99982	Extravasn vesicant NEC
+99984	Acute HTR NOS
+V8401	Genetc sus mal neo brest
+V8409	Genetic susc mal neo NEC
+V8489	Genetic suscept dis NEC
+V850	BMI less than 19,adult
+V851	BMI between 19-24,adult
+V8521	BMI 25.0-25.9,adult
+V8522	BMI 26.0-26.9,adult
+V8523	BMI 27.0-27.9,adult
+V8524	BMI 28.0-28.9,adult
+V8525	BMI 29.0-29.9,adult
+V8530	BMI 30.0-30.9,adult
+V8531	BMI 31.0-31.9,adult
+V8532	BMI 32.0-32.9,adult
+V8533	BMI 33.0-33.9,adult
+V8534	BMI 34.0-34.9,adult
+V8535	BMI 35.0-35.9,adult
+V8536	BMI 36.0-36.9,adult
+V8537	BMI 37.0-37.9,adult
+V8538	BMI 38.0-38.9,adult
+V8539	BMI 39.0-39.9,adult
+V8541	BMI 40.0-44.9, adult
+V8542	BMI 45.0-49.9, adult
+V8543	BMI 50.0-59.9, adult
+V8544	BMI 60.0-69.9, adult
+V8545	BMI 70 and over, adult
+V860	Estrogen recep pstv stat
+V861	Estrogen recep neg stat
+V8709	Cntct/exp hazrd metl NEC
+V872	Cont/exp hazard chem NEC
+86384	Pancreas injury NOS-clos
+86389	GI injury NEC-closed
+86393	Pancreas, tail inj-open
+86394	Pancreas injury NOS-open
+86399	GI injury NEC-open
+86400	Liver injury NOS-closed
+86401	Liver hematoma/contusion
+86402	Liver laceration, minor
+86403	Liver laceration, mod
+86404	Liver laceration, major
+86405	Liver lacerat unspcf cls
+86409	Liver injury NEC-closed
+94203	Burn NOS abdominal wall
+94204	Burn NOS back
+94209	Burn NOS trunk NEC
+94214	1st deg burn back
+94224	2nd deg burn back
+78904	Abdmnal pain lt lwr quad
+78905	Abdmnal pain periumbilic
+78906	Abdmnal pain epigastric
+78907	Abdmnal pain generalized
+V714	Observ-accident NEC
+V716	Observ-inflicted inj NEC
+V7281	Preop cardiovsclr exam
+85109	Cortex contus-concus NOS
+85121	Cortex lacerat w/o coma
+85125	Cortex lacerat-deep coma
+85131	Opn cortex lacer-no coma
+85135	Opn cortex lac-deep coma
+85140	Cerebel/brain stm contus
+85141	Cerebell contus w/o coma
+85142	Cerebell contus-brf coma
+85144	Cerebel contus-prol coma
+85145	Cerebel contus-deep coma
+85146	Cerebell contus-coma NOS
+85150	Cerebel contus w opn wnd
+71966	Joint symptom NEC-l/leg
+7197	Difficulty in walking
+71985	Joint dis NEC-pelvis
+71986	Joint dis NEC-l/leg
+E976	Legal intervention NOS
+E977	Late eff-legal intervent
+E9800	Undeterm pois-analgesics
+E9801	Undeterm pois-barbiturat
+E9803	Undeterm pois-psychotrop
+E9804	Undet pois-med agnt NEC
+E9805	Undet pois-med agnt NOS
+E9809	Undeter pois-sol/liq NEC
+E9821	Undetermin poison-co NEC
+E9850	Undetermin circ-handgun
+E9854	Undeter circ-firearm NEC
+E986	Undet circ-cut instrumnt
+E9871	Undet fall structure NEC
+E9881	Undeterm circ-burn, fire
+87321	Open wound nasal septum
+87322	Open wound nasal cavity
+87323	Open wound nasal sinus
+87330	Open wnd nose NOS-compl
+87333	Open wnd nas sinus-compl
+87340	Open wound of face NOS
+87341	Open wound of cheek
+87342	Open wound of forehead
+87343	Open wound of lip
+87344	Open wound of jaw
+87349	Open wound of face NEC
+87350	Open wnd face NOS-compl
+87351	Open wound cheek-compl
+87352	Open wnd forehead-compl
+87353	Open wound lip-complicat
+87354	Open wound jaw-complicat
+87359	Open wnd face NEC-compl
+87360	Open wound of mouth NOS
+87361	Open wound buccal mucosa
+87363	Broken tooth-uncomplic
+87364	Opn wnd tongue/mouth flr
+87365	Open wound of palate
+87371	Opn wnd buc mucosa-compl
+87373	Broken tooth-complicated
+87374	Open wound tongue-compl
+8738	Open wound of head NEC
+8739	Open wnd head NEC-compl
+87402	Open wound of trachea
+87411	Open wound larynx-compl
+87412	Open wound trachea-compl
+8742	Open wound thyroid gland
+8744	Open wound of pharynx
+8745	Open wound pharynx-compl
+8748	Open wound of neck NEC
+8749	Opn wound neck NEC-compl
+8750	Open wound of chest
+8751	Open wound chest-compl
+8760	Open wound of back
+8761	Open wound back-compl
+8770	Open wound of buttock
+94504	Burn NOS lower leg
+94519	1st deg burn leg-mult
+94522	2nd deg burn foot
+94524	2nd deg burn lower leg
+94532	3rd deg burn foot
+94534	3rd deg burn low leg
+94536	3rd deg burn thigh
+E8163	Loss control mv-mcyc psg
+E8169	Loss control mv-pers NOS
+E8170	Mv acc board/alight-driv
+E8171	Mv acc board/alight-psgr
+E8178	Mv board/alight-pers NEC
+E8180	Mv traff acc NEC-driver
+E8181	Mv traff acc NEC-pasngr
+E8182	Mv traff acc NEC-mocycl
+E8187	Mv traff acc NEC-pedest
+E8188	Mv traff acc-pers NEC
+E8189	Mv traff acc-pers NOS
+E8190	Traffic acc NOS-driver
+E8191	Traffic acc NOS-pasngr
+E8192	Traffic acc NOS-motcycl
+E8193	Traff acc NOS-mcycl psgr
+E8196	Traffic acc NOS-ped cycl
+E8197	Traffic acc NOS-pedest
+E8199	Traffic acc NOS-pers NOS
+E8200	Snow veh acc-driver
+E8210	Oth off-road mv acc-driv
+E8211	Oth off-road mv acc-psgr
+E8212	Oth off-road mv-mocycl
+E9888	Undetermin circumst NEC
+E9889	Undetermin circumst NOS
+E989	Late eff inj-undet circ
+V741	Screening-pulmonary TB

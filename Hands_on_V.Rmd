@@ -1,0 +1,65 @@
+---
+title: "Hands_on_sessions_10"
+author: "Janet Piñero (janet.pinero@upf.edu)"
+date: "Last update: `r format(Sys.time(), '%d %B, %Y')`"      
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Exercise 1
+
+You will download a subset of [MIMIC III](https://www.nature.com/articles/sdata201635) data from the campus global. The data contains only the hospital admission data. The only preprocessing that has been done is changing the column names and removing the information for  ~ 8,000 neonates admitted between 2001 and 2008 that had no further information. 
+```{r}
+library(data.table)
+codes <- fread("data/allDiseaseCodes.txt", quote = "")
+
+```
+
+
+# EDA
+
+Perform an EDA for the data. 
+Some guide questions for the EDA are:
+
+What are the most prevalent diseases? Are they different is data is stratified by gender? 
+What are the most prevalent diseases when aggregating codes to the level of chapters?
+## top diseases in the dataset
+
+### top diseases by gender
+
+# Comorbidities of Obesity
+
+What are the diseases that co-occur with obesity?   
+Hint: use the field “Description” in the codes file to retrieve the ICD 9 codes containing the string “obesity”  
+```{r}
+subset(codes, grepl("obesity", tolower(Description)))
+
+```
+
+Alternatively, use the corresponding ICD 9 code. Important note: for these data, the dot of the ICD-9 code has been removed 
+
+## Comorbidities of Obesity stratified by gender
+
+Are the same comorbidities occurring in men and in women ?  
+
+
+Present the results in a publication-like manner: appropriately use tables and/or different types of plots
+Are there any of the comorbidities supported by the literature? Do they have common genetic basis?
+
+
+```{r}
+
+```
+
+# session info {.unnumbered}
+
+```{r, results='asis',  echo=FALSE, message=FALSE }
+sessionInfo()
+```
