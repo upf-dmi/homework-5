@@ -1,5 +1,5 @@
 ---
-title: "Hands_on_sessions_10"
+title: "Hands_on_sessions_EHR"
 author: "Janet Piñero (janet.pinero@upf.edu)"
 date: "Last update: `r format(Sys.time(), '%d %B, %Y')`"      
 output:
@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Exercise 1
 
-You will download a subset of [MIMIC III](https://www.nature.com/articles/sdata201635) data from the campus global. The data contains only the hospital admission data. The only preprocessing that has been done is changing the column names and removing the information for  ~ 8,000 neonates admitted between 2001 and 2008 that had no further information. 
+You will download a subset of EHR data from the campus global. The data contains only the hospital admission data, patient information and diagnosis data. 
+
 ```{r}
-install.packages("data.table")
 library(data.table)
 codes <- fread("data/allDiseaseCodes.txt", quote = "")
 
@@ -40,7 +40,7 @@ What are the most prevalent diseases when aggregating codes to the level of chap
 What are the diseases that co-occur with obesity?   
 Hint: use the field “Description” in the codes file to retrieve the ICD 9 codes containing the string “obesity”  
 ```{r}
-subset(codes, grepl("obesity", tolower(Description)))
+codes[grepl("obesity", long_title, ignore.case = T)]
 
 ```
 
